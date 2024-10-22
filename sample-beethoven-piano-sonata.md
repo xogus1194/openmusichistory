@@ -1,3 +1,3 @@
 # Beethoven
 ## Piano Sonata
-Beethoven is an important composer.
+Beethoven is an important composer from the 18th century, but his music is not included in the history textbook.
