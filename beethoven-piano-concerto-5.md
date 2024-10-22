@@ -16,3 +16,5 @@ Another important thing about this piano concerto other than the cadenza is the 
 (insert pdf)
 
 Although C.P.E Bach, J.C. Bach, Haydn, and Mozart have experimented with this composition technique of piano accompanying the orchestra, they still emphasize the piano part as the soloist. It is Beethoven who really used this technique in his composition, especially his fifth piano concerto, this would also influence later composers, such as Chopin, Brahms, Grieg, and Rachmaninoff.
+
+hi.
