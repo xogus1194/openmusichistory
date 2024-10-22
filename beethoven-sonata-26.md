@@ -1,0 +1,3 @@
+# Beethoven
+## Piano Sonata No. 26 "Das Lebewohl"
+Beethoven’s Piano Sonata No. 26, “Das Lebewohl,” is a piece I studied and performed, playing the third movement in high school and the entire sonata in college. Initially, I was drawn to the piece because of the beautiful and impressive introduction in the first movement. As I learned more about the background of the work, I was able to understand the music on a deeper level, which I found very rewarding. I chose this piece because I believe understanding the emotions of farewell and reunion that Beethoven expresses enhances the listening experience.
