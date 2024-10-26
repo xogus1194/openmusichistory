@@ -1,9 +1,8 @@
-# Guatav Mahler
+# Gustav Mahler
 ![Alt text](https://github.com/user-attachments/assets/7d53f50e-c8c2-476d-8c11-f7301c55dca2)
-## Symphony no.1 D Major (Titan)
 
 #### Gustav Mahler was an Austrian composer and conductor from the Late Romantic period.
-His family was poor, Mahler showed great musical talent as a child. At age 13, studied piano and composition at the Vienna Conservatory.
+His family was poor, Mahler showed great musical talent as a child. At age 13, he studied piano and composition at the Vienna Conservatory.
 Before he became known as a composer, he was famous as an opera conductor, leading several opera teater.
 But for him, composing was always more important than conducting. Even during his summer vacation, he worked hard to finish his symphonies.
 
@@ -14,6 +13,7 @@ I think the sadness Mahler felt from losing his brothers, parents, and daughter,
 
 ___
 
+## Symphony no.1 D Major (Titan)
 ### 1st mov. [Langsam, Schleppend]
 The first movement starts quietly and mysteriously. It gives a feeling that the world is gradually brightening and nature is awakening.
 The main melody also appears in his song 'Lieder eines fahrenden Gesellen' and the lyrics show his love for nature.
