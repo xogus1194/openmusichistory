@@ -5,3 +5,4 @@ Wolfgang Amadeus Mozart (1756–1791) is one of the most important and influenti
 His significance extends across various aspects of music, including innovation, technical mastery, emotional depth, and his lasting influence on future composers and musical traditions. 
 
 <img src="mozart symphony no. 41.png">
+<img src="mozart.png">
