@@ -4,6 +4,6 @@ Ferruccio Busoni (1866–1924) was a multifaceted Italian artist—composer, pia
 ## Piano Sonata in F minor, BV 204
 Dedicated to Anton Rubinstein (1829–1894), the Piano Sonata in F minor was written in 1883 and premiered in 1884, but it was not published until 1983. It consists of three movements:
 
-I. Allegro risoluto vivace ed energico
-II. Andante con moto
+I. Allegro risoluto vivace ed energico\
+II. Andante con moto\
 III. Nella guisa d'un'improvvisazione - Allegro fugato
