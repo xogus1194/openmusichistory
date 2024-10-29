@@ -32,7 +32,7 @@ Using the double bass as a melodic instrument, something rare in earlier periods
 
 
 
-This is the main melody of 3rd movment.   
+This is the main melody of 3rd movement.   
 
 ![Alt text](https://github.com/user-attachments/assets/421bfc0a-8bd7-47e1-a1c5-6dc63e99e650)
 
