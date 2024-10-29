@@ -6,7 +6,7 @@
 
 
 ### Ludwig van Beethoven (1770-1827)
-<img src="beethoven.png" width="500" height="600">
+<img src="beethoven26.png" width="500" height="600">
 
 ***Ludwig van Beethoven (1770-1827)*** was a German composer and pianist, known as a pivotal figure in the transition between the Classical and Romantic eras of music history. Born in Bonn, Beethoven inherited the traditions of Mozart and Haydn, advancing Classical forms while creating his own distinctive musical voice that paved the way for Romanticism. Initially influenced by Haydn and Mozart, Beethoven gradually established his own style with bold and intense expression. His works are known for their innovative forms and deep emotions, influencing both his contemporaries and subsequent generations of composers. Beethoven’s life was marked by the challenge of losing his hearing, a condition that became noticeable in his mid-30s. Remarkably, even as his hearing deteriorated, he composed some of his greatest works during this period. His compositions span many genres, including symphonies, piano sonatas, and string quartets. Notably, his Symphony No. 9 is hailed as a masterpiece that celebrates humanity and peace. He is remembered as a composer who used music to explore the human condition, express ideals of freedom, and engage with the social and political issues of his time.
 
