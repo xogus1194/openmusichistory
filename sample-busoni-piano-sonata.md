@@ -7,3 +7,5 @@ Dedicated to Anton Rubinstein (1829–1894), the Piano Sonata in F minor was wri
 I. Allegro risoluto vivace ed energico\
 II. Andante con moto\
 III. Nella guisa d'un'improvvisazione - Allegro fugato
+
+### Listening Guide
