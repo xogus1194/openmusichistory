@@ -28,8 +28,5 @@ This work is composed for a chamber ensemble, creating a unique instrumental com
 <img src="Pierrot Score.png">
  
 ---
-## Pierro Lunaire's importance
- Arnold Schoenberg was an Austrian composer who had a profound influence on 20th-century modern music. He is renowned for pioneering atonality and developing the twelve-tone technique (dodecaphony), reaking away from traditional tonal music to explore new musical structures.
-
-
-
+## Pierro Lunaire & Schoenberg's importance
+ He is an influential figure in 20th-century modern music, often referred to as the Second Viennese School. As seen in his works, he explored new music through concepts such as “atonality” and the “twelve-tone technique.” Compared to Debussy, he is a pioneer of Expressionism and avant-garde music. This approach later influenced Berg’s serialism.
