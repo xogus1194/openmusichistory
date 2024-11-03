@@ -17,14 +17,30 @@ ___
 
 # Symphony no.1 D Major (Titan)
 ## 1st mov. [Langsam, Schleppend]
-The first movement starts quietly and mysteriously. It gives a feeling that the world is gradually brightening and nature is awakening.   
+![Alt text](https://github.com/user-attachments/assets/564e7eba-334d-4b1a-aaaf-6150af23f269)
 
-The main melody also appears in his song 'Lieder eines fahrenden Gesellen' and the lyrics show his love for nature.
+The first movement starts quietly and mysteriously.   
+
+On the first page of the score, all the strings express a sense of calm. In a world that has not yet awakened, the wind instruments gradually join in, as if preparing to wake up.   
+
+It gives a feeling that the world is gradually brightening and nature is awakening.   
+
+The main melody of the first movement also appears in his song 'Lieder eines fahrenden Gesellen'.   
+
+The lyrics show his love for nature. The clarinet, imitating birdsong, and the distant horn sounds express how Mahler experienced nature through music.
 
 ## 2nd mov. [Kräftig bewegt, doch nicht zu schnell]
 
+It was composed in the form of the Austrian folk dance, the Ländler.   
+
+Although it is a scherzo, this movement gives the impression of country farmers dancing.   
+
+The repeating rhythms, mainly played by the strings and woodwinds, are a key feature.   
+
+The second movement is the most lively and joyful part of Mahler's Symphony No. 1, moving away from the lyrical depiction of nature in the first movement to express a more energetic and dynamic emotion.
+
 ## 3rd mov. [Feierlich und gemessen, ohne zu schleppen]
-In the third movement, Mahler arranged the French folk song Frère Jacques in a minor key as a funeral march.   
+In the third movement, Mahler arranged the French folk song 'Frère Jacques' in a minor key as a funeral march.   
 
 It gives a heavy and sorrowful feeling, with an intention to express death and loneliness.   
 
