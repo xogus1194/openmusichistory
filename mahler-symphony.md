@@ -52,6 +52,14 @@ This is the main melody of 3rd movement.
 
 ![Alt text](https://github.com/user-attachments/assets/421bfc0a-8bd7-47e1-a1c5-6dc63e99e650)
 
+After the lively ending of the second movement, the double bass has a lot of pressure, even though the melody itself is simple.   
 
+Speaking as a double bass player, the melody is composed with notes that jump between low and high positions, making it very challenging to play precisely.   
+
+However, I think there is no instrument more suitable than the double bass to express the funeral march at the beginning of the third movement.   
+
+After this melody, the waltz-like music played by the woodwinds that follows evokes an otherworldly fantasy or a ballroom scene.
+
+Then, the initial funeral march theme returns, maintaining a solemn and dark atmosphere.
 
 ## 4th mov. [Stürmisch bewegt]
