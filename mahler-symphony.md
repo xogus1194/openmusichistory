@@ -73,7 +73,8 @@ This is the most complex movement of the Symphony No. 1, where the hell theme fr
 
 This part features the hell theme quoted from the Dante Symphony.   
 
-![Alt text](https://github.com/user-attachments/assets/2aa16b82-d099-48f3-9865-3483d4899a9d)
+![Alt text](https://github.com/user-attachments/assets/32192e9a-f235-43b7-8774-4e5d4a4f5d1c)
+
 
 The descending intervals create an effect that feels like falling into an endless hell.   
 
