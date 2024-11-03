@@ -19,7 +19,7 @@ ___
 ## 1st mov. [Langsam, Schleppend]
 ![Alt text](https://github.com/user-attachments/assets/564e7eba-334d-4b1a-aaaf-6150af23f269)
 
-The first movement starts quietly and mysteriously.   
+#### The first movement starts quietly and mysteriously.   
 
 On the first page of the score, all the strings express a sense of calm. In a world that has not yet awakened, the wind instruments gradually join in, as if preparing to wake up.   
 
@@ -31,7 +31,7 @@ The lyrics show his love for nature. The clarinet, imitating birdsong, and the d
 
 ## 2nd mov. [Kräftig bewegt, doch nicht zu schnell]
 
-It was composed in the form of the Austrian folk dance, the Ländler.   
+#### It was composed in the form of the Austrian folk dance, the Ländler.   
 
 Although it is a scherzo, this movement gives the impression of country farmers dancing.   
 
@@ -40,7 +40,8 @@ The repeating rhythms, mainly played by the strings and woodwinds, are a key fea
 The second movement is the most lively and joyful part of Mahler's Symphony No. 1, moving away from the lyrical depiction of nature in the first movement to express a more energetic and dynamic emotion.
 
 ## 3rd mov. [Feierlich und gemessen, ohne zu schleppen]
-In the third movement, Mahler arranged the French folk song 'Frère Jacques' in a minor key as a funeral march.   
+
+#### In the third movement, Mahler arranged the French folk song 'Frère Jacques' in a minor key as a funeral march.   
 
 It gives a heavy and sorrowful feeling, with an intention to express death and loneliness.   
 
@@ -64,8 +65,10 @@ Then, the initial funeral march theme returns, maintaining a solemn and dark atm
 
 ## 4th mov. [Stürmisch bewegt]
 
-It begins immediately after the third movement.   
+#### It begins immediately after the third movement.   
+
 The strong introduction with cymbals, various percussion instruments, and the orchestra represents hell.   
+
 This is the most complex movement of the Symphony No. 1, where the hell theme from Liszt's Dante Symphony is quoted, along with the heavenly chorale derived from Wagner's Parsifal, which intertwine with each other.   
 
 This part features the hell theme quoted from the Dante Symphony.   
