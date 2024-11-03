@@ -63,3 +63,19 @@ After this melody, the waltz-like music played by the woodwinds that follows evo
 Then, the initial funeral march theme returns, maintaining a solemn and dark atmosphere.
 
 ## 4th mov. [Stürmisch bewegt]
+
+It begins immediately after the third movement.   
+The strong introduction with cymbals, various percussion instruments, and the orchestra represents hell.   
+This is the most complex movement of the Symphony No. 1, where the hell theme from Liszt's Dante Symphony is quoted, along with the heavenly chorale derived from Wagner's Parsifal, which intertwine with each other.   
+
+This part features the hell theme quoted from the Dante Symphony.   
+
+![Alt text](https://github.com/user-attachments/assets/2aa16b82-d099-48f3-9865-3483d4899a9d)
+
+The descending intervals create an effect that feels like falling into an endless hell.   
+
+As it transitions from heading towards hell to ultimately triumphing and moving towards heaven, I felt more overwhelming emotions than in any other piece.   
+
+It is a demanding movement, and the last part of the fourth movement is played three forte, making it touch both the performers and the audience deeply, requiring all of their strength.   
+
+I believe this movement best captures Mahler's intent to express themes of love and suffering, as well as life and death.
