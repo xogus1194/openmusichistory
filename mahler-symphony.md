@@ -17,14 +17,69 @@ ___
 
 # Symphony no.1 D Major (Titan)
 ## 1st mov. [Langsam, Schleppend]
-The first movement starts quietly and mysteriously. It gives a feeling that the world is gradually brightening and nature is awakening.   
+![Alt text](https://github.com/user-attachments/assets/564e7eba-334d-4b1a-aaaf-6150af23f269)
 
-The main melody also appears in his song 'Lieder eines fahrenden Gesellen' and the lyrics show his love for nature.
+#### The first movement starts quietly and mysteriously.   
+
+On the first page of the score, all the strings express a sense of calm. In a world that has not yet awakened, the wind instruments gradually join in, as if preparing to wake up.   
+
+It gives a feeling that the world is gradually brightening and nature is awakening.   
+
+The main melody of the first movement also appears in his song 'Lieder eines fahrenden Gesellen'.   
+
+The lyrics show his love for nature. The clarinet, imitating birdsong, and the distant horn sounds express how Mahler experienced nature through music.
 
 ## 2nd mov. [Kräftig bewegt, doch nicht zu schnell]
 
-## 3rd mov. [Feierlich und gemessen, ohne zu schleppen]
-In the third movement, Mahler arranged the French folk song Frère Jacques in a minor key as a funeral march.   
+#### It was composed in the form of the Austrian folk dance, the Ländler.   
 
+Although it is a scherzo, this movement gives the impression of country farmers dancing.   
+
+The repeating rhythms, mainly played by the strings and woodwinds, are a key feature.   
+
+The second movement is the most lively and joyful part of Mahler's Symphony No. 1, moving away from the lyrical depiction of nature in the first movement to express a more energetic and dynamic emotion.
+
+## 3rd mov. [Feierlich und gemessen, ohne zu schleppen]
+
+#### In the third movement, Mahler arranged the French folk song 'Frère Jacques' in a minor key as a funeral march.   
+
+It gives a heavy and sorrowful feeling, with an intention to express death and loneliness.   
+
+Using the double bass as a melodic instrument, something rare in earlier periods, reveals Mahler's experimental character.   
+
+
+
+This is the main melody of 3rd movement.   
+
+![Alt text](https://github.com/user-attachments/assets/421bfc0a-8bd7-47e1-a1c5-6dc63e99e650)
+
+After the lively ending of the second movement, the double bass has a lot of pressure, even though the melody itself is simple.   
+
+Speaking as a double bass player, the melody is composed with notes that jump between low and high positions, making it very challenging to play precisely.   
+
+However, I think there is no instrument more suitable than the double bass to express the funeral march at the beginning of the third movement.   
+
+After this melody, the waltz-like music played by the woodwinds that follows evokes an otherworldly fantasy or a ballroom scene.
+
+Then, the initial funeral march theme returns, maintaining a solemn and dark atmosphere.
 
 ## 4th mov. [Stürmisch bewegt]
+
+#### It begins immediately after the third movement.   
+
+The strong introduction with cymbals, various percussion instruments, and the orchestra represents hell.   
+
+This is the most complex movement of the Symphony No. 1, where the hell theme from Liszt's Dante Symphony is quoted, along with the heavenly chorale derived from Wagner's Parsifal, which intertwine with each other.   
+
+This part features the hell theme quoted from the Dante Symphony.   
+
+![Alt text](https://github.com/user-attachments/assets/32192e9a-f235-43b7-8774-4e5d4a4f5d1c)
+
+
+The descending intervals create an effect that feels like falling into an endless hell.   
+
+As it transitions from heading towards hell to ultimately triumphing and moving towards heaven, I felt more overwhelming emotions than in any other piece.   
+
+It is a demanding movement, and the last part of the fourth movement is played three forte, making it touch both the performers and the audience deeply, requiring all of their strength.   
+
+I believe this movement best captures Mahler's intent to express themes of love and suffering, as well as life and death.
