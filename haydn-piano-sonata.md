@@ -26,3 +26,23 @@ Harmonic Language: Haydn's harmonic language is inventive, with unexpected modul
 Expression: Performers are encouraged to emphasize the contrasts between the themes and to bring out the playful elements. Dynamic variations and phrasing will enhance the movement's character.
 
 Overall, the first movement of Haydn's Piano Sonata in C Major is a vibrant and engaging work that showcases Haydn's mastery of form and melody, making it a delightful experience for both performers and audiences.
+
+# "Now that you know about Haydn's theory, let me give you some tips on how to actually play this piece."
+
+Sing and Talk: Encourage them to think of the right hand as singing a melody and the left hand as responding or playing harmony.
+Tip: “Imagine the right hand is a person telling a story, while the left hand is another person joining the conversation!”
+
+Dynamic Contrast: Teach them about dynamics.
+Tip: “Make the right hand a little louder so it stands out, just like when someone raises their voice to be heard in a chat!”
+
+Phrasing: Discuss how to shape musical phrases.
+Tip: “Play each phrase like you’re taking a breath—make it feel complete before moving on!”
+## Emotional Connection
+Feel the Music: Encourage them to think about how the music makes them feel.
+Tip: “When you play, think about whether the music sounds happy, excited, or thoughtful. Let those feelings show in your playing!”
+## Practice Ideas
+Slow Practice: Suggest practicing slowly to really hear each note and phrase.
+Hands Separately: Recommend playing the right hand and left hand separately at first to get comfortable with each part before putting them together.
+## Most important things!
+Have Fun!: Remind them that music is meant to be enjoyed. Encourage them to have fun while practicing and performing.
+Share the Music: Suggest they play the piece for family and friends to share their hard work and enjoy the moment.
