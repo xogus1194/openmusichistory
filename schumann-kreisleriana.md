@@ -4,6 +4,7 @@ Schumann is the most lyrical and emotionally expressive composer among those of 
 ## About Schumann
 Robert Schumann (1810-1856) was a German composer and music critic, representing one of the most iconic figures of Romantic music. 
 He is well-known for his delicate expressiveness and emotional compositions, particularly excelling in piano music, lieder songs, and symphonies.
+
 ![슈만 초상화](https://github.com/user-attachments/assets/c6aa4efc-e94c-4a37-8d17-4a45aa59bd71)
 
 The work by Schumann that I chose, *Kreisleriana*, is a piece composed based on a novel by Hoffmann.
@@ -18,5 +19,39 @@ Schumann was deeply fascinated by Hoffmann's literary world and incorporated it 
 One of Schumann's major works, **Kreisleriana**, was inspired by the character Johannes Kreisler, who appears in Hoffmann's novels.
 Kreisler is a strange yet brilliant musician, emotionally unstable and often caught up in unrealistic fantasies.
 Schumann used this character to express his own dual personality and inner conflicts.
-In his music, Schumann portrayed his two contrasting selves: the calm and reflective *Eusebius*, and the passionate and fiery *Florestan*.
+In his music, Schumann portrayed his two contrasting selves: the calm and reflective *Eusebius*, and the passionate and fiery *Florestan*.Through these contrasting personalities, Kreisleriana presents an unstable and dramatic panorama of emotions, mirroring Schumann’s own psychological depths.
+
 ![Schumann 악보-1](https://github.com/user-attachments/assets/019736ac-77b9-410d-b07e-64c2fcc736c0)
+
+## A brief description of each piece
+*1. Äußerst bewegt*
+
+The first piece opens with intensity and passion, featuring an urgent, restless rhythm. The recurring turbulent melody suggests an unstable psychological state, revealing Schumann’s bold “Florestan” character. It evokes a sense of inner turmoil and fervent desire, aligning with the unpredictable nature of Kreisler himself.
+
+*2. Sehr innig und nicht zu rasch*
+
+This piece contrasts sharply with the first, bringing a lyrical and calm atmosphere. With its soft, introspective melody, it represents Schumann’s sensitive “Eusebius” side, gently soothing the audience. The piece feels like a dream sequence, creating an emotional and meditative mood.
+
+*3. Sehr aufgeregt*
+
+Returning to a brisk tempo, the third piece begins with a tense and intense melody. The complex, overlapping rhythms between the left and right hands create a powerful momentum. This piece reveals Florestan’s passionate energy, bursting with drama and inner conflict.
+
+*4. Sehr langsam*
+
+A meditative character prevails in the fourth piece, where serene melodies and dreamlike harmonies guide listeners into a tranquil inner world. Dominated by a calm and introspective atmosphere, this movement captures Schumann’s deep sensitivity, symbolizing solitude and reflection.
+
+*5. Sehr lebhaft*
+
+The fifth piece brings vitality with an upbeat rhythm. The lively tempo and dance-like rhythms create a bright, cheerful atmosphere, characterized by short, repeated phrases. This movement highlights Florestan’s dynamic side, conveying the most joyful energy of the entire work.
+
+*6. Sehr langsam*
+
+The sixth piece maintains a somber tone with a slow, weighty tempo. Its calm yet dark melody evokes feelings of sadness and solitude from deep within. Strongly reflecting Eusebius's personality, this movement’s quiet, melancholy ambiance leaves a profound impression on the listener.
+
+*7. Sehr rasch*
+
+This piece expresses an emotional outburst with its unstable, turbulent melody. The vigorous rhythm and intricate passages underscore Florestan’s passionate temperament. A sense of urgency permeates the rapid tempo, creating a feeling of reaching a breaking point.
+
+*8. Schnell und spielend*
+
+The final piece begins with a gentle, calm atmosphere, with a lyrical melody flowing throughout. Its serene mood contrasts with the previous dramatic movements, as if reaching a place of rest after a long journey. This piece reflects harmony between Eusebius and Florestan, conveying Schumann’s psychological maturity and peace.
