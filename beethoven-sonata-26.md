@@ -25,3 +25,5 @@ Marked Vivacissimamente, the final movement bursts forth with jubilant energy, c
 Beethoven dedicated this sonata to Archduke Rudolph, whose patronage and friendship provided the composer with vital support. Beyond its historical context, the work embodies universal emotions of parting and reunion, translating personal experience into a profoundly moving musical narrative. As such, Das Lebewohl offers listeners a unique glimpse into Beethoven’s capacity to blend personal emotion with his innovative musical style, making it one of the most expressive and narrative-driven sonatas in the classical repertoire.
 
 <img src="das_lebewohl.png">
+
+comments : The textbook is really helpful.
