@@ -1,5 +1,5 @@
 # Chopin
-## Piano Sonata 
+## Piano Sonata [Which one?]
 <img src="chopin.png">
 Frédéric Chopin, one of the most revered composers for the piano, is known for his unparalleled ability to express profound emotions through the instrument. His Piano Sonata No. 2 in B-flat minor is a quintessential example of his lyrical genius, blending technical sophistication with deep emotional resonance.
 
@@ -13,5 +13,6 @@ Chopin's Piano Sonata No. 2 not only highlights his mastery of the piano, but al
 
 <img src="chopin_sonata.png">
 
+Comments: Can you explain about Chopin's style of sonata form?
 
 # I think it will be easier to read if you use bold text.
