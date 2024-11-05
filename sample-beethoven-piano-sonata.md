@@ -22,3 +22,5 @@ Moreover, there are no complex techniques such as Beethoven's characteristic sud
 Thus, due to the simple structure of the first movement, it is essential to truly feel and express the musical ideas above all else.
 Beethoven included the instruction **"sostenuto"** in this piece, meaning that the notes should be played as expressively as possible, allowing them to be sustained fully.
 Additionally, he added the comment in Italian: **"Si deve suonare tutto questo pezzo delicatissimamente e senza sordini,"** which means *"One must play this entire piece very delicately and without damper."*
+
+Comment: It would be nice if there was an explanation for other movements besides the first movement.
