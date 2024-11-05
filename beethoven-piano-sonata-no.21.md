@@ -1,16 +1,14 @@
 # L.v. Beethoven
 ## Piano Sonata No. 21 in C major, Op. 53, "Waldstein"
-Beethoven's Sonata "Waldstein" shows innovation and originality in the sonata form, making it suitable for discussing Beethoven's musical development. And the way he effectively communicates emotions through contrasting themes provides a rich discussion of musical interpretation. Because of these factors, "Waldstein" is a highly interesting and educational value for presentation topics.Also, it was my college entrance song and I've been studying this song for a long time, so I think it's perfect for selecting this work.
-
-
+## Ludwig van Beethoven (1770-1827)
 
 <img src="beethoven.png">
-
-## Ludwig van Beethoven (1770-1827)
 
 **Ludwig van Beethoven (1770–1827)** was a German composer and pianist, who was an important figure between classicism and romanticism. His music is known for its depth of emotion and innovative structures. 
 Beethoven composed nine symphonies, many piano sonatas, chamber music, and especially his fifth and ninth symphonies (choral symphonies) occupy very important positions in the history of music. He continued to work in art even when he was losing his hearing, establishing a creative style that pushed the limits of music. 
 Beethoven emphasizes the individual expressions of artists, and his music is still loved by many around the world.
+
+Beethoven's Sonata "Waldstein" shows innovation and originality in the sonata form, making it suitable for discussing Beethoven's musical development. And the way he effectively communicates emotions through contrasting themes provides a rich discussion of musical interpretation. Because of these factors, "Waldstein" is a highly interesting and educational value for presentation topics.Also, it was my college entrance song and I've been studying this song for a long time, so I think it's perfect for selecting this work.
 
 
 
