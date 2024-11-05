@@ -23,4 +23,7 @@ Thus, due to the simple structure of the first movement, it is essential to trul
 Beethoven included the instruction **"sostenuto"** in this piece, meaning that the notes should be played as expressively as possible, allowing them to be sustained fully.
 Additionally, he added the comment in Italian: **"Si deve suonare tutto questo pezzo delicatissimamente e senza sordini,"** which means *"One must play this entire piece very delicately and without damper."*
 
+
+Comment: It would be nice if there was an explanation for other movements besides the first movement.
+
 Comments: The portrait and the score are too big. Make them smaller? Also, the file name must be changed.
