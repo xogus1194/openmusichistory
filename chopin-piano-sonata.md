@@ -12,3 +12,5 @@ The first and final movements of the sonata, marked Grave and Finale, offer a ri
 Chopin's Piano Sonata No. 2 not only highlights his mastery of the piano, but also his ability to weave profound emotional expression into every note, making this work one of his most beloved and enduring compositions.
 
 <img src="chopin_sonata.png">
+
+Comment: It would be nice to use sub-headings to divide the paragraphs clearly.
