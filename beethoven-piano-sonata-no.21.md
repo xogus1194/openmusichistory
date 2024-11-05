@@ -6,7 +6,7 @@ Beethoven's Sonata "Waldstein" shows innovation and originality in the sonata fo
 
 <img src="beethoven.png">
 
-# About Ludwig van Beethoven 
+# About Ludwig van Beethoven (1770-1827)
 
 Ludwig van Beethoven (1770–1827) was a German composer and pianist, who was an important figure between classicism and romanticism. His music is known for its depth of emotion and innovative structures. 
 Beethoven composed nine symphonies, many piano sonatas, chamber music, and especially his fifth and ninth symphonies (choral symphonies) occupy very important positions in the history of music. He continued to work in art even when he was losing his hearing, establishing a creative style that pushed the limits of music. 
