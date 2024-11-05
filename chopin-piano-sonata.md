@@ -13,4 +13,8 @@ Chopin's Piano Sonata No. 2 not only highlights his mastery of the piano, but al
 
 <img src="chopin_sonata.png">
 
+Comments: It would be nice to use sub-headings to divide the paragraphs clearly.
+
 Comments: Can you explain about Chopin's style of sonata form?
+
+Comments: I think it will be easier to read if you use bold text.
