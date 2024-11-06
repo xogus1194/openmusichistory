@@ -5,6 +5,8 @@ Beethoven is one of the most influential composers in classical music. Although 
 
 Beethoven has set groundbreaking innovations in composing music. First, he broke the boundaries of classical era music that emphasizes clarity, lightness, and beauty, by composing darker, deeper, and sublime music. By doing this, he allowed his emotions and personal expressions to be in music. Second, he also explored new ways of playing music, such as making more virtuosic compositions that require more virtuosic and technical skill from performers. Third, he experimented with symphonic forms, leading him to compose his ninth symphony, the first-ever symphony not only performed by an orchestra but also by a choir. Therefore, it is not too much to say that Beethoven is the gate of romanticism, where he allowed later musicians to express their feelings in music and explore new harmonization and formation in composing music.
 
+[The sentences seem too long. It might be better to condense it to just introduce his major works.]
+
 ## Piano Concerto No. 5, Op. 73
 Beethoven’s Piano Concerto No. 5, Op.73 is one of the most popular works that he ever composed. This piece is composed between 1809 and 1811, in his middle period, where he went beyond classicism and started to explore his individual style of writing music –including writing with bolder tone, larger range of notes, and longer length of music– which would lead him to the romanticism. 
 
