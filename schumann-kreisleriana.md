@@ -69,3 +69,4 @@ More than just a piano work, Kreisleriana represents one of Schumann’s most pe
 
 
 ### Now, step into Schumann’s musical world through this remarkable work. Join us in exploring the beauty of Kreisleriana and immersing yourself in the complex emotions it holds. Why not experience the messages and sentiments Schumann sought to convey? 
+[This is a book. Will you provide a youtube link of a performance on kreisleriana or what will you do based on the last sentence you wrote?]
