@@ -45,3 +45,5 @@ Comments: Explain what he wanted to express for each instrument.
 ---
 ## Pierro Lunaire & Schoenberg's importance
 >He is an **influential figure** in 20th-century modern music, often associated with the Second Viennese School. His works explore new musical concepts, including “atonality” and the “twelve-tone technique.” Compared to Debussy, he is a pioneer of Expressionism and avant-garde music, an approach that later influenced Berg’s serialism.
+
+[Honestly, I'm confused with your style of writing. Can you make it more readable?]
