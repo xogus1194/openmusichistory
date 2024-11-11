@@ -38,3 +38,5 @@ The Jupiter Symphony stands as one of Mozart’s crowning achievements, represen
 
 
 wow~ what a nice text.
+
+***I think the 'a.mozart' on the top line can be removed. The full name written below seems better.***

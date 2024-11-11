@@ -49,3 +49,4 @@ This first movement of Haydn’s Piano Sonata in C Major is a perfect example of
 
 
 
+***It would be better if the smaller subtopics in each paragraph are changed to a smaller font so that the main topic stands out more.***
