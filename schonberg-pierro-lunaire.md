@@ -14,8 +14,8 @@
 </div>
 
 ### This piece has several notable features.
-Comments: It would be better to show this interesting features with the score and add what parts it is.
 
+Comments: It would be better to show this interesting features with the score and add what parts it is.
 
 	1. Atonality : Typically, music classified as “classical” or “popular” is tonal, meaning it adheres to 
  	a key center that emphasizes tonic and dominant relationships. However, Schoenberg avoided being confined
@@ -35,7 +35,9 @@ Comments: It would be better to show this interesting features with the score an
 	• Violin (including on viola)
 	• Cello
 	• Piano
+
 Comments: Explain what he wanted to express for each instrument.
+
 <div align="center">
 <img src="Pierrot Score.png" width="500px">
 </div>
