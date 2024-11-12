@@ -27,3 +27,6 @@ This is a graceful minuet with an elegant rhythm. The dance-like nature gives it
 
 #### 4. Molto allegro
 The final movement is the most famous part of the symphony, noted for its masterful use of counterpoint. Mozart introduces several themes that interweave in complex fugues, especially in the coda, where five themes are combined in a dazzling display of contrapuntal skill. This movement has an exhilarating, triumphant energy and is often considered one of Mozart's greatest achievements in orchestral music.
+
+
+<comments> what a nice text!
