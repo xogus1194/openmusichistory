@@ -15,6 +15,17 @@ Gustav Mahler's Symphony No. 1, often called the "Titan," is one of his most cel
 
 Comments: I think it would be better to explain Mahler's situation when Symphony No. 1 was composed. I love the detailed explanation of each movement!
 
+
+# Gustav Mahler's Timeline
+
+| Year | Event   | Description                                  | YouTube |
+| ---- | ------- | -------------------------------------------- | ------- |
+| 1860 | Birth   | Born on July 7, 1860 in Kalischt, Austria    |         |
+| 1875 | Study   | Start the study music at Vienna Conservatory |         |
+| 1888 | Compose | Composed the Mahler's Symphony no.1          | [Watch](https://youtu.be/4XbHLFkg_Mw?si=W8AQzkD3ie0Ekg10) :tv: |
+
+This Piece was directly influenced by Haydn's piano sonata , especially [Piano sonata](haydn-piano-sonata.md). (This is not true)
+
 # Symphony no.1 D Major (Titan)
 ## 1st mov. [Langsam, Schleppend]
 ![Alt text](https://github.com/user-attachments/assets/564e7eba-334d-4b1a-aaaf-6150af23f269)
