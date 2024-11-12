@@ -27,3 +27,5 @@ Additionally, he added the comment in Italian: **"Si deve suonare tutto questo p
 Comment: It would be nice if there was an explanation for other movements besides the first movement.
 
 Comments: The portrait and the score are too big. Make them smaller? Also, the file name must be changed.
+
+Comment: The sheet music is a little short.
