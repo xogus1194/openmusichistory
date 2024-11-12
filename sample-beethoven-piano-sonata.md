@@ -24,3 +24,4 @@ Beethoven included the instruction **"sostenuto"** in this piece, meaning that t
 Additionally, he added the comment in Italian: **"Si deve suonare tutto questo pezzo delicatissimamente e senza sordini,"** which means *"One must play this entire piece very delicately and without damper."*
 
 Comments: The portrait and the score are too big. Make them smaller? Also, the file name must be changed.
+Comments: It would be nice to take the sample out of the title.
