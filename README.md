@@ -12,30 +12,73 @@ The 20th century is represented through Schönberg’s Pierrot lunaire, a work t
 As we explore these compositions, we invite readers to experience the varied sounds and ideas that have defined Western music and to consider the ongoing impact of these works in both past and contemporary contexts. Through this shared journey, we continue to expand our understanding of music's history and its place in the larger cultural dialogue.
 
 # Table of Contents
+> By Composers
 
-## Ludwig van Beethoven
+### Ludwig van Beethoven
 - [Piano Concerto No. 5 in C minor, Op. 73](beethoven-piano-concerto-5.md) by [piopio1248](https://github.com/piopio1248)
 - [Piano Sonata No. 21 in C major, "Waldstein"](beethoven-piano-sonata-no.21.md) by [Middaa](https://github.com/Middaa)
 - [Piano Sonata No. 26 in E-flat major, Op. 81a, "Les Adieux"](beethoven-sonata-26.md) by [leeminji0110](https://github.com/leeminji0110)
 - [Which sonata?](sample-beethoven-piano-sonata.md) by [xogus1194](https://github.com/xogus1194)
 
-## Ferruccio Busoni (Sample)
+### Ferruccio Busoni (Sample)
 - [Piano Sonata in F minor, BV 204](sample-busoni-piano-sonata.md) by [kyeser](https://github.com/kyeser)
 
-## Frédéric Chopin
+### Frédéric Chopin
 - [Piano Sonata No. 2 in B-flat minor, Op. 35](chopin-piano-sonata.md) by [Yunseungju](https://github.com/Yunseungju)
 
-## Joseph Haydn
+### Joseph Haydn
 - [Keyboard Sonata in C major, Hob.XVI:50](haydn-piano-sonata.md) by [eunhwan00](https://github.com/eunhwan00)
 
-## Gustav Mahler
+### Gustav Mahler
 - [Symphony No. 1 in D major](mahler-symphony.md) by [Taegyun-Kim-Bassist](https://github.com/Taegyun-Kim-Bassist)
 
-## Wolfgang Amadeus Mozart
+### Wolfgang Amadeus Mozart
 - [Symphony No. 41 in C major, K. 551](mozart-symphony.md) by [hobin2788](https://github.com/hobin2788)
 
-## Arnold Schönberg
+### Arnold Schönberg
 - [*Pierrot lunaire*, Op. 21](schonberg-pierro-lunaire.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
 
-## Robert Schumann
+### Robert Schumann
 - [*Kreisleriana*, Op. 16](schumann-kreisleriana.md) by [ziwonnnn](https://github.com/ziwonnnn)
+
+---
+
+# Table of Contents
+> By Dates
+
+## 18th Century
+
+### Joseph Haydn
+- [Keyboard Sonata in C major, Hob.XVI:50](haydn-piano-sonata.md) by [eunhwan00](https://github.com/eunhwan00)
+
+### Wolfgang Amadeus Mozart
+- [Symphony No. 41 in C major, K. 551](mozart-symphony.md) by [hobin2788](https://github.com/hobin2788)
+
+### Ludwig van Beethoven
+- [Piano Concerto No. 5 in C minor, Op. 73](beethoven-piano-concerto-5.md) by [piopio1248](https://github.com/piopio1248)
+- [Piano Sonata No. 21 in C major, "Waldstein"](beethoven-piano-sonata-no.21.md) by [Middaa](https://github.com/Middaa)
+- [Piano Sonata No. 26 in E-flat major, Op. 81a, "Les Adieux"](beethoven-sonata-26.md) by [leeminji0110](https://github.com/leeminji0110)
+- [Which sonata?](sample-beethoven-piano-sonata.md) by [xogus1194](https://github.com/xogus1194)
+
+## 19th Century
+
+### Frédéric Chopin
+- [Piano Sonata No. 2 in B-flat minor, Op. 35](chopin-piano-sonata.md) by [Yunseungju](https://github.com/Yunseungju)
+
+### Robert Schumann
+- [*Kreisleriana*, Op. 16](schumann-kreisleriana.md) by [ziwonnnn](https://github.com/ziwonnnn)
+
+### Gustav Mahler
+- [Symphony No. 1 in D major](mahler-symphony.md) by [Taegyun-Kim-Bassist](https://github.com/Taegyun-Kim-Bassist)
+
+### Ferruccio Busoni (Sample)
+- [Piano Sonata in F minor, BV 204](sample-busoni-piano-sonata.md) by [kyeser](https://github.com/kyeser)
+
+## 20th Century
+
+### Arnold Schönberg
+- [*Pierrot lunaire*, Op. 21](schonberg-pierro-lunaire.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
+
+## 21st Century
+
+- None :sob:
