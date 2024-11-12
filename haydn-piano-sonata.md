@@ -6,10 +6,23 @@ Franz Joseph Haydn (1732–1809) was one of the most innovative and influential 
 
 This sonata, written around 1794–1795, was created for Terezie Jansen, a talented pianist and student of Clementi. Jansen was known for her virtuosic playing, and this piece, with its lively energy and subtle complexity, was perfectly suited to her flamboyant style. The first movement, marked Allegro, showcases Haydn’s characteristic blend of simplicity and sophistication, with a focus on rhythm, melody, and dynamic contrast.
 
+Haydn Piano Sonata gives many influence for future composition. [Beethoven Piano Sonata](beethoven-piano-sonata-no.21md).
+
 The reason why I chose this song is that among the sonata's characteristics that require sophisticated expression of emotion and balance without being overly emotional, there are many couples who express optimistic and humorous characteristics of Haydn. Among the piano sonatas that can be a little serious, I thought it was the special charm of Haydn's sonata. In particular, there are many humorous and humorous expressions in the first movement of this song. I wanted to delve into the beauty of this song in detail, where there are many topics and conversations of responses. 
 <img src="Hello World png.png">
 [The top part of the score is cropped]
 The first movement, marked "Allegro," opens with a bright and assertive theme that immediately captures the listener's interest. This movement is characterized by its lively rhythmic drive and clear structural form. The main theme is introduced with a bold, upward leap, setting a cheerful and energetic tone. Haydn’s use of syncopation and rapid passages adds a sense of excitement, inviting the pianist to showcase both technical prowess and expressive nuance. As the movement progresses, Haydn masterfully develops the initial themes, weaving in contrasting material that highlights his wit and creativity. The secondary theme offers a delightful contrast, featuring a more lyrical quality that creates a charming dialogue within the piece. Haydn's knack for surprising harmonic shifts keeps the listener engaged, as he deftly explores the interplay between major and minor tonalities. The development section introduces moments of tension, showcasing Haydn's ability to build suspense before returning to the joyous energy of the opening themes. The movement concludes with a spirited recapitulation, bringing back the initial themes with renewed vigor and culminating in a jubilant finale. In this sonata, Haydn not only captures the essence of the Classical style but also hints at the emotional depth that will define the Romantic era to come.
+
+# Timeline
+
+| Year | Event      | Description                                | Youtube |
+| ---- | ----       | ------------------------------------------ | ------- |
+| 1732 | Birth      | Born on March 31, Rohrau, Austria          |                                                           |
+| 1760 | Job        | Esterhazy Family                           |                                                           |
+| 1772 | Early work | Symphony No. 45 "Farewell"                 | [Watch](https://www.youtube.com/watch?v=tq1nc4Gyp0c) :tv: |
+
+
+
 # Form: Sonata-Allegro Form
 Like many Classical sonatas, the first movement follows the traditional sonata-allegro form, consisting of three main sections: the Exposition, the Development, and the Recapitulation, followed by a Coda.
 
