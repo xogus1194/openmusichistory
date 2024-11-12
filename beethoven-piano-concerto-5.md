@@ -9,14 +9,24 @@ Beethoven has set groundbreaking innovations in composing music. First, he broke
 
 # Timeline
 
-| Year | Event | Description |
-| ---- | ----- | ------------------------------------------|
-| 1770 | Birth | Born on December 17, 1770, in Bonn, German | 
-| 1782 | First Work | Nine Variations on a march WoO, 63 |
+| Year | Event                            | Description                                                                 |
+|------|----------------------------------|-----------------------------------------------------------------------------|
+| **1770** | Birth                           | Born on December 17, 1770, in Bonn, Germany.                                |
+| **1787** | Study with Mozart                | Briefly studies with Mozart in Vienna, expanding his musical knowledge.      |
+| **1792** | Moves to Vienna                  | Moves to Vienna to study with Haydn and begins his career as a composer.     |
+| **1795** | First Public Performance         | First public performance in Vienna, marking his professional debut.          |
+| **1798** | Hearing Loss                     | Begins to lose his hearing, a challenge that would shape his later works.    |
+| **1803** | *Symphony No. 3* (Eroica)         | Completes *Symphony No. 3*, *Eroica*, marking a new direction in his style.  |
+| **1808** | Premieres *Symphony No. 5*        | Premieres *Symphony No. 5* and *Symphony No. 6* in Vienna.                   |
+| **1809** | Composes *Piano Concerto No. 5*   | Composes *Piano Concerto No. 5* (Emperor Concerto), a monumental piano work. |
+| **1814** | *Fidelio* Premiered               | Premieres *Fidelio*, his only opera, after several revisions.                |
+| **1824** | Premieres *Symphony No. 9*        | Premieres *Symphony No. 9*, famous for the *Ode to Joy*.                     |
+| **1827** | Death                            | Passes away on March 26, 1827, in Vienna. Over 10,000 people attend his funeral. |
 
 ## Piano Concerto No. 5, Op. 73
 Beethoven’s Piano Concerto No. 5, Op.73 is one of the most popular works that he ever composed. This piece is composed between 1809 and 1811, in his middle period, where he went beyond classicism and started to explore his individual style of writing music –including writing with bolder tone, larger range of notes, and longer length of music– which would lead him to the romanticism. 
 
+This piece was indirectly influenced by Haydn's usage of sonata form, shown in Haydn's [Piano Sonata](haydn-piano-sonata.md)
 
 Unlike other concertos in the Classical period--and indeed, Beethoven's own previous concertos--Piano Concerto No. 5 opens with a striking innovation: a bold and broad orchestral chord introducing a written-out piano cadenza. The orchestra’s sustained chord interrupts the cadenza briefly, before the piano resumes, setting the tone for the dramatic, powerful journey to come. Following this unorthodox opening, the orchestra introduces a broad, main exposition theme, marked by stately dialogues between strings and winds. This theme embodies a typical Beethovenian style: bold, memorable, straightforward, yet rich with possibilities for expansion. It also brings a new spirit, reflecting Beethoven’s “heroic” period. The piano soon takes up the same theme, as both soloist and collaborator with the orchestra, blending the melody to showcase their unified dialogue. In the development section, the dialogue between piano and orchestra escalates, creating complex, engaging phrases that deepen the work's textural and harmonic complexity.. The recapitulation follows with no major changes, and when it comes to the cadenza preceding the coda part, Beethoven wrote, “Do not play a cadenza, but attack immediately the following”, to underscore his intention to maintain forward momentum, emphasizing the work's majesty rather than improvisational display. The first movement concludes with a stunning and sublime coda.
 
