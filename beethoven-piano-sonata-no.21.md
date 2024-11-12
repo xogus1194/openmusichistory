@@ -30,6 +30,9 @@ Beethoven's Sonata "Waldstein" shows innovation and originality in the sonata fo
 
 This piece was directly influenced by Mozart' symphony, especially [Mozart Symphony No.41](mozart-symphony.md). 
 
+
+
+
 ---
 
 **Overview**
