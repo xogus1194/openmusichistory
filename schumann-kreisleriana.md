@@ -55,3 +55,7 @@ This piece expresses an emotional outburst with its unstable, turbulent melody. 
 *8. Schnell und spielend*
 
 The final piece begins with a gentle, calm atmosphere, with a lyrical melody flowing throughout. Its serene mood contrasts with the previous dramatic movements, as if reaching a place of rest after a long journey. This piece reflects harmony between Eusebius and Florestan, conveying Schumann’s psychological maturity and peace.
+
+
+
+<comments> what a nive text!
