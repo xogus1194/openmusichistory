@@ -28,6 +28,8 @@ The third movement is a minuet and trio, providing a light-hearted yet ceremonio
 #### Movement IV: Molto allegro
 The final movement is notable for its intricate counterpoint, showcasing Mozart’s skill with polyphonic writing. Here, he presents five thematic subjects that are developed both independently and in combination, culminating in a climactic fugato. The movement follows a sonata-allegro form with fugal elements, which Mozart incorporates into the development section and in the closing fugue. This complex counterpoint adds a sense of structural grandeur and inevitability, reinforcing the "Jupiter" character of the symphony. The movement concludes with a powerful coda that reaffirms the work’s majestic C major tonality.
 
+This piece was diretly influenced by [Mahler's Symphony](mahler-symphony.md)
+
 ## Form and Style
 Symphony No. 41 exemplifies the Classical symphony through its four-movement structure, clear harmonic language, and melodic clarity. Mozart’s use of contrasting themes within sonata and ternary forms, as well as his integration of counterpoint in the final movement, reflects the evolution of the Classical style toward a balance of homophonic and polyphonic textures. In particular, the contrapuntal complexity in the finale anticipates the symphonic style of the 19th century, marking the work as a transition between the Classical and Romantic symphonic forms.
 
