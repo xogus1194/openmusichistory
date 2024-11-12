@@ -38,3 +38,5 @@ The Jupiter Symphony stands as one of Mozart’s crowning achievements, represen
 
 
 wow~ what a nice text.
+
+Comment: I wish Mozart's picture was a little bigger. But the content is good!
