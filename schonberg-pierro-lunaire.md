@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-<img src="schoneberg.jpg">
+<img src="mahler and schoneberg.png" width="500px">
 </div>
 
 ## 'Pierot Lunaire' has several notable features.
