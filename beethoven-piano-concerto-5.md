@@ -7,6 +7,13 @@ Beethoven has set groundbreaking innovations in composing music. First, he broke
 
 [The sentences seem too long. It might be better to condense it to just introduce his major works.]
 
+# Timeline
+
+| Year | Event | Description |
+| ---- | ----- | ------------------------------------------|
+| 1770 | Birth | Born on December 17, 1770, in Bonn, German | 
+| 1782 | First Work | Nine Variations on a march WoO, 63 |
+
 ## Piano Concerto No. 5, Op. 73
 Beethoven’s Piano Concerto No. 5, Op.73 is one of the most popular works that he ever composed. This piece is composed between 1809 and 1811, in his middle period, where he went beyond classicism and started to explore his individual style of writing music –including writing with bolder tone, larger range of notes, and longer length of music– which would lead him to the romanticism. 
 
