@@ -16,7 +16,7 @@ Beethoven's Sonata "Waldstein" shows innovation and originality in the sonata fo
 | Year | Event       | Description                           | Youtube |
 | ---- | ----------- | ------------------------------------- | ------- |
 | 1770 | Birth       | Born  on December 16, 1770 in Germany |         |
-| 1795 | Early Works | Piano Sonata No. 1~3                  |         |
+| 1795 | Early Works | Piano Sonata No. 1~3, 8               |         |
 | 1800 | Symphony    | Symphony No. 1 in C Major, Op. 21     | [Listen](https://www.youtube.com/watch?v=ouKhdyzxXE8) :tv: |
 
 <img src="sonata-no.21.png">
