@@ -7,8 +7,27 @@ He is well-known for his delicate expressiveness and emotional compositions, par
 
 ![슈만 초상화](https://github.com/user-attachments/assets/c6aa4efc-e94c-4a37-8d17-4a45aa59bd71)
 
+# Timeline
+
+| Year | Event | Description                                            | Youtube |
+| ---- | ----- | -------------------------------------------------------|---------|
+| 1810 | Birth | Born on June 8, 1810 in Zwickau, Saxony, Germany       |         |
+| 1828 | University Studies	| Began studying law in Leipzig             |         |
+| 1830 | Music Career	| Started piano studies under Friedrich Wieck     |         |
+| 1832 | Hand Injury | Hand injury ended his pianist ambitions          |         |
+| 1834 | New Journal for Music | Founded a music journal, promoting young composers |         |
+| 1840 | Marriage | Married Clara Wieck after legal struggle |         |
+| 1841 | First Symphony	| Premiered Symphony No. 1, Spring |           |
+| 1843 | Leipzig Conservatory	| Joined the Leipzig Conservatory as faculty |       | 
+| 1844 | Move to Dresden | Moved to Dresden for health and career reasons |        |  
+| 1850 | Düsseldorf | Appointed music director in Düsseldorf |         |
+| 1854 | Health Crisis | Attempted suicide; entered asylum |           |
+| 1856 | Death | Died on July 29 in an asylum near Bonn |              |
+
 The work by Schumann that I chose, *Kreisleriana*, is a piece composed based on a novel by Hoffmann.
+
 So, who is Hoffmann?
+
 ## About Hoffmann
 E.T.A. Hoffmann was a prominent novelist, composer, and critic representing German Romanticism in the early 19th century.
 His works are known for their mysterious, fantastical themes and psychological depictions. 
@@ -22,6 +41,9 @@ Schumann used this character to express his own dual personality and inner confl
 In his music, Schumann portrayed his two contrasting selves: the calm and reflective *Eusebius*, and the passionate and fiery *Florestan*.Through these contrasting personalities, Kreisleriana presents an unstable and dramatic panorama of emotions, mirroring Schumann’s own psychological depths.
 
 ![Schumann 악보-1](https://github.com/user-attachments/assets/019736ac-77b9-410d-b07e-64c2fcc736c0)
+This piece was directly influenced by Mozart's symphony, especially [symphony no.41](mozart-symphony.md). (This is not true.)
+
+
 
 ## A brief description of each piece
 *1. Äußerst bewegt*
