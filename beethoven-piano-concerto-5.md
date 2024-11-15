@@ -12,7 +12,8 @@ Beethoven has set groundbreaking innovations in composing music. First, he broke
 | Year | Event                            | Description                                                                 |
 |------|----------------------------------|-----------------------------------------------------------------------------|
 | **1770** | Birth                           | Born on December 17, 1770, in Bonn, Germany.                                |
-| **1787** | Study with Mozart                | Briefly studies with Mozart in Vienna, expanding his musical knowledge.      |
+| **1782** | First Composition               | Composed his first composition, the Nine Variations on a march, WoO 63      |
+| **1787** | Study with Mozart                | Briefly studies with Mozart in Vienna to expand his musical knowledge.      |
 | **1792** | Moves to Vienna                  | Moves to Vienna to study with Haydn and begins his career as a composer.     |
 | **1795** | First Public Performance         | First public performance in Vienna, marking his professional debut.          |
 | **1798** | Hearing Loss                     | Begins to lose his hearing, a challenge that would shape his later works.    |
@@ -26,7 +27,11 @@ Beethoven has set groundbreaking innovations in composing music. First, he broke
 ## Piano Concerto No. 5, Op. 73
 Beethoven’s Piano Concerto No. 5, Op.73 is one of the most popular works that he ever composed. This piece is composed between 1809 and 1811, in his middle period, where he went beyond classicism and started to explore his individual style of writing music –including writing with bolder tone, larger range of notes, and longer length of music– which would lead him to the romanticism. 
 
-This piece was indirectly influenced by Haydn's usage of sonata form, shown in Haydn's [Piano Sonata](haydn-piano-sonata.md)
+When Beethoven started composing this piece, Europe was in the state of Napoleonic Wars. Beethoven was living in Vienna at that time, and in 1809, Napoleon's forces occupied the city, making it bombarded and many citizens, including Beethoven himself, suffered from the effects of the conflict. Although Beethoven once admired Napoleon as a symbol of freedom and republicanism, as he composed his piece with ideas of heroism, freedom, and leadership of Napoleon, later he despised Napoleon, even though the spirit still lived in his compositions.
+
+Beethoven was also experiencing some of his significant struggles, such as his worsening deafness, making him exploring an introspective and complex compositional style with substantial emotional depth.
+
+Although there are many groundbreaking compositional techniques in this piece, Beethoven still used some traditional techniques. For example, this piece consists of 3 movements, with the first movement using a sonata form. This structure was used by composers before Beethoven's time, such as Haydn in his [Piano Sonata in C Major, Hob.XVI:50](haydn-piano-sonata.md) and Mozart in his [Symphony No. 41](mozart-symphony.md). 
 
 Unlike other concertos in the Classical period--and indeed, Beethoven's own previous concertos--Piano Concerto No. 5 opens with a striking innovation: a bold and broad orchestral chord introducing a written-out piano cadenza. The orchestra’s sustained chord interrupts the cadenza briefly, before the piano resumes, setting the tone for the dramatic, powerful journey to come. Following this unorthodox opening, the orchestra introduces a broad, main exposition theme, marked by stately dialogues between strings and winds. This theme embodies a typical Beethovenian style: bold, memorable, straightforward, yet rich with possibilities for expansion. It also brings a new spirit, reflecting Beethoven’s “heroic” period. The piano soon takes up the same theme, as both soloist and collaborator with the orchestra, blending the melody to showcase their unified dialogue. In the development section, the dialogue between piano and orchestra escalates, creating complex, engaging phrases that deepen the work's textural and harmonic complexity.. The recapitulation follows with no major changes, and when it comes to the cadenza preceding the coda part, Beethoven wrote, “Do not play a cadenza, but attack immediately the following”, to underscore his intention to maintain forward momentum, emphasizing the work's majesty rather than improvisational display. The first movement concludes with a stunning and sublime coda.
 
