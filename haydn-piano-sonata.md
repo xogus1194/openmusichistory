@@ -13,6 +13,7 @@
 | 1798,1801 | Oratorio    | "The Creation", "The Seasons"                | [Watch](https://www.youtube.com/watch?v=TPv1g9t_mKo) :tv: |
 | 1809      | Death       | May 31, in Vienna during the Napoleonic Wars |                                                           |
 
+<img src="Father_of_the_symphony.png">
 
 Haydn is famous for his symphonies, enough to be called the "Father of the Symphony." However, we should know that he has left many achievements in other fields as well. He is famous for epitomizing classical instrumental music and especially for completing the sonata form in the first movement. 
 
