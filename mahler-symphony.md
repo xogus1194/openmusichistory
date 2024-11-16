@@ -11,18 +11,22 @@ Mahler’s music frequently explores themes of love, pain, and death. The deep s
 
 ### Introducing Mahler's Symphony No. 1   
 
-Gustav Mahler's Symphony No. 1, often called the "Titan," is one of his most celebrated works. Composed between 1884 and 1888, this symphony captures Mahler's exploration of nature, life, and human emotion. The piece opens with quiet, mysterious sounds, evoking a world awakening, and moves through a range of moods—from lively folk dances to haunting, solemn marches. The final movement builds to a powerful and triumphant climax. Symphony No. 1 showcases Mahler's signature blend of beauty, intensity, and innovation, making it a milestone in the symphonic repertoire.
+Gustav Mahler's Symphony No. 1, often called the "Titan," is one of his most celebrated works. Composed between 1884 and 1888, this symphony captures Mahler's exploration of nature, life, and human emotion. It was written during Mahler's tenure as the assistant conductor at the Leipzig Opera. The piece opens with quiet, mysterious sounds, evoking a world awakening, and moves through a range of moods—from lively folk dances to haunting, solemn marches. The final movement builds to a powerful and triumphant climax. Symphony No. 1 showcases Mahler's signature blend of beauty, intensity, and innovation, making it a milestone in the symphonic repertoire.
 
-Comments: I think it would be better to explain Mahler's situation when Symphony No. 1 was composed. I love the detailed explanation of each movement!
+Comments: I think it would be better to explain Mahler's situation when Symphony No. 1 was composed. I love the detailed explanation of each movement! - Done
 
 
 # Gustav Mahler's Timeline
 
-| Year | Event   | Description                                  | YouTube |
-| ---- | ------- | -------------------------------------------- | ------- |
-| 1860 | Birth   | Born on July 7, 1860 in Kalischt, Austria    |         |
-| 1875 | Study   | Start the study music at Vienna Conservatory |         |
-| 1888 | Compose | Composed the Mahler's Symphony no.1          | [Watch](https://youtu.be/4XbHLFkg_Mw?si=W8AQzkD3ie0Ekg10) :tv: |
+| Year | Event    | Description                                  | YouTube |
+| ---- | -------- | -------------------------------------------- | ------- |
+| 1860 | Birth    | Born on July 7, 1860 in Kalischt, Austria    |         |
+| 1875 | Study    | Start the study music at Vienna Conservatory |         |
+| 1880 | Conduct  | First conduct at Bad-Hall                    |         |
+| 1888 | Composed | Composed the Mahler's Symphony no.1          | [Watch](https://youtu.be/4XbHLFkg_Mw?si=W8AQzkD3ie0Ekg10) :tv: |
+| 1889 | Premier  | First concert of Symphony no.1 at Budapest   |         |
+| 1902 | Marriage | Marriage with Alma Schindler                 |         |
+| 1911 | Death    | Died of bacterial endocarditis.              |         |
 
 This Piece was directly influenced by Haydn's piano sonata , especially [Piano sonata](haydn-piano-sonata.md). (This is not true)
 
