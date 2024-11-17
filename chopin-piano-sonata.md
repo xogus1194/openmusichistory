@@ -13,6 +13,17 @@ However, within the Funeral March, Chopin introduces a striking contrast in the 
 The first and final movements of the sonata, marked Grave and Finale, offer a rich contrast to the Funeral March in their own right. The opening movement is dark and intense, setting a dramatic tone, while the concluding movement, a lively Allegro, surges with energy and technical brilliance. Together, the movements of the sonata create a poignant narrative of grief, recollection, and ultimately, a return to life’s vitality.
 
 Chopin's Piano Sonata No. 2 not only highlights his mastery of the piano, but also his ability to weave profound emotional expression into every note, making this work one of his most beloved and enduring compositions.
+
+# Timeline
+
+|Year|Event      |Description                                             |YouTube|
+|----|-------------------|------------------------------------------------|-------|
+|1810|Birth              |Born on March 10 1810 in Żelazowa Wola, Poland  |       |
+|1817|first composition  |Composing first work at the age of seven        |       |
+|1826|Entrance to school |Study at Warsaw Conservatory                    |       |
+|1838|Prelude Composition|24 famous Prelude compositions                  |[Watch](https://www.youtube.com/watch?v=SqXYIteAfNs)       |
+|1849|Death              |Death from tuberculosis in Paris                |       |
+
 <div align="center">
 <img src="Chopin2.png" width="400" height="400">
 </div>
