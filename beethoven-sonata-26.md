@@ -6,6 +6,25 @@
 </div>
 [What if we center-align the image?]
 
+### Timeline
+
+| Year | Event | Description                                                                                                      | Youtube |
+| ---- | ----- | ---------------------------------------------------------------------------------------------------------------- | ------- |
+| 1770	| Birth	| Ludwig van Beethoven was born in Bonn, Germany.                                                                  |         |
+| 1787	| Meets Mozart	| Traveled to Vienna and briefly met Wolfgang Amadeus Mozart, who praised his talent.                       |         |
+| 1792	| Moves to Vienna	| Beethoven moved to Vienna to study with Joseph Haydn and pursue his musical career.                    |         |
+| 1800	| Hearing loss begins	| Beethoven begins to experience hearing loss, leading to significant emotional challenges.          |         |
+| 1802	| Heiligenstadt Testament	| Wrote a letter expressing despair over his worsening hearing loss.                             |         |
+| 1809	| Archduke Rudolph flees	| Napoleon invades Vienna, forcing Beethoven's patron, Archduke Rudolph, to leave. Beethoven begins composing Piano Sonata No. 26 for him.                                                                                                      |         |
+| 1810	| Completes Piano Sonata No. 26	| Piano Sonata No. 26 'Les Adieux' (Op. 81a) is published, featuring three narrative movements about farewell, absence, and reunion with Archduke Rudolph.                                                                             |         |
+| 1810	| Publishes Sonata No. 26	| Piano Sonata No. 26 was published, reflecting themes of farewell, absence, and reunion.        |         |
+| 1824	| Symphony No. 9 Premiere	| Beethoven conducted the first performance of his Ninth Symphony despite being deaf.            |         |
+| 1827	| Death	| Beethoven passed away in Vienna, Austria.                                                                        |         |
+
+This piece was directly influenced by Beethoven's piano sonatas, especially [Piano Sonata No. 21](beehoven-piano-sonata-no.21.md). (This is not true.)
+
+---
+
 ### Introduction
 **Ludwig van Beethoven’s Piano Sonata No. 26**, also known as *“Das Lebewohl”* or *“Les Adieux,”* holds a unique place in his oeuvre, embodying personal and historical significance. This sonata is one of the few works where Beethoven himself assigned a programmatic title, revealing his deep attachment to his student and friend, Archduke Rudolph. Composed during a tumultuous time when Vienna was under siege by Napoleon’s forces, the piece reflects themes of farewell, absence, and reunion—capturing Beethoven’s emotions as he bid goodbye to the Archduke, who had to flee Vienna amidst the conflict.
 
