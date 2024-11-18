@@ -29,3 +29,5 @@ Comment: It would be nice if there was an explanation for other movements beside
 Comments: The portrait and the score are too big. Make them smaller? Also, the file name must be changed.
 
 Comment: The sheet music is a little short.
+
+Comments: It would be nice to take the sample out of the title.
