@@ -44,3 +44,5 @@ From quiet tranquility, Beethoven made the third movement burst into life with e
 ![Piano Concerto No  5, Op  73 accompaniment-2](https://github.com/user-attachments/assets/bd058033-c716-4cfe-a7e1-b3854e3f6a48)
 
 This is an example of the piano accompanying the orchestra in the piano concerto.
+
+***I think it would be good to divide the article into more paragraphs to make it easier to read.***

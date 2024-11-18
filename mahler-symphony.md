@@ -7,15 +7,29 @@ Gustav Mahler, an Austrian composer and conductor, emerged as a leading figure o
 
 ### Themes of Love, Pain, and Death in His Music   
 
-Mahler’s music frequently explores themes of love, pain, and death. The deep sadness he experienced after the loss of his brothers, parents, and daughter, as well as his fears around love and death due to his wife’s unfaithfulness, likely had a profound influence on his compositions.
+Mahler’s music frequently explores themes of love, pain, and death. The deep sadness he experienced after the loss of his brothers, parents, and daughter, as well as his fears around love and death due to his wife’s unfaithfulness, likely had a profound influence on his compositions.   
+
+
+# Gustav Mahler's Timeline
+
+| Year | Event    | Description                                  | YouTube |
+| ---- | -------- | -------------------------------------------- | ------- |
+| 1860 | Birth    | Born on July 7, 1860 in Kalischt, Austria    |         |
+| 1875 | Study    | Start the study music at Vienna Conservatory |         |
+| 1880 | Conduct  | First conduct at Bad-Hall                    |         |
+| 1888 | Composed | Composed the Mahler's Symphony no.1          | [Watch](https://youtu.be/4XbHLFkg_Mw?si=W8AQzkD3ie0Ekg10) :tv: |
+| 1889 | Premier  | First concert of Symphony no.1 at Budapest   |         |
+| 1902 | Marriage | Marriage with Alma Schindler                 |         |
+| 1911 | Death    | Died of bacterial endocarditis.              |         |
+
+# Symphony no.1 D Major (Titan)
 
 ### Introducing Mahler's Symphony No. 1   
 
-Gustav Mahler's Symphony No. 1, often called the "Titan," is one of his most celebrated works. Composed between 1884 and 1888, this symphony captures Mahler's exploration of nature, life, and human emotion. The piece opens with quiet, mysterious sounds, evoking a world awakening, and moves through a range of moods—from lively folk dances to haunting, solemn marches. The final movement builds to a powerful and triumphant climax. Symphony No. 1 showcases Mahler's signature blend of beauty, intensity, and innovation, making it a milestone in the symphonic repertoire.
+Gustav Mahler's Symphony No. 1, often called the "Titan," is one of his most celebrated works. Composed between 1884 and 1888, this symphony captures Mahler's exploration of nature, life, and human emotion. It was written during Mahler's tenure as the assistant conductor at the Leipzig Opera. The piece opens with quiet, mysterious sounds, evoking a world awakening, and moves through a range of moods—from lively folk dances to haunting, solemn marches. The final movement builds to a powerful and triumphant climax. Symphony No. 1 showcases Mahler's signature blend of beauty, intensity, and innovation, making it a milestone in the symphonic repertoire.
 
-Comments: I think it would be better to explain Mahler's situation when Symphony No. 1 was composed. I love the detailed explanation of each movement!
+Comments: I think it would be better to explain Mahler's situation when Symphony No. 1 was composed. I love the detailed explanation of each movement! - Done
 
-# Symphony no.1 D Major (Titan)
 ## 1st mov. [Langsam, Schleppend]
 ![Alt text](https://github.com/user-attachments/assets/564e7eba-334d-4b1a-aaaf-6150af23f269)
 
@@ -67,4 +81,12 @@ The descending intervals create an effect of falling into an endless abyss. As t
 
 This movement is extremely demanding, especially in the climactic final section, which is marked fortississimo (fff). It calls on the full strength of both performers and audience, touching them deeply.   
 
-I believe this movement best captures Mahler's intent to explore themes of love, suffering, life, and death.
+I believe this movement best captures Mahler's intent to explore themes of love, suffering, life, and death.   
+
+## Concluding the textbook of Gustav Mahler's Symphony no.1   
+
+Some argue that if Mahler had lived longer, he might have incorporated his first student Arnold Schoenberg's atonal music into his own compositions.   
+
+Schoenberg's String Quartet No. 2 is regarded as a groundbreaking piece that paved the way from tonal to atonal music, and it is often considered to have evolved from Mahler's progressive tonality.   
+
+To conclude this discussion, I will introduce Schoenberg's masterpiece, [Pierrot Lunaire](schonberg-pierro-lunaire.md)
