@@ -89,4 +89,7 @@ Some argue that if Mahler had lived longer, he might have incorporated his first
 
 Schoenberg's String Quartet No. 2 is regarded as a groundbreaking piece that paved the way from tonal to atonal music, and it is often considered to have evolved from Mahler's progressive tonality.   
 
-To conclude this discussion, I will introduce Schoenberg's masterpiece, [Pierrot Lunaire](schonberg-pierro-lunaire.md)
+To conclude this textbook, I will present an AI-generated illustration imagining Mahler and Schoenberg together, along with Schoenberg's masterpiece [Pierrot Lunaire](schonberg-pierro-lunaire.md)
+
+![Alt text](https://github.com/user-attachments/assets/0d762611-b125-40ba-a80e-223a8f0e81ab)
+
