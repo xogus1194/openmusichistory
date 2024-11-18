@@ -19,7 +19,7 @@ Comments: I think it would be better to explain Mahler's situation when Symphony
 ## 1st mov. [Langsam, Schleppend]
 ![Alt text](https://github.com/user-attachments/assets/564e7eba-334d-4b1a-aaaf-6150af23f269)
 
-#### The first movement begins quietly and mysteriously.
+#### The first movement begins quietly and mysteriously. [You don't have to write this because you state this sentence again below. You can choose one of these sentence to not make it double]
 
 The first movement begins quietly and mysteriously. On the first page of the score, all the strings create a calm atmosphere, setting the scene in a world that has yet to awaken. Gradually, the wind instruments join in, as if preparing for the dawn.   
 
@@ -27,7 +27,7 @@ This movement conveys a sense of the world gradually brightening and nature comi
 
 ## 2nd mov. [Kräftig bewegt, doch nicht zu schnell]
 
-#### It was composed in the form of the Austrian folk dance, the Ländler.   
+#### It was composed in the form of the Austrian folk dance, the Ländler. [Same as the 1st mov, you don't have to write this and instead, you can choose one]
 
 The second movement is composed in the style of the Austrian folk dance, the Ländler. Although it takes the form of a scherzo, this movement gives the impression of country farmers dancing.   
 
@@ -35,7 +35,7 @@ Its key feature is the repeating rhythms, primarily played by the strings and wo
 
 ## 3rd mov. [Feierlich und gemessen, ohne zu schleppen]
 
-#### In the third movement, Mahler arranged the French folk song 'Frère Jacques' in a minor key as a funeral march.   
+#### In the third movement, Mahler arranged the French folk song 'Frère Jacques' in a minor key as a funeral march. [This is good because you don't write double sentences!]
 
 It conveys a heavy, sorrowful feeling, with an intent to express themes of death and loneliness.   
 
@@ -53,7 +53,7 @@ After this melody, the waltz-like music played by the woodwinds creates an other
 
 ## 4th mov. [Stürmisch bewegt]
 
-#### It begins immediately after the third movement.   
+#### It begins immediately after the third movement. [I think everyone knows this, no? I think it will be better if you explain it like "this movement opens with powerful introduction representing a descent into hell (copied from your sentence below), contrasting with the solemn 3rd mov"]
 
 The powerful introduction, with cymbals, various percussion, and full orchestra, represents a descent into hell.   
 
