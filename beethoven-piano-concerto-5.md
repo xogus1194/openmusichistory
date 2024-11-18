@@ -17,6 +17,7 @@ The second movement unfolds in the surprising key of B major, creating a peacful
 
 From quiet tranquility, Beethoven made the third movement burst into life with energetic rhythm, broad, joyful lines, and vibrant colors. The melody played at the end of the second movement becomes the main theme with powerful syncopated rhythms and bold phrases, interspersed with imaginative, playful episodes. Near the end, the music slows down while becoming calm, with only the duet of piano and timpani with pianissimo dynamic. Suddenly, the piano soars majestic scale passages preceding the flourishing orchestra, marking the grandious and massive ending of the whole piano concerto.
 
+[I think it would be good to set a movement and explain it in more detail. Explaining the piano and orchestra parts!]
 ![Piano Concerto No  5, Op  73 accompaniment-1](https://github.com/user-attachments/assets/35f00c9e-fabd-4f36-9e5d-a454c4646fe2)
 ![Piano Concerto No  5, Op  73 accompaniment-2](https://github.com/user-attachments/assets/bd058033-c716-4cfe-a7e1-b3854e3f6a48)
 
