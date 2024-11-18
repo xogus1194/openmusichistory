@@ -35,3 +35,6 @@ Comments: It would be nice to use sub-headings to divide the paragraphs clearly.
 Comments: Can you explain about Chopin's style of sonata form?
 
 Comments: I think it will be easier to read if you use bold text.
+
+
+I think it would be better to explain the work in more detail.
