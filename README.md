@@ -11,7 +11,57 @@ The 20th century is represented through Schönberg’s Pierrot lunaire, a work t
 
 As we explore these compositions, we invite readers to experience the varied sounds and ideas that have defined Western music and to consider the ongoing impact of these works in both past and contemporary contexts. Through this shared journey, we continue to expand our understanding of music's history and its place in the larger cultural dialogue.
 
-# Table of Contents
+---
+
+## Contributors
+
+### Jiwon Jung  
+[ziwonnnn](https://github.com/ziwonnnn)  
+> 3rd-year student majoring in piano at Hanyang University.
+
+### Tae Gyun Kim  
+[Taegyun-Kim-Bassist](https://github.com/Taegyun-Kim-Bassist)  
+> Double bassist from the Republic of Korea; 4th-year double bass major at Hanyang University.
+
+### Hee Seng Kye  
+[hskye79](https://github.com/hskye79)  
+> Musicologist from Korea; Associate Professor of Musicology at Hanyang University.
+
+### Lee Minji  
+[leeminji0110](https://github.com/leeminji0110)  
+> 3rd-year piano major at Hanyang University in Seoul, Korea.
+
+### Eun Hwan Pyo  
+[eunhwan00](https://github.com/eunhwan00)  
+> Pianist from the Republic of Korea; 4th-year piano major at Hanyang University.
+
+### Laurensius Pio Tjahjadi  
+[piopio1248](https://github.com/piopio1248)  
+> 4th-year composition major and exchange student from Universitas Indonesia at Hanyang University.
+
+### Seungju Yun  
+[Yunseungju](https://github.com/Yunseungju)  
+> 4th-year piano major at Hanyang University.
+
+### Your name?  
+[Middaa](https://github.com/Middaa)  
+> 3rd-year student at Hanyang University, Department of Piano.
+
+### Your name?  
+[hobin2788](https://github.com/hobin2788)  
+> 3rd-year student in the Department of Piano at Hanyang University.
+
+### Your name?  
+[RYUSEI-KIM](https://github.com/RYUSEI-KIM)  
+> 3rd-year composition major at Hanyang University. A sweet soul full of love and kindness!
+
+### Your name?  
+[xogus1194](https://github.com/xogus1194)  
+> *(No description provided)*  
+
+---
+
+## Table of Contents
 > By Composers
 
 ### Ludwig van Beethoven
@@ -43,10 +93,10 @@ As we explore these compositions, we invite readers to experience the varied sou
 
 ---
 
-# Table of Contents
+## Table of Contents
 > By Dates
 
-## 18th Century
+### _18th Century_
 
 ### Joseph Haydn
 - [Keyboard Sonata in C major, Hob.XVI:50](haydn-piano-sonata.md) by [eunhwan00](https://github.com/eunhwan00)
@@ -60,7 +110,7 @@ As we explore these compositions, we invite readers to experience the varied sou
 - [Piano Sonata No. 26 in E-flat major, Op. 81a, "Les Adieux"](beethoven-sonata-26.md) by [leeminji0110](https://github.com/leeminji0110)
 - [Which sonata?](sample-beethoven-piano-sonata.md) by [xogus1194](https://github.com/xogus1194)
 
-## 19th Century
+### _19th Century_
 
 ### Frédéric Chopin
 - [Piano Sonata No. 2 in B-flat minor, Op. 35](chopin-piano-sonata.md) by [Yunseungju](https://github.com/Yunseungju)
@@ -74,11 +124,11 @@ As we explore these compositions, we invite readers to experience the varied sou
 ### Ferruccio Busoni (Sample)
 - [Piano Sonata in F minor, BV 204](sample-busoni-piano-sonata.md) by [kyeser](https://github.com/kyeser)
 
-## 20th Century
+### _20th Century_
 
 ### Arnold Schönberg
 - [*Pierrot lunaire*, Op. 21](schonberg-pierro-lunaire.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
 
-## 21st Century
+### _21st Century_
 
 - None :sob:
