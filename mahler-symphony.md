@@ -49,7 +49,7 @@ Its key feature is the repeating rhythms, primarily played by the strings and wo
 
 ## 3rd mov. [Feierlich und gemessen, ohne zu schleppen]
 
-#### It begins with a powerful introduction that feels like a descent into hell, contrasting sharply with the solemn third movement. [This is good because you don't write double sentences!] - Thanks
+#### The third movement begins with a solemn and quiet funeral march. [This is good because you don't write double sentences!] - Thanks
 
 It conveys a heavy, sorrowful feeling, with an intent to express themes of death and loneliness.   
 
@@ -67,7 +67,7 @@ After this melody, the waltz-like music played by the woodwinds creates an other
 
 ## 4th mov. [Stürmisch bewegt]
 
-#### It begins immediately after the third movement. [I think everyone knows this, no? I think it will be better if you explain it like "this movement opens with powerful introduction representing a descent into hell (copied from your sentence below), contrasting with the solemn 3rd mov"] - done
+#### It begins with a powerful introduction that feels like a descent into hell, contrasting sharply with the solemn third movement. [I think everyone knows this, no? I think it will be better if you explain it like "this movement opens with powerful introduction representing a descent into hell (copied from your sentence below), contrasting with the solemn 3rd mov"] - done
 
 The powerful introduction, with cymbals, various percussion, and full orchestra, represents a descent into hell.   
 
