@@ -5,7 +5,7 @@
 
  - [Timeline](#timeline)
  - [Symphony no.1](#symphony-no1-d-major-titan)
-   - [1st mov.](#1st-mov-[Langsam-Schleppend])
+   - [1st mov.](#1st-mov-Langsam-Schleppend)
    - [2nd mov.]
    - [3rd mov.]
    - [4th mov.]
