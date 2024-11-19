@@ -62,23 +62,23 @@ Overall, the first movement of Haydn's Piano Sonata in C Major is a vibrant and 
 While the movement is upbeat and cheerful, it also contains moments of subtle expressiveness. The humor in the piece is not overt but comes through in Haydn's playful use of harmonic shifts and rhythmic surprises. Encourage performers to approach the piece with a sense of lightheartedness, allowing the music to flow naturally with a sense of optimism and joy.
 
 
-# Tips for Practicing 
+## Tips for Practicing 
 [I don't think this is necessary, because this is a history book and the pieces are written in program notes style, so what matters the most is only the description of the piece and its context (historical etc)]
-## Slow Practice
+### Slow Practice
 Begin by practicing slowly to ensure that each note is clear and that phrasing and dynamics are well defined. This will help in bringing out the charm of the piece and its contrasting sections.
 
-## Hands Separately
+### Hands Separately
 Practice the right and left hands separately to gain confidence in the complex rhythmic and harmonic patterns before putting them together.
 
-## Think of a Dialogue
+### Think of a Dialogue
 Imagine the right hand as telling a story, with the left hand responding. This will help bring out the conversational nature of the music and the interaction between the two themes.
 
-## Have Fun!
+### Have Fun!
 Above all, enjoy the music! Haydn’s Piano Sonata Hob. XVI:50 is a delightful work full of energy and wit, and it offers a rewarding experience both for the performer and the audience.
 
 This first movement of Haydn’s Piano Sonata in C Major is a perfect example of his mastery of form, rhythm, and melody. It embodies the Classical spirit with a touch of humor and inventiveness, making it an enjoyable piece for performers and audiences alike. [You can put the word "overall" here if you want to]
 
-# Listening Guide
+## Listening Guide
 
 
 Comment:The sheet music is a little short, but the content is good!
