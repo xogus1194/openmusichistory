@@ -3,6 +3,7 @@ Ferruccio Busoni (1866–1924) was a multifaceted Italian artist—composer, pia
 
 - [Timeline](#timeline)
 - [Piano Sonata in F minor, BV 204](#piano-sonata-in-f-minor-bv-204)
+  - [I. Allegro risoluto vivace ed energico](#i-allegro-risoluto-vivace-ed-energico)
 - [Influences](#influences)
 - [Significance](#significance)
 - [Performance and Reception](#performance-and-reception)
