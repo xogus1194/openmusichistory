@@ -6,7 +6,7 @@
  - [Timeline](#timeline)
  - [Symphony no.1](#symphony-no1-d-major-titan)
    - [1st mov.](#1st-mov-langsam-schleppend)
-   - [2nd mov.](#2nd-mov-kraftig bewegt-doch nicht zu schnell)
+   - [2nd mov.](#2nd-mov-kraftig-bewegt-doch nicht zu schnell)
    - [3rd mov.](#3rd-mov.-feierlich-und-gemessen-ohne-zu-schleppen])
    - [4th mov.](#4th-mov-stürmisch-bewegt)
  - [Conclude](#concluding-the-textbook-of-gustav-mahlers-symphony-no1)
