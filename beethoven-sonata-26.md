@@ -1,12 +1,20 @@
 # Ludwig van Beethoven (1770–1827)
-## Piano Sonata No. 26 in E-flat major, Op. 81a, “Das Lebewohl”
 
 <div align="center">
 <img src="beethoven26.png" width="300" height="380">
 </div>
 [What if we center-align the image?]
 
-### Timeline
+**Ludwig van Beethoven (1770-1827)** was a German composer and pianist who served as a crucial link between the Classical and Romantic eras, expanding the traditions of Mozart and Haydn while developing his own bold and deeply expressive style. His music, characterized by innovation and emotional depth, includes iconic works such as his symphonies, piano sonatas, and string quartets, with Symphony No. 9 standing as a timeless celebration of humanity and peace. Despite losing his hearing in his mid-30s, Beethoven produced some of his most profound compositions, using music to explore the human condition, ideals of freedom, and the social and political issues of his time, leaving an indelible mark on music history.
+
+- [Timeline](#timeline)
+- [Piano Sonata No. 26 in E-flat major, Op. 81a, “Das Lebewohl"](#piano-sonata-no-26-in-e-flat-major-op-81a-das-lebewohl)
+- [Influences](#influences)
+- [Significance](#significance)
+- [Performance and Reception](#performance-and-reception)
+- [Listening Guide](#listening-guide)
+
+## Timeline
 
 | Year | Event | Description                                                                                                      | Youtube |
 | ---- | ----- | ---------------------------------------------------------------------------------------------------------------- | ------- |
@@ -24,6 +32,8 @@
 This piece was directly influenced by Beethoven's piano sonatas, especially [Piano Sonata No. 21](beehoven-piano-sonata-no.21.md). (This is not true.)
 
 ---
+
+## Piano Sonata No. 26 in E-flat major, Op. 81a, “Das Lebewohl”
 
 ### Introduction
 **Ludwig van Beethoven’s Piano Sonata No. 26**, also known as *“Das Lebewohl”* or *“Les Adieux,”* holds a unique place in his oeuvre, embodying personal and historical significance. This sonata is one of the few works where Beethoven himself assigned a programmatic title, revealing his deep attachment to his student and friend, Archduke Rudolph. Composed during a tumultuous time when Vienna was under siege by Napoleon’s forces, the piece reflects themes of farewell, absence, and reunion—capturing Beethoven’s emotions as he bid goodbye to the Archduke, who had to flee Vienna amidst the conflict.
@@ -55,6 +65,14 @@ Marked Vivacissimamente, the final movement bursts forth with jubilant energy, c
 Beethoven dedicated this sonata to Archduke Rudolph, whose patronage and friendship provided the composer with vital support. Beyond its historical context, the work embodies universal emotions of parting and reunion, translating personal experience into a profoundly moving musical narrative. As such, Das Lebewohl offers listeners a unique glimpse into Beethoven’s capacity to blend personal emotion with his innovative musical style, making it one of the most expressive and narrative-driven sonatas in the classical repertoire.
 
 <img src="das_lebewohl.png">
+
+## Influences
+
+## Significance
+
+## Performance and Reception
+
+## Listening Guide
 
 comments : The textbook is really helpful.
 
