@@ -1,6 +1,8 @@
 # Franz Joseph Haydn
 ## Piano Sonata Hob. XVI:50 1. Allegro
-<img src="하이든.jpg">  
+
+<img src="하이든.jpg"> 
+
 
 - [Haydn's life and career](#haydns-life-and-career)
 - [Form: Sonata-Allegro Form](#form-sonata-allegro-form)
@@ -24,7 +26,8 @@
 
 Haydn is famous for his symphonies, enough to be called the "Father of the Symphony." However, we should know that he has left many achievements in other fields as well. He is famous for epitomizing classical instrumental music and especially for completing the sonata form in the first movement. 
 
-The sonata form he completed can be seen as having a great influence on Beethoven's sonata later. [Beethoven Piano Sonata](beethoven-sonata-26.md).
+The sonata form he completed can be seen as having a great influence on Beethoven's sonata later.
+[Beethoven Piano Sonata](beethoven-sonata-26.md).
 
 His piano sonatas, like his symphonies and string quartets, are celebrated for their creativity, charm, and technical skill. Haydn’s work often balances humor and wit with structural mastery, and his Piano Sonata Hob. XVI:50 in C Major is no exception. Composed in the later years of his life, this sonata reflects both Haydn's mastery of the Classical style and his ability to infuse his music with a distinctly joyful and playful character.
 This sonata, written around 1794–1795, was created for Terezie Jansen, a talented pianist and student of Clementi. Jansen was known for her virtuosic playing, and this piece, with its lively energy and subtle complexity, was perfectly suited to her flamboyant style. The first movement, marked Allegro, showcases Haydn’s characteristic blend of simplicity and sophistication, with a focus on rhythm, melody, and dynamic contrast.
