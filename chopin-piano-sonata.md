@@ -11,7 +11,7 @@
 - [Performance and Reception](#performance-and-reception)
 - [Listening Guide](#listening-guide)
   
-## Piano Sonata in b flat minor Op.35 
+## Piano Sonata in b flat minor Op. 35 
 Frédéric Chopin, one of the most revered composers for the piano, is known for his unparalleled ability to express profound emotions through the instrument. His Piano Sonata No. 2 in B-flat minor is a quintessential example of his lyrical genius, blending technical sophistication with deep emotional resonance.
 
 The sonata consists of three movements, the second of which, the Funeral March, has become iconic for its solemn and tragic atmosphere. This movement is perhaps the most widely known of Chopin’s works, due to its use at his own funeral and its ability to evoke universal themes of mourning and loss. The funeral march is marked by a steady, plodding rhythm, invoking the image of a slow, deliberate procession, yet it is imbued with a sense of dignified sorrow.
