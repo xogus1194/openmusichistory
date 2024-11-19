@@ -10,6 +10,11 @@ Beethoven emphasizes the individual expressions of artists, and his music is sti
 
 Beethoven's Sonata "Waldstein" shows innovation and originality in the sonata form, making it suitable for discussing Beethoven's musical development. And the way he effectively communicates emotions through contrasting themes provides a rich discussion of musical interpretation. Because of these factors, "Waldstein" is a highly interesting and educational value for presentation topics.Also, it was my college entrance song and I've been studying this song for a long time, so I think it's perfect for selecting this work.
 
+- [Timeline](#timeline)
+- [Overview](#overview )
+- [Structure](#structure)
+- [Musical Significance](#musical-significance)
+- [Conclusion](#conclusion)
 
 
 
@@ -40,7 +45,7 @@ This piece was directly influenced by Mozart' symphony, especially [Mozart Symph
 
 ---
 
-**Overview**
+# Overview 
 
 Beethoven's Piano Sonata No. 21 in C major, Op. 53, commonly known as the "Waldstein" Sonata, stands as one of his most celebrated and technically demanding works. Composed between 1803 and 1804, it reflects the composer’s growing mastery of the piano and his transition from the Classical style to his more distinctive, emotionally expressive Late-Style. The title "Waldstein" is a tribute to Beethoven’s patron and friend, Count Ferdinand von Waldstein, who had been a significant supporter of the composer’s early career and was instrumental in securing him a place in Vienna's musical world.
 
@@ -48,7 +53,7 @@ The sonata is notable for its grandeur and its innovative departure from the con
 
 ---
 
-**Structure**
+# Structure
 
 The Sonata is in three movements:
 
@@ -97,7 +102,7 @@ As in the first movement, Beethoven takes full advantage of the piano’s potent
 
 ---
 
-**Musical Significance**
+# Musical Significance
 
 The "Waldstein" Sonata marks a significant turning point in Beethoven’s career, showcasing his move toward greater freedom in musical expression and formal structure. In its monumental scope, the sonata combines the Classical elegance of Mozart and Haydn with Beethoven's emerging Romantic style, marked by greater emotional depth and complexity. The first movement’s grandiose opening and virtuosic demands push the boundaries of what was expected from a piano sonata at the time, while the final movement’s joyful energy brings the work to an exhilarating conclusion.
 
@@ -105,6 +110,6 @@ Beethoven’s innovation is evident in the way he manipulates form. While adheri
 
 ---
 
-**Conclusion**
+# Conclusion
 
 The "Waldstein" Sonata is a stunning demonstration of Beethoven’s genius, marked by its boldness, innovation, and emotional depth. With its striking contrasts between the vigorous and the lyrical, the playful and the profound, it is a work that encapsulates the essence of Beethoven's style: a fearless exploration of the piano’s capabilities, imbued with an intensely personal expression. As one of his most iconic piano works, the "Waldstein" Sonata remains a cornerstone of the piano repertoire, continuously inspiring performers and listeners alike.
