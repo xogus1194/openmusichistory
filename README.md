@@ -68,7 +68,7 @@ As we explore these compositions, we invite readers to experience the varied sou
 
 ---
 
-## Works (by composers]
+## Works (by composers)
 
 ### Ludwig van Beethoven
 - [Piano Concerto No. 5 in C minor, Op. 73](beethoven-piano-concerto-5.md) by [piopio1248](https://github.com/piopio1248)
