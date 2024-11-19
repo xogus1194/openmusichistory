@@ -53,7 +53,7 @@ In his music, Schumann portrayed his two contrasting selves: the calm and reflec
 This piece was directly influenced by Mozart's symphony, especially [symphony no.41](mozart-symphony.md). (This is not true.)
 
 ## A brief description of each piece
-*1. Äußerst bewegt*
+### *1. Äußerst bewegt*
 
 The first piece opens with intensity and passion, featuring an urgent, restless rhythm. The recurring turbulent melody suggests an unstable psychological state, revealing Schumann’s bold “Florestan” character. It evokes a sense of inner turmoil and fervent desire, aligning with the unpredictable nature of Kreisler himself.
 
