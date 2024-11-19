@@ -10,9 +10,9 @@
 	• Original Poet: Albert Giraud
 
 - [Timeline](#timeline)
-- [Several notable features](several-notable-features)
-- [Instrumentation](instrumentation)
-- [Importance](imporatnce)
+- [Several notable features](#several-notable-features)
+- [Instrumentation](#instrumentation)
+- [Importance](#imporatance)
 
 ## Timeline
 
