@@ -9,9 +9,16 @@ Beethoven has set groundbreaking innovations in composing music. First, he broke
 
 A picture of Beethoven "breaking" the rules of classical era music and innovating romanticism.
 
+- Timeline
+- Piano Concerto No. 5, Op. 73
+- [Influences](#influences)
+- [Significance](#significance)
+- [Performance and Reception](#performance-and-reception)
+- [Listening Guide](#listening-guide)
+
 [The sentences seem too long. It might be better to condense it to just introduce his major works.]
 
-# Timeline
+## Timeline
 
 | Year | Event                            | Description                                                                 |
 |------|----------------------------------|-----------------------------------------------------------------------------|
@@ -37,10 +44,13 @@ Beethoven was also experiencing some of his significant struggles, such as his w
 
 Although there are many groundbreaking compositional techniques in this piece, Beethoven still used some traditional techniques. For example, this piece consists of 3 movements, with the first movement using a sonata form. This structure was used by composers before Beethoven's time, such as Haydn in his [Piano Sonata in C Major, Hob.XVI:50](haydn-piano-sonata.md) and Mozart in his [Symphony No. 41](mozart-symphony.md). 
 
+### I. Allegro
 Unlike other concertos in the Classical period--and indeed, Beethoven's own previous concertos--Piano Concerto No. 5 opens with a striking innovation: a bold and broad orchestral chord introducing a written-out piano cadenza. The orchestra’s sustained chord interrupts the cadenza briefly, before the piano resumes, setting the tone for the dramatic, powerful journey to come. Following this unorthodox opening, the orchestra introduces a broad, main exposition theme, marked by stately dialogues between strings and winds. This theme embodies a typical Beethovenian style: bold, memorable, straightforward, yet rich with possibilities for expansion. It also brings a new spirit, reflecting Beethoven’s “heroic” period. The piano soon takes up the same theme, as both soloist and collaborator with the orchestra, blending the melody to showcase their unified dialogue. In the development section, the dialogue between piano and orchestra escalates, creating complex, engaging phrases that deepen the work's textural and harmonic complexity.. The recapitulation follows with no major changes, and when it comes to the cadenza preceding the coda part, Beethoven wrote, “Do not play a cadenza, but attack immediately the following”, to underscore his intention to maintain forward momentum, emphasizing the work's majesty rather than improvisational display. The first movement concludes with a stunning and sublime coda.
 
+### II. Adagio un poco mosso
 The second movement unfolds in the surprising key of B major, creating a peacful contrast to the heroic first movement. The muted strings introduce a slow, lyrical melody that evokes a profound sense of beauty, tenderness, and introspection. Following a small pause, the piano gently responds, offering variations on this theme that shimmer delicately, as if mirroring starlight. A brief contrast and drama interrupted the calm before returning to the main theme with the piano’s accompaniment surrounding the orchestra’s melody in soft, radiant tones. Unconventionally, this movement does not resolve in the usual manner; instead, it fades on a quiet note, with the piano descending by a half-step, subtly hinting at the spirited transformation in the final movement.
 
+### III. Rondo: Allegro ma non troppo
 From quiet tranquility, Beethoven made the third movement burst into life with energetic rhythm, broad, joyful lines, and vibrant colors. The melody played at the end of the second movement becomes the main theme with powerful syncopated rhythms and bold phrases, interspersed with imaginative, playful episodes. Near the end, the music slows down while becoming calm, with only the duet of piano and timpani with pianissimo dynamic. Suddenly, the piano soars majestic scale passages preceding the flourishing orchestra, marking the grandious and massive ending of the whole piano concerto.
 
 [I think it would be good to set a movement and explain it in more detail. Explaining the piano and orchestra parts!]
@@ -48,5 +58,13 @@ From quiet tranquility, Beethoven made the third movement burst into life with e
 ![Piano Concerto No  5, Op  73 accompaniment-2](https://github.com/user-attachments/assets/bd058033-c716-4cfe-a7e1-b3854e3f6a48)
 
 This is an example of the piano accompanying the orchestra in the piano concerto.
+
+## Influences
+
+## Significance
+
+## Performance and Reception
+
+## Listening Guide
 
 ***I think it would be good to divide the article into more paragraphs to make it easier to read.***
