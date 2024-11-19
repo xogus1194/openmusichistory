@@ -23,6 +23,7 @@ He is well-known for his delicate expressiveness and emotional compositions, par
 | 1830 | Music Career	| Started piano studies under Friedrich Wieck     |         |
 | 1832 | Hand Injury | Hand injury ended his pianist ambitions          |         |
 | 1834 | New Journal for Music | Founded a music journal, promoting young composers |         |
+| 1838 | Composed Kreisleriana op.16 | Composed during struggles over his love for Clara | [Listen](https://youtu.be/L16yD3HbBZI?si=yP5WUCadfR7Vtcbn) |
 | 1840 | Marriage | Married Clara Wieck after legal struggle |         |
 | 1841 | First Symphony	| Premiered Symphony No. 1, Spring |  [Listen](https://youtu.be/xmXWs-nPSjc?si=Ckwm4JDJ_RSZHU1t)       |
 | 1843 | Leipzig Conservatory	| Joined the Leipzig Conservatory as faculty |       | 
