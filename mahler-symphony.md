@@ -2,8 +2,8 @@
 ![Alt text](https://github.com/user-attachments/assets/7d53f50e-c8c2-476d-8c11-f7301c55dca2)
 
  - [Timeline](#timeline)
- - [Symphony](#symphony-no.1-d-major-titan)
- - [Conclude](#concluding-the-textbook-of-gustav-mahler's-symphony-no.1)
+ - [Symphony](#symphony-no-1-d-major-titan)
+ - [Conclude](#concluding-the-textbook-of-gustav-mahlers-symphony-no.1)
 
 
 ### Gustav Mahler: An Austrian Composer and Conductor of the Late Romantic Period   
