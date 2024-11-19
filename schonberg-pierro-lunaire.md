@@ -12,7 +12,7 @@
 - [Timeline](#timeline)
 - [Several notable features](several-notable-features)
 - [Instrumentation](instrumentation)
-- [Importance](importance)
+- [Importance](imporatnce)
 
 ## Timeline
 
