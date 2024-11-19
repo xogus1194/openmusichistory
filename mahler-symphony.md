@@ -83,11 +83,9 @@ This movement is extremely demanding, especially in the climactic final section,
 
 I believe this movement best captures Mahler's intent to explore themes of love, suffering, life, and death.   
 
-## Concluding the textbook of Gustav Mahler's Symphony no.1   
+# Concluding the textbook of Gustav Mahler's Symphony no.1   
 
-Some argue that if Mahler had lived longer, he might have incorporated his first student Arnold Schoenberg's atonal music into his own compositions.   
-
-Schoenberg's String Quartet No. 2 is regarded as a groundbreaking piece that paved the way from tonal to atonal music, and it is often considered to have evolved from Mahler's progressive tonality.   
+Some argue that if Mahler had lived longer, he might have incorporated his first student Arnold Schoenberg's atonal music into his own compositions. Schoenberg's String Quartet No. 2 is regarded as a groundbreaking piece that paved the way from tonal to atonal music, and it is often considered to have evolved from Mahler's progressive tonality.   
 
 To conclude this textbook, I will present an AI-generated illustration imagining Mahler and Schoenberg together, along with Schoenberg's masterpiece [Pierrot Lunaire](schonberg-pierro-lunaire.md)
 
