@@ -33,23 +33,23 @@ Comments: I think it would be better to explain Mahler's situation when Symphony
 ## 1st mov. [Langsam, Schleppend]
 ![Alt text](https://github.com/user-attachments/assets/564e7eba-334d-4b1a-aaaf-6150af23f269)
 
-#### The first movement begins quietly and mysteriously. [You don't have to write this because you state this sentence again below. You can choose one of these sentence to not make it double]
+#### The first movement begins quietly and mysteriously. [You don't have to write this because you state this sentence again below. You can choose one of these sentence to not make it double] - done
 
-The first movement begins quietly and mysteriously. On the first page of the score, all the strings create a calm atmosphere, setting the scene in a world that has yet to awaken. Gradually, the wind instruments join in, as if preparing for the dawn.   
+On the first page of the score, all the strings create a calm atmosphere, setting the scene in a world that has yet to awaken. Gradually, the wind instruments join in, as if preparing for the dawn.   
 
 This movement conveys a sense of the world gradually brightening and nature coming to life. The main melody of this movement also appears in Mahler’s song cycle Lieder eines fahrenden Gesellen, whose lyrics reflect his deep love for nature. With the clarinet imitating birdsong and the distant sound of the horn, Mahler captures his experience of nature through music.
 
 ## 2nd mov. [Kräftig bewegt, doch nicht zu schnell]
 
-#### It was composed in the form of the Austrian folk dance, the Ländler. [Same as the 1st mov, you don't have to write this and instead, you can choose one]
+#### It was composed in the form of the Austrian folk dance, the Ländler. [Same as the 1st mov, you don't have to write this and instead, you can choose one] - done
 
-The second movement is composed in the style of the Austrian folk dance, the Ländler. Although it takes the form of a scherzo, this movement gives the impression of country farmers dancing.   
+Although it takes the form of a scherzo, this movement gives the impression of country farmers dancing.   
 
 Its key feature is the repeating rhythms, primarily played by the strings and woodwinds. This second movement is the liveliest and most joyful part of Symphony No. 1, shifting away from the lyrical depiction of nature in the first movement to embrace a more energetic and dynamic expression.
 
 ## 3rd mov. [Feierlich und gemessen, ohne zu schleppen]
 
-#### In the third movement, Mahler arranged the French folk song 'Frère Jacques' in a minor key as a funeral march. [This is good because you don't write double sentences!]
+#### The third movement begins with a solemn and quiet funeral march. [This is good because you don't write double sentences!] - Thanks
 
 It conveys a heavy, sorrowful feeling, with an intent to express themes of death and loneliness.   
 
@@ -67,7 +67,7 @@ After this melody, the waltz-like music played by the woodwinds creates an other
 
 ## 4th mov. [Stürmisch bewegt]
 
-#### It begins immediately after the third movement. [I think everyone knows this, no? I think it will be better if you explain it like "this movement opens with powerful introduction representing a descent into hell (copied from your sentence below), contrasting with the solemn 3rd mov"]
+#### It begins with a powerful introduction that feels like a descent into hell, contrasting sharply with the solemn third movement. [I think everyone knows this, no? I think it will be better if you explain it like "this movement opens with powerful introduction representing a descent into hell (copied from your sentence below), contrasting with the solemn 3rd mov"] - done
 
 The powerful introduction, with cymbals, various percussion, and full orchestra, represents a descent into hell.   
 
@@ -89,4 +89,7 @@ Some argue that if Mahler had lived longer, he might have incorporated his first
 
 Schoenberg's String Quartet No. 2 is regarded as a groundbreaking piece that paved the way from tonal to atonal music, and it is often considered to have evolved from Mahler's progressive tonality.   
 
-To conclude this discussion, I will introduce Schoenberg's masterpiece, [Pierrot Lunaire](schonberg-pierro-lunaire.md)
+To conclude this textbook, I will present an AI-generated illustration imagining Mahler and Schoenberg together, along with Schoenberg's masterpiece [Pierrot Lunaire](schonberg-pierro-lunaire.md)
+
+![Alt text](https://github.com/user-attachments/assets/0d762611-b125-40ba-a80e-223a8f0e81ab)
+
