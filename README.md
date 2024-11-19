@@ -1,6 +1,12 @@
 # Open Music History
 > Open-source textbook for the History of Western Music
 
+## Table of Contents
+- [Introduction](introduction-to-the-history-of-western-music-open-source-textbook)
+- [Contributors](contributors)
+- [Works by composers[(works-by-composers)
+- [Works by periods](works-by-periods)
+
 ## Introduction to the History of Western Music Open-Source Textbook
 This textbook is a collaborative project created by students in the "History of Western Music 4" course at Hanyang University. Using the tools of open-source development, we aim to present an evolving account of Western music history that reflects each student's perspective and analysis. Each section of this textbook is devoted to key works by composers who have shaped the course of music from the Classical era to the 20th century. Through these contributions, students explore the distinctive qualities and innovations of each piece, offering insights into the broader historical and stylistic currents they represent.
 
@@ -62,8 +68,7 @@ As we explore these compositions, we invite readers to experience the varied sou
 
 ---
 
-## Table of Contents
-> By Composers
+## Works (by composers]
 
 ### Ludwig van Beethoven
 - [Piano Concerto No. 5 in C minor, Op. 73](beethoven-piano-concerto-5.md) by [piopio1248](https://github.com/piopio1248)
@@ -94,8 +99,7 @@ As we explore these compositions, we invite readers to experience the varied sou
 
 ---
 
-## Table of Contents
-> By Dates
+## Works (by periods)
 
 ### _18th Century_
 
