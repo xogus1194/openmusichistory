@@ -7,6 +7,13 @@ He is well-known for his delicate expressiveness and emotional compositions, par
 
 ![슈만 초상화](https://github.com/user-attachments/assets/c6aa4efc-e94c-4a37-8d17-4a45aa59bd71)
 
+- [Timeline](#timeline)
+- [About Hoffmann](#about-hoffmann)
+- [A brief description of each piece](#a-brief-description-of-each-piece)
+- [The Background of Kreisleriana’s Composition](#the-background-of-kreislerianas-composition)
+
+
+
 # Timeline
 
 | Year | Event | Description                                            | Youtube |
@@ -16,8 +23,9 @@ He is well-known for his delicate expressiveness and emotional compositions, par
 | 1830 | Music Career	| Started piano studies under Friedrich Wieck     |         |
 | 1832 | Hand Injury | Hand injury ended his pianist ambitions          |         |
 | 1834 | New Journal for Music | Founded a music journal, promoting young composers |         |
+| 1838 | Composed Kreisleriana op.16 | Composed during struggles over his love for Clara | [Listen](https://youtu.be/L16yD3HbBZI?si=yP5WUCadfR7Vtcbn) |
 | 1840 | Marriage | Married Clara Wieck after legal struggle |         |
-| 1841 | First Symphony	| Premiered Symphony No. 1, Spring |           |
+| 1841 | First Symphony	| Premiered Symphony No. 1, Spring |  [Listen](https://youtu.be/xmXWs-nPSjc?si=Ckwm4JDJ_RSZHU1t)       |
 | 1843 | Leipzig Conservatory	| Joined the Leipzig Conservatory as faculty |       | 
 | 1844 | Move to Dresden | Moved to Dresden for health and career reasons |        |  
 | 1850 | Düsseldorf | Appointed music director in Düsseldorf |         |
@@ -95,4 +103,4 @@ More than just a piano work, Kreisleriana represents one of Schumann’s most pe
 
 
 ### Now, step into Schumann’s musical world through this remarkable work. Join us in exploring the beauty of Kreisleriana and immersing yourself in the complex emotions it holds. Why not experience the messages and sentiments Schumann sought to convey? 
-[This is a book. Will you provide a youtube link of a performance on kreisleriana or what will you do based on the last sentence you wrote?]
+
