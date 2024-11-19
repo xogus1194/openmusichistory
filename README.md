@@ -4,7 +4,7 @@
 ## Table of Contents
 - [Introduction](introduction-to-the-history-of-western-music-open-source-textbook)
 - [Contributors](contributors)
-- [Works by composers[(works-by-composers)
+- [Works by composers](works-by-composers)
 - [Works by periods](works-by-periods)
 
 ## Introduction to the History of Western Music Open-Source Textbook
