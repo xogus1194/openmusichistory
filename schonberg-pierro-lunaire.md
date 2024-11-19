@@ -8,12 +8,25 @@
 	• Year of Composition: 1912
 	• Structure: Song cycle based on 21 poems
 	• Original Poet: Albert Giraud
- 
+
+# Timeline
+ | Year | Event        | Description                                       | YouTube 📺                                                |
+ | ---- | ------------ | ------------------------------------------------- | --------------------------------------------------------- |
+ | 1874 | Birth        | Born on September 13, 1874 in Bin, Vienna, Austria|                                                           |
+ | 1894 | Early Work   | Zwei Lieder                                       | [Watch](https://www.youtube.com/watch?v=cSqhM9DPHr4)      |
+ | 1912 | Famous Work  | Pierrot Lunaire 😄                                | [Watch](https://youtu.be/vQVkbKULKpI?si=XpeT-0TYAx_oDjTn) | 
+
+> The study of the friendship or personal relationship between [Gustav Mahler](https://github.com/hskye79/openmusichistory/blob/main/mahler-symphony.md) (1860-1911) and Arnold Schoenberg (1874-1951) initially began through primary sources such as the memoirs and letters of Mahler’s wife, Alma (1879-1964), as well as Schoenberg’s lectures. Since then, musicologists have focused on the friendship or musical influence between these composers. Through these documents, we learn that Schoenberg was initially not very friendly toward Mahler, but gradually came to respect him personally after their first meeting. Furthermore, it is evident that Mahler supported his younger colleague Schoenberg in various ways.
+
 <div align="center">
 <img src="schoneberg.jpg">
 </div>
 
-### This piece has several notable features.
+<div align="center">
+<img src="mahler and schoneberg.png" width="500px">
+</div>
+
+## 'Pierot Lunaire' has several notable features.
 
 Comments: It would be better to show this interesting features with the score and add what parts it is.
 

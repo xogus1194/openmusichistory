@@ -7,35 +7,49 @@ Gustav Mahler, an Austrian composer and conductor, emerged as a leading figure o
 
 ### Themes of Love, Pain, and Death in His Music   
 
-Mahler’s music frequently explores themes of love, pain, and death. The deep sadness he experienced after the loss of his brothers, parents, and daughter, as well as his fears around love and death due to his wife’s unfaithfulness, likely had a profound influence on his compositions.
+Mahler’s music frequently explores themes of love, pain, and death. The deep sadness he experienced after the loss of his brothers, parents, and daughter, as well as his fears around love and death due to his wife’s unfaithfulness, likely had a profound influence on his compositions.   
+
+
+# Gustav Mahler's Timeline
+
+| Year | Event    | Description                                  | YouTube |
+| ---- | -------- | -------------------------------------------- | ------- |
+| 1860 | Birth    | Born on July 7, 1860 in Kalischt, Austria    |         |
+| 1875 | Study    | Start the study music at Vienna Conservatory |         |
+| 1880 | Conduct  | First conduct at Bad-Hall                    |         |
+| 1888 | Composed | Composed the Mahler's Symphony no.1          | [Watch](https://youtu.be/4XbHLFkg_Mw?si=W8AQzkD3ie0Ekg10) :tv: |
+| 1889 | Premier  | First concert of Symphony no.1 at Budapest   |         |
+| 1902 | Marriage | Marriage with Alma Schindler                 |         |
+| 1911 | Death    | Died of bacterial endocarditis.              |         |
+
+# Symphony no.1 D Major (Titan)
 
 ### Introducing Mahler's Symphony No. 1   
 
-Gustav Mahler's Symphony No. 1, often called the "Titan," is one of his most celebrated works. Composed between 1884 and 1888, this symphony captures Mahler's exploration of nature, life, and human emotion. The piece opens with quiet, mysterious sounds, evoking a world awakening, and moves through a range of moods—from lively folk dances to haunting, solemn marches. The final movement builds to a powerful and triumphant climax. Symphony No. 1 showcases Mahler's signature blend of beauty, intensity, and innovation, making it a milestone in the symphonic repertoire.
+Gustav Mahler's Symphony No. 1, often called the "Titan," is one of his most celebrated works. Composed between 1884 and 1888, this symphony captures Mahler's exploration of nature, life, and human emotion. It was written during Mahler's tenure as the assistant conductor at the Leipzig Opera. The piece opens with quiet, mysterious sounds, evoking a world awakening, and moves through a range of moods—from lively folk dances to haunting, solemn marches. The final movement builds to a powerful and triumphant climax. Symphony No. 1 showcases Mahler's signature blend of beauty, intensity, and innovation, making it a milestone in the symphonic repertoire.
 
-Comments: I think it would be better to explain Mahler's situation when Symphony No. 1 was composed. I love the detailed explanation of each movement!
+Comments: I think it would be better to explain Mahler's situation when Symphony No. 1 was composed. I love the detailed explanation of each movement! - Done
 
-# Symphony no.1 D Major (Titan)
 ## 1st mov. [Langsam, Schleppend]
 ![Alt text](https://github.com/user-attachments/assets/564e7eba-334d-4b1a-aaaf-6150af23f269)
 
-#### The first movement begins quietly and mysteriously.
+#### The first movement begins quietly and mysteriously. [You don't have to write this because you state this sentence again below. You can choose one of these sentence to not make it double] - done
 
-The first movement begins quietly and mysteriously. On the first page of the score, all the strings create a calm atmosphere, setting the scene in a world that has yet to awaken. Gradually, the wind instruments join in, as if preparing for the dawn.   
+On the first page of the score, all the strings create a calm atmosphere, setting the scene in a world that has yet to awaken. Gradually, the wind instruments join in, as if preparing for the dawn.   
 
 This movement conveys a sense of the world gradually brightening and nature coming to life. The main melody of this movement also appears in Mahler’s song cycle Lieder eines fahrenden Gesellen, whose lyrics reflect his deep love for nature. With the clarinet imitating birdsong and the distant sound of the horn, Mahler captures his experience of nature through music.
 
 ## 2nd mov. [Kräftig bewegt, doch nicht zu schnell]
 
-#### It was composed in the form of the Austrian folk dance, the Ländler.   
+#### It was composed in the form of the Austrian folk dance, the Ländler. [Same as the 1st mov, you don't have to write this and instead, you can choose one] - done
 
-The second movement is composed in the style of the Austrian folk dance, the Ländler. Although it takes the form of a scherzo, this movement gives the impression of country farmers dancing.   
+Although it takes the form of a scherzo, this movement gives the impression of country farmers dancing.   
 
 Its key feature is the repeating rhythms, primarily played by the strings and woodwinds. This second movement is the liveliest and most joyful part of Symphony No. 1, shifting away from the lyrical depiction of nature in the first movement to embrace a more energetic and dynamic expression.
 
 ## 3rd mov. [Feierlich und gemessen, ohne zu schleppen]
 
-#### In the third movement, Mahler arranged the French folk song 'Frère Jacques' in a minor key as a funeral march.   
+#### The third movement begins with a solemn and quiet funeral march. [This is good because you don't write double sentences!] - Thanks
 
 It conveys a heavy, sorrowful feeling, with an intent to express themes of death and loneliness.   
 
@@ -53,7 +67,7 @@ After this melody, the waltz-like music played by the woodwinds creates an other
 
 ## 4th mov. [Stürmisch bewegt]
 
-#### It begins immediately after the third movement.   
+#### It begins with a powerful introduction that feels like a descent into hell, contrasting sharply with the solemn third movement. [I think everyone knows this, no? I think it will be better if you explain it like "this movement opens with powerful introduction representing a descent into hell (copied from your sentence below), contrasting with the solemn 3rd mov"] - done
 
 The powerful introduction, with cymbals, various percussion, and full orchestra, represents a descent into hell.   
 
@@ -67,4 +81,15 @@ The descending intervals create an effect of falling into an endless abyss. As t
 
 This movement is extremely demanding, especially in the climactic final section, which is marked fortississimo (fff). It calls on the full strength of both performers and audience, touching them deeply.   
 
-I believe this movement best captures Mahler's intent to explore themes of love, suffering, life, and death.
+I believe this movement best captures Mahler's intent to explore themes of love, suffering, life, and death.   
+
+## Concluding the textbook of Gustav Mahler's Symphony no.1   
+
+Some argue that if Mahler had lived longer, he might have incorporated his first student Arnold Schoenberg's atonal music into his own compositions.   
+
+Schoenberg's String Quartet No. 2 is regarded as a groundbreaking piece that paved the way from tonal to atonal music, and it is often considered to have evolved from Mahler's progressive tonality.   
+
+To conclude this textbook, I will present an AI-generated illustration imagining Mahler and Schoenberg together, along with Schoenberg's masterpiece [Pierrot Lunaire](schonberg-pierro-lunaire.md)
+
+![Alt text](https://github.com/user-attachments/assets/0d762611-b125-40ba-a80e-223a8f0e81ab)
+

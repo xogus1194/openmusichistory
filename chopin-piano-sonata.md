@@ -1,6 +1,9 @@
 # Chopin
 ## Piano Sonata [Which one?]
-<img src="chopin.png">
+<div align="center">
+<img src="chopin.png" width="400" height="400">
+</div>
+
 Frédéric Chopin, one of the most revered composers for the piano, is known for his unparalleled ability to express profound emotions through the instrument. His Piano Sonata No. 2 in B-flat minor is a quintessential example of his lyrical genius, blending technical sophistication with deep emotional resonance.
 
 The sonata consists of three movements, the second of which, the Funeral March, has become iconic for its solemn and tragic atmosphere. This movement is perhaps the most widely known of Chopin’s works, due to its use at his own funeral and its ability to evoke universal themes of mourning and loss. The funeral march is marked by a steady, plodding rhythm, invoking the image of a slow, deliberate procession, yet it is imbued with a sense of dignified sorrow.
@@ -11,6 +14,20 @@ The first and final movements of the sonata, marked Grave and Finale, offer a ri
 
 Chopin's Piano Sonata No. 2 not only highlights his mastery of the piano, but also his ability to weave profound emotional expression into every note, making this work one of his most beloved and enduring compositions.
 
+# Timeline
+
+|Year|Event      |Description                                             |YouTube|
+|----|-------------------|------------------------------------------------|-------|
+|1810|Birth              |Born on March 10 1810 in Żelazowa Wola, Poland  |       |
+|1817|first composition  |Composing first work at the age of seven        |       |
+|1826|Entrance to school |Study at Warsaw Conservatory                    |       |
+|1838|Prelude Composition|24 famous Prelude compositions                  |[Watch](https://www.youtube.com/watch?v=SqXYIteAfNs)       |
+|1849|Death              |Death from tuberculosis in Paris                |       |
+
+<div align="center">
+<img src="Chopin2.png" width="400" height="400">
+</div>
+
 <img src="chopin_sonata.png">
 
 Comments: It would be nice to use sub-headings to divide the paragraphs clearly.
@@ -18,3 +35,6 @@ Comments: It would be nice to use sub-headings to divide the paragraphs clearly.
 Comments: Can you explain about Chopin's style of sonata form?
 
 Comments: I think it will be easier to read if you use bold text.
+
+
+I think it would be better to explain the work in more detail.
