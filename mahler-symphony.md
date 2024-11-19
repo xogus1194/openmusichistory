@@ -1,6 +1,11 @@
 # Gustav Mahler
 ![Alt text](https://github.com/user-attachments/assets/7d53f50e-c8c2-476d-8c11-f7301c55dca2)
 
+ - [Timeline](#gustav-mahler's-timeline)
+ - [Symphony](#symphony-no.1-d-major-(titan))
+ - [Conlude](#concluding-the-textbook-of-gustav-mahler's-symphony-no.1)
+
+
 ### Gustav Mahler: An Austrian Composer and Conductor of the Late Romantic Period   
 
 Gustav Mahler, an Austrian composer and conductor, emerged as a leading figure of the Late Romantic period. Although his family was poor, Mahler showed exceptional musical talent from a young age, and at 13, he began studying piano and composition at the Vienna Conservatory. Before he gained recognition as a composer, Mahler became well-known as an opera conductor, leading several opera houses and gaining fame for his work. However, composing was always his true passion. Even during summer vacations, he would devote himself to completing his symphonies.   
