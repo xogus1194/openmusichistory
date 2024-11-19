@@ -33,7 +33,8 @@ He is well-known for his delicate expressiveness and emotional compositions, par
 | 1856 | Death | Died on July 29 in an asylum near Bonn |              |
 
 The work by Schumann that I chose, *Kreisleriana*, is a piece composed based on a novel by Hoffmann.
-![Schumann wood](https://github.com/user-attachments/assets/e51750b9-cf05-4c31-82a1-f4d0946ae8c0)
+
+<img src="Schumann wood.png" width="600" height="600">
 
 So, who is Hoffmann?
 
