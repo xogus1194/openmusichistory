@@ -1,13 +1,14 @@
 # Open Music History
-Open-source textbook for the History of Western Music
+> Open-source textbook for the History of Western Music
 
 ## Introduction to the History of Western Music Open-Source Textbook
-
 This textbook is a collaborative project created by students in the "History of Western Music 4" course at Hanyang University. Using the tools of open-source development, we aim to present an evolving account of Western music history that reflects each student's perspective and analysis. Each section of this textbook is devoted to key works by composers who have shaped the course of music from the Classical era to the 20th century. Through these contributions, students explore the distinctive qualities and innovations of each piece, offering insights into the broader historical and stylistic currents they represent.
+
+This project also contributes to achieving Sustainable Development Goal 4 (SDG 4) by promoting inclusive and equitable quality education. By engaging students in the collaborative creation of an open-source textbook, the course fosters participatory learning and provides accessible educational resources that can benefit a global audience, ensuring lifelong learning opportunities for all.
 
 In this edition, the collected works span significant milestones, from the emotive and heroic expressions of Beethoven's Piano Concerto No. 5 and the dynamic character of his "Waldstein" and "Les Adieux" sonatas to Chopin’s profoundly expressive Piano Sonata No. 2 and Schumann's deeply introspective Kreisleriana. The students have also delved into the innovations of Haydn's keyboard sonata, Mozart’s majestic Symphony No. 41, and Mahler’s transformative Symphony No. 1, each piece reflecting shifts in compositional form and expressive depth.
 
-The 20th century is represented through Schönberg’s Pierrot lunaire, a work that challenges traditional tonality and form, and Busoni's complex Piano Sonata in F minor, which bridges Romanticism and modernist thought. Together, these contributions reveal not only the evolution of musical language but also how each composer redefined possibilities in harmony, rhythm, and form.
+The 20th century is represented through Schönberg’s *Pierrot lunaire*, a work that challenges traditional tonality and form, and Busoni's complex Piano Sonata in F minor, which bridges Romanticism and modernist thought. Together, these contributions reveal not only the evolution of musical language but also how each composer redefined possibilities in harmony, rhythm, and form.
 
 As we explore these compositions, we invite readers to experience the varied sounds and ideas that have defined Western music and to consider the ongoing impact of these works in both past and contemporary contexts. Through this shared journey, we continue to expand our understanding of music's history and its place in the larger cultural dialogue.
 
