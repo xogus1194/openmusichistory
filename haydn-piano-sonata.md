@@ -4,6 +4,7 @@
 
 - [Haydn's life and career](#haydns-life-and-career)
 - [Form: Sonata-Allegro Form](#form-sonata-allegro-form)
+- [Tips for practicing](#tips-for-practicing)
 - [Listening Guide](#listening-guide)
 
 
@@ -75,6 +76,9 @@ Imagine the right hand as telling a story, with the left hand responding. This w
 Above all, enjoy the music! Haydn’s Piano Sonata Hob. XVI:50 is a delightful work full of energy and wit, and it offers a rewarding experience both for the performer and the audience.
 
 This first movement of Haydn’s Piano Sonata in C Major is a perfect example of his mastery of form, rhythm, and melody. It embodies the Classical spirit with a touch of humor and inventiveness, making it an enjoyable piece for performers and audiences alike. [You can put the word "overall" here if you want to]
+
+# Listening Guide
+
 
 Comment:The sheet music is a little short, but the content is good!
 
