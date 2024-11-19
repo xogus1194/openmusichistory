@@ -2,7 +2,7 @@
 ![Alt text](https://github.com/user-attachments/assets/7d53f50e-c8c2-476d-8c11-f7301c55dca2)
 
  - [Timeline](#timeline)
- - [Symphony](#symphony-no-1-d-major-titan)
+ - [Symphony](#symphony-no1-d-major-titan)
  - [Conclude](#concluding-the-textbook-of-gustav-mahlers-symphony-no.1)
 
 
