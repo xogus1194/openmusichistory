@@ -1,9 +1,9 @@
 # Gustav Mahler
 ![Alt text](https://github.com/user-attachments/assets/7d53f50e-c8c2-476d-8c11-f7301c55dca2)
 
- - [Timeline](#gustav-mahler's-timeline)
- - [Symphony](#symphony-no.1-d-major-(titan))
- - [Conlude](#concluding-the-textbook-of-gustav-mahler's-symphony-no.1)
+ - [Timeline](#timeline)
+ - [Symphony](#symphony-no.1-d-major-titan)
+ - [Conclude](#concluding-the-textbook-of-gustav-mahler's-symphony-no.1)
 
 
 ### Gustav Mahler: An Austrian Composer and Conductor of the Late Romantic Period   
@@ -15,7 +15,7 @@ Gustav Mahler, an Austrian composer and conductor, emerged as a leading figure o
 Mahler’s music frequently explores themes of love, pain, and death. The deep sadness he experienced after the loss of his brothers, parents, and daughter, as well as his fears around love and death due to his wife’s unfaithfulness, likely had a profound influence on his compositions.   
 
 
-# Gustav Mahler's Timeline
+# Timeline
 
 | Year | Event    | Description                                  | YouTube |
 | ---- | -------- | -------------------------------------------- | ------- |
@@ -27,7 +27,7 @@ Mahler’s music frequently explores themes of love, pain, and death. The deep s
 | 1902 | Marriage | Marriage with Alma Schindler                 |         |
 | 1911 | Death    | Died of bacterial endocarditis.              |         |
 
-# Symphony no.1 D Major (Titan)
+# Symphony no.1 D Major Titan
 
 ### Introducing Mahler's Symphony No. 1   
 
