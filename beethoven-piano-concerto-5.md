@@ -9,8 +9,8 @@ Beethoven has set groundbreaking innovations in composing music. First, he broke
 
 A picture of Beethoven "breaking" the rules of classical era music and innovating romanticism.
 
-- Timeline
-- Piano Concerto No. 5, Op. 73
+- [Timeline](#timeline)
+- [Piano Concerto No. 5, Op. 73](#piano-concerto-no-5-op-73)
 - [Influences](#influences)
 - [Significance](#significance)
 - [Performance and Reception](#performance-and-reception)
