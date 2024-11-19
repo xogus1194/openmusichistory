@@ -38,8 +38,6 @@ This piece was directly influenced by Beethoven's piano sonatas, especially [Pia
 ### Introduction
 **Ludwig van Beethoven’s Piano Sonata No. 26**, also known as *“Das Lebewohl”* or *“Les Adieux,”* holds a unique place in his oeuvre, embodying personal and historical significance. This sonata is one of the few works where Beethoven himself assigned a programmatic title, revealing his deep attachment to his student and friend, Archduke Rudolph. Composed during a tumultuous time when Vienna was under siege by Napoleon’s forces, the piece reflects themes of farewell, absence, and reunion—capturing Beethoven’s emotions as he bid goodbye to the Archduke, who had to flee Vienna amidst the conflict.
 
----
-
 ### The Sonata’s Background and Structure
 Completed between 1809 and early 1810, this sonata is organized into three movements, each marked with German titles that convey the progression of emotions associated with departure and return. Beethoven expressed frustration when the French publisher later altered these titles to the French equivalents, feeling that they lost the intimate nuance of the original German phrases.
 
@@ -58,8 +56,6 @@ Marked Vivacissimamente, the final movement bursts forth with jubilant energy, c
 <div align="center">
 <img src="rudolph.png" width="400" hight="400">
 </div>
-
----
 
 ### Conclusion [I would like it to be more visually noticeable.]
 Beethoven dedicated this sonata to Archduke Rudolph, whose patronage and friendship provided the composer with vital support. Beyond its historical context, the work embodies universal emotions of parting and reunion, translating personal experience into a profoundly moving musical narrative. As such, Das Lebewohl offers listeners a unique glimpse into Beethoven’s capacity to blend personal emotion with his innovative musical style, making it one of the most expressive and narrative-driven sonatas in the classical repertoire.
