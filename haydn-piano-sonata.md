@@ -6,6 +6,11 @@
 
 - [Haydn's life and career](#haydns-life-and-career)
 - [Form: Sonata-Allegro Form](#form-sonata-allegro-form)
+
+   -[Exposition](#exposition)
+   -[Development](#development)
+   -[Recapitulation](#recapitulation)
+   -[Coda](#coda)
 - [Tips for practicing](#tips-for-practicing)
 - [Listening Guide](#listening-guide)
 
