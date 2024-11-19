@@ -11,8 +11,8 @@
 
 - [Timeline](#timeline)
 - [Several Notable Features](#several-notable-features)
-  - [1. Atonality](1-atonality)
-  - [2. Sprechstimme](2-sprechstimme)
+  - [1. Atonality](#1-atonality)
+  - [2. Sprechstimme](#2-sprechstimme)
 - [Instrumentation](#instrumentation)
 - [Importance](#importance)
 
