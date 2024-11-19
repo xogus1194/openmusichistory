@@ -32,7 +32,7 @@ As we explore these compositions, we invite readers to experience the varied sou
 
 ### Hee Seng Kye  
 [hskye79](https://github.com/hskye79)  
-> Musicologist from Korea; Associate Professor of Musicology at Hanyang University.
+> Musicologist from Korea; Associate Professor of Music at Hanyang University.
 
 ### Lee Minji  
 [leeminji0110](https://github.com/leeminji0110)  
