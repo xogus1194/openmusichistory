@@ -17,7 +17,7 @@ Gustav Mahler, an Austrian composer and conductor, emerged as a leading figure o
 Mahler’s music frequently explores themes of love, pain, and death. The deep sadness he experienced after the loss of his brothers, parents, and daughter, as well as his fears around love and death due to his wife’s unfaithfulness, likely had a profound influence on his compositions.   
 
 
-# Timeline
+## Timeline
 
 | Year | Event    | Description                                  | YouTube |
 | ---- | -------- | -------------------------------------------- | ------- |
