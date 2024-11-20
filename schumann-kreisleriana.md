@@ -1,6 +1,8 @@
 # Robert Schumann
-## Kreisleriana op.16
+
+## _Kreisleriana_, Op. 16
 Schumann is the most lyrical and emotionally expressive composer among those of the Romantic era. Also, this work most clearly reflects Schumann's distinctive character. 
+
 ## About Schumann
 Robert Schumann (1810-1856) was a German composer and music critic, representing one of the most iconic figures of Romantic music. 
 He is well-known for his delicate expressiveness and emotional compositions, particularly excelling in piano music, lieder songs, and symphonies.
@@ -12,9 +14,7 @@ He is well-known for his delicate expressiveness and emotional compositions, par
 - [A brief description of each piece](#a-brief-description-of-each-piece)
 - [The Background of Kreisleriana’s Composition](#the-background-of-kreislerianas-composition)
 
-
-
-# Timeline
+## Timeline
 
 | Year | Event | Description                                            | Youtube |
 | ---- | ----- | -------------------------------------------------------|---------|
@@ -35,10 +35,7 @@ He is well-known for his delicate expressiveness and emotional compositions, par
 The work by Schumann that I chose, *Kreisleriana*, is a piece composed based on a novel by Hoffmann.
 ![Schumann wood](https://github.com/user-attachments/assets/e51750b9-cf05-4c31-82a1-f4d0946ae8c0)
 
-
 So, who is Hoffmann?
-
-
 
 ## About Hoffmann
 E.T.A. Hoffmann was a prominent novelist, composer, and critic representing German Romanticism in the early 19th century.
@@ -55,10 +52,8 @@ In his music, Schumann portrayed his two contrasting selves: the calm and reflec
 ![Schumann 악보-1](https://github.com/user-attachments/assets/019736ac-77b9-410d-b07e-64c2fcc736c0)
 This piece was directly influenced by Mozart's symphony, especially [symphony no.41](mozart-symphony.md). (This is not true.)
 
-
-
 ## A brief description of each piece
-*1. Äußerst bewegt*
+### *1. Äußerst bewegt*
 
 The first piece opens with intensity and passion, featuring an urgent, restless rhythm. The recurring turbulent melody suggests an unstable psychological state, revealing Schumann’s bold “Florestan” character. It evokes a sense of inner turmoil and fervent desire, aligning with the unpredictable nature of Kreisler himself.
 
