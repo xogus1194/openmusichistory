@@ -61,7 +61,7 @@ Harmonic Language: Haydn's harmonic language is inventive, with unexpected modul
 # Performance Notes
 Expression: Performers are encouraged to emphasize the contrasts between the themes and to bring out the playful elements. Dynamic variations and phrasing will enhance the movement's character.
 
-Overall, the first movement of Haydn's Piano Sonata in C Major is a vibrant and engaging work that showcases Haydn's mastery of form and melody, making it a delightful experience for both performers and audiences. [I don't think it's good to begin a sentence with "overall" if it is not your last sentence of your writing]
+The first movement of Haydn's Piano Sonata in C Major is a vibrant and engaging work that showcases Haydn's mastery of form and melody, making it a delightful experience for both performers and audiences. [I don't think it's good to begin a sentence with "overall" if it is not your last sentence of your writing]
 
 ## Emotional Connection
 While the movement is upbeat and cheerful, it also contains moments of subtle expressiveness. The humor in the piece is not overt but comes through in Haydn's playful use of harmonic shifts and rhythmic surprises. Encourage performers to approach the piece with a sense of lightheartedness, allowing the music to flow naturally with a sense of optimism and joy.
@@ -81,10 +81,19 @@ Imagine the right hand as telling a story, with the left hand responding. This w
 ### Have Fun!
 Above all, enjoy the music! Haydn’s Piano Sonata Hob. XVI:50 is a delightful work full of energy and wit, and it offers a rewarding experience both for the performer and the audience.
 
-This first movement of Haydn’s Piano Sonata in C Major is a perfect example of his mastery of form, rhythm, and melody. It embodies the Classical spirit with a touch of humor and inventiveness, making it an enjoyable piece for performers and audiences alike. [You can put the word "overall" here if you want to]
+Overall, this first movement of Haydn’s Piano Sonata in C Major is a perfect example of his mastery of form, rhythm, and melody. It embodies the Classical spirit with a touch of humor and inventiveness, making it an enjoyable piece for performers and audiences alike. [You can put the word "overall" here if you want to]
 
 ## Listening Guide
+This listening guide explores, offering insights into the unique interpretations of various pianists.
 
+[1. Emanuel Ax's performance](https://www.youtube.com/watch?v=VijCE-3YvL8)
+His performance is marked by its lively and playful energy. He focuses on the clarity of the passagework, allowing each note to resonate with precision. His touch is light, and the phrasing is natural, emphasizing the whimsical, almost conversational qualities of the music.
+
+[2. Andres Schiff](https://www.youtube.com/watch?v=j344jYmqtDw)
+The opening Allegro is light and brisk, with Schiff's attention to detail creating a sense of playful forward motion. Schiff emphasizes Haydn's wit and the sonata's rich emotional contrasts. His approach balances playful lightness with more introspective momnets.
+
+[3. Glenn Gould](https://www.youtube.com/watch?v=VfmmVQhg3-0)
+Gould plays with clear, almost detached articulation that emphasizes clarity over conventional lyricism. While this style may not bring the full "playfulness" some other performances capture, Gould’s rendition has a unique, crisp quality that highlights the structure of the piece in a way that reveals deeper layers of Haydn's compositional ingenuity. He occasionally emphasizes certain harmonic shifts and key moments with a slight push, providing both a sense of forward motion and a subtle invitation for reflection.
 
 Comment:The sheet music is a little short, but the content is good!
 
