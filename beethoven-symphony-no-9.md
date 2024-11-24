@@ -1,6 +1,6 @@
-# Ludwig van Beethoven
+# Ludwig van Beethoven (1770–1827)
 
-### Ludwig van Beethoven (1770–1827) was a German composer and pianist, renowned as a pivotal figure bridging the Classical and Romantic eras in music history.
+### Ludwig van Beethoven was a German composer and pianist, renowned as a pivotal figure bridging the Classical and Romantic eras in music history.
 
 Childhood and Early Years:
 Beethoven was born in Bonn and showed remarkable musical talent from a young age. His father rigorously trained him, hoping to mold him into a prodigy like Mozart.
