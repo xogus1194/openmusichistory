@@ -48,7 +48,7 @@ In his later years, his health deteriorated along with his hearing, leading to a
  
 ### Introducing Beethoven's Symphony no.9
 
-***Beethoven's Symphony No. 9*** is regarded as one of the greatest masterpieces in the history of music, achieving innovation in both form and content. Based on Friedrich Schiller's poem "Ode to Joy," this work celebrates humanity, freedom, and peace, earning universal acclaim worldwide.
+***Beethoven's Symphony No.9*** is regarded as one of the greatest masterpieces in the history of music, achieving innovation in both form and content. Based on Friedrich Schiller's poem ***Ode to Joy*** this work celebrates humanity, freedom, and peace, earning universal acclaim worldwide. This piece is more than just a musical composition, it is an artistic and philosophical declaration embodying the ideals and hopes of humanity. Created despite his complete loss of hearing, this work demonstrates the greatness of the human spirit and the boundless power of art.
 
 ## 1st Mov. [Allegro ma non troppo, un poco maestoso]
 
