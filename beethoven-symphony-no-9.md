@@ -41,7 +41,33 @@ In his later years, his health deteriorated along with his hearing, leading to a
 
 ---
 
-# Beethoven Symphony no.9
+# Beethoven Symphony no.9 in D minor, Op. 125
+
+ - Composed : 1822 ~ 1824
+ - First Concert : May 7, 1824, in Vienna
+ 
+### Introducing Beethoven's Symphony no.9
+
+***Beethoven's Symphony No. 9*** is regarded as one of the greatest masterpieces in the history of music, achieving innovation in both form and content. Based on Friedrich Schiller's poem "Ode to Joy," this work celebrates humanity, freedom, and peace, earning universal acclaim worldwide.
+
+## 1st Mov. [Allegro ma non troppo, un poco maestoso]
+
+
+## 2nd Mov. [Molto vivace – Presto]
+
+
+## 3rd Mov. [Adagio molto e cantabile]
+
+
+## 4th Mov. [Finale: Presto – Allegro assai]
+
+
+
+
+
+
+
+
 
 
 
