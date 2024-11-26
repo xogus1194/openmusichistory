@@ -1,13 +1,20 @@
 # Robert Schumann
-## Kreisleriana op.16
+
+## _Kreisleriana_, Op. 16
 Schumann is the most lyrical and emotionally expressive composer among those of the Romantic era. Also, this work most clearly reflects Schumann's distinctive character. 
+
 ## About Schumann
 Robert Schumann (1810-1856) was a German composer and music critic, representing one of the most iconic figures of Romantic music. 
 He is well-known for his delicate expressiveness and emotional compositions, particularly excelling in piano music, lieder songs, and symphonies.
 
 ![슈만 초상화](https://github.com/user-attachments/assets/c6aa4efc-e94c-4a37-8d17-4a45aa59bd71)
 
-# Timeline
+- [Timeline](#timeline)
+- [About Hoffmann](#about-hoffmann)
+- [A brief description of each piece](#a-brief-description-of-each-piece)
+- [The Background of Kreisleriana’s Composition](#the-background-of-kreislerianas-composition)
+
+## Timeline
 
 | Year | Event | Description                                            | Youtube |
 | ---- | ----- | -------------------------------------------------------|---------|
@@ -16,8 +23,9 @@ He is well-known for his delicate expressiveness and emotional compositions, par
 | 1830 | Music Career	| Started piano studies under Friedrich Wieck     |         |
 | 1832 | Hand Injury | Hand injury ended his pianist ambitions          |         |
 | 1834 | New Journal for Music | Founded a music journal, promoting young composers |         |
+| 1838 | Composed Kreisleriana op.16 | Composed during struggles over his love for Clara | [Listen](https://youtu.be/L16yD3HbBZI?si=yP5WUCadfR7Vtcbn) |
 | 1840 | Marriage | Married Clara Wieck after legal struggle |         |
-| 1841 | First Symphony	| Premiered Symphony No. 1, Spring |           |
+| 1841 | First Symphony	| Premiered Symphony No. 1, Spring |  [Listen](https://youtu.be/xmXWs-nPSjc?si=Ckwm4JDJ_RSZHU1t)       |
 | 1843 | Leipzig Conservatory	| Joined the Leipzig Conservatory as faculty |       | 
 | 1844 | Move to Dresden | Moved to Dresden for health and career reasons |        |  
 | 1850 | Düsseldorf | Appointed music director in Düsseldorf |         |
@@ -27,10 +35,7 @@ He is well-known for his delicate expressiveness and emotional compositions, par
 The work by Schumann that I chose, *Kreisleriana*, is a piece composed based on a novel by Hoffmann.
 ![Schumann wood](https://github.com/user-attachments/assets/e51750b9-cf05-4c31-82a1-f4d0946ae8c0)
 
-
 So, who is Hoffmann?
-
-
 
 ## About Hoffmann
 E.T.A. Hoffmann was a prominent novelist, composer, and critic representing German Romanticism in the early 19th century.
@@ -47,10 +52,8 @@ In his music, Schumann portrayed his two contrasting selves: the calm and reflec
 ![Schumann 악보-1](https://github.com/user-attachments/assets/019736ac-77b9-410d-b07e-64c2fcc736c0)
 This piece was directly influenced by Mozart's symphony, especially [symphony no.41](mozart-symphony.md). (This is not true.)
 
-
-
 ## A brief description of each piece
-*1. Äußerst bewegt*
+### *1. Äußerst bewegt*
 
 The first piece opens with intensity and passion, featuring an urgent, restless rhythm. The recurring turbulent melody suggests an unstable psychological state, revealing Schumann’s bold “Florestan” character. It evokes a sense of inner turmoil and fervent desire, aligning with the unpredictable nature of Kreisler himself.
 
@@ -95,4 +98,4 @@ More than just a piano work, Kreisleriana represents one of Schumann’s most pe
 
 
 ### Now, step into Schumann’s musical world through this remarkable work. Join us in exploring the beauty of Kreisleriana and immersing yourself in the complex emotions it holds. Why not experience the messages and sentiments Schumann sought to convey? 
-[This is a book. Will you provide a youtube link of a performance on kreisleriana or what will you do based on the last sentence you wrote?]
+
