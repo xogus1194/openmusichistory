@@ -13,8 +13,6 @@ His original plan was to “to make picturesque, characteristic and fanciful wor
 In the preface of Java Suite score, Godowsky stated his inspirations of making this piece:
 > The Island of Java, called ‘The Garden of the East,’ with a population of close to forty million, is the most densely inhabited island in the world. It has a tropical, luxuriant vegetation; marvelous scenery and picturesque inhabitants; huge volcanoes, active and extinct; majestic ruins and imposing monuments of many centuries past…It was, however, the native music of the Javanese, in the heart of Java, at Djokja and Solo that made the most profound impression on me.
 
-Therefore, we can conclude that **JAVA IS KEY**
-
 Out of the twelve pieces, eight are inspired from specific city, location, monument, or landmark (Sacred lake of Wendit, BoroBudur Temple, Mount Bromo, Buitenzorg Gardens, Old Batavia Streets, Kraton Djokja and Kraton Solo, Taman Sari Djokja, and the city of Solo), meanwhile the other four (Gamelan, Wayang Purwa, Hari Besaar, and Three Dances) reflect his general musical and cultural impressions throughout his journey.
 
 The map of Java below highlights the major cities and locations featured in the Suite, with the numbers indicating the order of each movement in the composition.
