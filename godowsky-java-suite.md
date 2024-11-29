@@ -2,6 +2,9 @@
 
 ![image](https://github.com/user-attachments/assets/f127db3b-45cf-4c3a-ab2c-17a1af379a67)
 
+![image](https://github.com/user-attachments/assets/592491f1-30b4-431d-b558-0323a4818b8f)
+
+
 ## Timeline
 ## Java Suite
 Java Suite, originally named "Phonoramas: Tonal journeys for the Pianoforte", is one of the piano works composed by Godowsky, and it was published in 1925. This suite consists of 12 pieces portraying the Island of Java, Indonesia after he visited and stayed in Java for four weeks.
@@ -38,6 +41,17 @@ This opening movement is completely almost diatonic and mainly pentatonic with a
 ![image](https://github.com/user-attachments/assets/22ae8a41-f1b4-4a9e-bfd8-47dc0e4936fd)
 ### V. Boro Budur in Moonlight
 ![image](https://github.com/user-attachments/assets/0afa3264-48be-41b0-a2f0-eecc6e6b928b)
+
+Borobudur is a 9th-century Mahayana Buddhist temple, located 35 miles away from Djokja. It is the largest Buddhist temple in the world, decorated with over 500 Buddha statues, standing firm on a sacred hill between two volcanoes. For centuries, this temple has attracted pilgrims and travelers, including Godowsky, who was captivated by the monumental scale of its vast ruins.
+
+Godowsky was mainly thrilled by the temple's appearance in the evening:
+
+> In moonlight, Boro Budur is most fantastic. An uncanny, eerie, melancholy mood permeates the whole atmosphere. Deep silence and a sense of strangeness and out-of-the-worldness contribute to the impression of utter desolation and to the feeling of inevitable decay and dissolution of all things earthly, the hopeless struggle of human endeavor against eternity.
+
+The ambience of Borobudur under the serene glow of moonlight is transcribed into music with gently flowing melodies and luminous harmonies, with the tempo _Molto tranquillo, misterioso_. In creating a bell-like sonorities, Godowsky used broken octaves, with techniques similar to what Debussy used in _Et la Lune Descend sur le Temple qui Fut_.
+
+(insert image)
+
 ### VI. The Bromo Volcano and the Sand Sea at Daybreak
 ![image](https://github.com/user-attachments/assets/f62cc1e4-b44d-4fc0-80c8-1e87ca99bc22)
 ### VII. Three Dances
