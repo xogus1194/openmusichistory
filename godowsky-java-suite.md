@@ -21,6 +21,15 @@ The map of Java below highlights the major cities and locations featured in the 
 
 ### I. Gamelan
 ![image](https://github.com/user-attachments/assets/7e0a5123-e9d3-451e-b40c-4361cf2f4b2a)
+
+Gamelan is a traditional orchestra music of Java and Bali of Indonesia, consisting percussive instruments made of wood, bamboo, and metal, including numerous kinds and sizes of bells, chimes, gongs, sounding boards, bowls, pans, kendang (barrel-like drums), alang-alang (aeolian harp-like), and other unique instruments.
+
+Godowsky's impression on gamelan is as follows:
+
+> The sonority of the Gamelan is so weird, spectral, fantastic and bewitching, the native music so elusive, vague, shimmering and singular, that on listening to this new world of sound I lost my sense of reality, imagining myself in a realm of enchantment.
+
+This opening movement is completely almost diatonic and mainly pentatonic with an oriental-sounding fair. The soft Moderato, languido opening appears as if inviting the listener to another world, a world of timelessness, while introducing the shimmering sonorities of gamelan, reimagined for piano. Not only imitating the sonority of gamelan, Godowsky also followed the typical structure of a gamelan piece, which begin softly and slowly, gradually increasing toward a dramatic climax, before calming down to a tranquil end.
+
 ### II. Wayang-Purwa, Puppet Shadow Plays
 ![image](https://github.com/user-attachments/assets/bb66a32b-2f7e-4f63-bf40-fd660e501339)
 ### III. Hari Besaar, The Great Day
