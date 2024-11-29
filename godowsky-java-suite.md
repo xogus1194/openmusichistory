@@ -65,6 +65,15 @@ This movement opens in _grandioso_ mark, capturing the majesty of Mount Bromo. G
 ![image](https://github.com/user-attachments/assets/a3d73a47-3c61-4fc1-8201-e960cc6c42f2)
 ### VIII. The Gardens of Buitenzorg
 ![image](https://github.com/user-attachments/assets/ad2525db-84bf-4ba0-8873-83458483437a)
+
+Buitenzorg (renamed to Bogor in 1942) is a city located 35 miles south of Jakarta, where the famous botanical gardens take place. The gardens consist of about 81 hectares and over 15.000 species of flowers, plants, and trees. In the middle of the garden was a palace where the Governor-General of the Dutch East Indies lived and is now a presidential palace.
+
+Godowsky loved to immerse himself in the vibrant tropical flora and gently winding pathways where he was fascinated by their aesthetic scents, and he described his feelings toward this experience:
+
+> The heavily perfumed air awakens an inexpressibly deep and painful yearning for unknown worlds, for inaccessible ideals, for past happenings irrevocably gone- these memories which the ocean of time gradually submerges and finally buries in oblivion…Why do certain scents produce unutterable regrets, insatiable longings, indefinable desires?
+
+In this movement, Godowsky's use of ornamental melodies and intense chromaticism to show the intoxicating fragrances and rich harmonic textures and subtle harmonic shifts to consider that our sense of smell is constantly being changed by numbers of stimuli around us. Therefore, unlike other movements in this suite that depict sounds and images, in this movement, Godowsky wanted to express his sense of smell of the flowers and plants in Buitenzorg Gardens to us.
+
 ### IX. In the Streets of Old Batavia
 ![image](https://github.com/user-attachments/assets/de6de3f4-0bf4-49c8-b82c-550671348c6a)
 ### X. In the Kraton
