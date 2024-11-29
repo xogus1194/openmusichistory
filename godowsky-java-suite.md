@@ -76,10 +76,21 @@ In this movement, Godowsky's use of ornamental melodies and intense chromaticism
 
 ### IX. In the Streets of Old Batavia
 ![image](https://github.com/user-attachments/assets/de6de3f4-0bf4-49c8-b82c-550671348c6a)
+
+Batavia (now named Jakarta, the capital city of Indonesia) is a bustling, multicultural city characterized with its extensive network of water canals and the administrative center of Dutch East Indies. The small, old area of Batavia, located in the northern side of the city, are filled with busy bazaars, weathered european-inspired buildings, narrow streets, and people of different origins such as Indonesian natives, Chinese, Arabs, and Europeans.
+
+This movement starts with quick sixteenth running notes in a pentatonic scale, depicting the vibrant ambience of the Chinese. Then, a section full of whole-tone scales begins as if one is wandering around, lost in the alley. The movement continues by portraying the Arabs with intricate, melismatic melodies in Dorian mode following an illustration of the Indonesian natives with melodious pentatonic air. The end of this movement is a bombastic climax, representing the busy, crowded bazaars. 
+
 ### X. In the Kraton
 ![image](https://github.com/user-attachments/assets/6a06cec9-e092-407f-965a-d370a8c2589b)
+
+
+
 ### XI. The Ruined Water Castle at Djokja
 ![image](https://github.com/user-attachments/assets/1bdab86b-5480-4e14-bea4-252018ed7af5)
+
+The Water Castle refers to Taman Sari, built in the eighteenth century as the Sultan's summer palace near the Kraton of Djokja. 
+
 ### XII. A Court Pageant in Solo
 ![image](https://github.com/user-attachments/assets/5d761bc5-ec6f-4bce-afad-f06cc336c5ef)
 
