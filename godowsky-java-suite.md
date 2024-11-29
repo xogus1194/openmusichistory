@@ -89,7 +89,20 @@ This movement starts with quick sixteenth running notes in a pentatonic scale, d
 ### XI. The Ruined Water Castle at Djokja
 ![image](https://github.com/user-attachments/assets/1bdab86b-5480-4e14-bea4-252018ed7af5)
 
-The Water Castle refers to Taman Sari, built in the eighteenth century as the Sultan's summer palace near the Kraton of Djokja. 
+The Water Castle refers to Taman Sari, built in the eighteenth century as the Sultan's summer palace near the Kraton of Djokja. It is surrounded by small canals and cascading waterfalls that flow over the walls gracefully. However, because of destructive events such as British invasion, Java war, and earthquake, the water castle was deserted in the end of 19th century.
+
+The word "Taman" means "garden" and "Sari" means "beautiful" or "flower". Godowsky described the place as follows:
+
+> deserted, fallen into decay, stand the mouldy and crumbling remains of the once resplendent Water Palace, with its murmuring fountains and splashing cascades, with its aquatic pranks and air-filling scents of exotic flowers.
+
+Furthermore, Godowsky's reflection, inspired by East Asian philosophy, which establishes a connection between the movement of water and the path of life, is as follows:
+
+> Where once was merriment, there is now the mystery and romance of vanished days, the sadness of evanescent pleasures.
+> The fountains and cascades murmur memories of yesteryears—yearning for past joys, mourning for departed love….
+
+In this movement, Godowsky was inspired by Ravel's Jeaux d'eau as both pieces represent the movement of water, shown in arpeggiated figurations. This movement begins with a meditative introduction that resembles the collapsed architecture and quiet mystery of the palace. Throughout the movement, Godowsky used modal harmonies and delicate textures to represent an exoticism tinged with nostalgia, along with flowing arpeggios and shimmering cascades of sound which imitates the gentle play of water. No moment of silence is found all through the movement, instead, Godowsky fused all moments together by uninterrupted sixteenth notes, symbolizing the continuous stream of water.
+
+The piece begins with a haunting, meditative introduction that evokes the crumbling architecture and the quiet mystique of the site. Godowsky’s use of modal harmonies and delicate textures suggests an exoticism tinged with nostalgia. As the work unfolds, flowing arpeggios and shimmering cascades of sound imitate the gentle play of water, while subtle dissonances hint at the passage of time and the fading glory of a bygone era.
 
 ### XII. A Court Pageant in Solo
 ![image](https://github.com/user-attachments/assets/5d761bc5-ec6f-4bce-afad-f06cc336c5ef)
