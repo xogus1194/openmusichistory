@@ -39,6 +39,14 @@ This opening movement is completely almost diatonic and mainly pentatonic with a
 ![image](https://github.com/user-attachments/assets/db646f5f-7de4-4816-b4a3-2d9e7d89409a)
 ### IV. Chattering Monkeys at the Sacred Lake of Wendit
 ![image](https://github.com/user-attachments/assets/22ae8a41-f1b4-4a9e-bfd8-47dc0e4936fd)
+
+The Sacred Lake of Wendit is located in Mangliawan Village, several miles from the city of Malang, East Java. According to the local folklore, the lake was believed to hold mystical powers, granting eternal youth to those who bathed in its waters. On every side of the lake were numerous monkeys having fun and providing entertainment for the visitors, including Godowsky:
+
+> On every side are jabbering monkeys, hundreds of them, jumping from tree to tree, running up and down the trunks and branches, while others, nearer the ground, are springing on and off the roofs of the small hotel and the bathhouses, snatching bananas from the visitors.
+> The scene is full of humor, fun and animation.
+
+This movement represents the mischievous energy of the monkeys through rapid, darting passages that evoke their chatter and lively antics. Godowsky used quick staccato notes and alternating repeated chords, sudden dynamic shifts, and syncopated rhythms to mirror their unpredictable movements and create an ambience filled with vitality and humor. The middle and end of the movement shows us calming moments, depicting the serene beauty of the lake and its sacred surroundings.
+
 ### V. Boro Budur in Moonlight
 ![image](https://github.com/user-attachments/assets/0afa3264-48be-41b0-a2f0-eecc6e6b928b)
 
