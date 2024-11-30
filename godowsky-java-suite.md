@@ -84,7 +84,13 @@ This movement starts with quick sixteenth running notes in a pentatonic scale, d
 ### X. In the Kraton
 ![image](https://github.com/user-attachments/assets/6a06cec9-e092-407f-965a-d370a8c2589b)
 
+Surakarta (popularly called Solo) and Djokjakarta or Yogyakarta (commonly called Djokja or Yogya) are two of the most important cities in Java, historically. There were kingdoms which capital were located in both cities, and in the heart of a capital is a Kraton, a royal palace where the Sultans live, along with his princes and princesses, concubines, slaves and servants, court workers, musicians, and other individuals with numerous occupations. Each Kraton has about ten thousand until fifteen thousand inhabitants, making it a court of huge dimensions.
 
+Similar with Boro Budur in Moonlight, Godowsky depicts the mystique atmosphere of the Kraton in the evening:
+
+> Quaint scenes charm our vision. Faint sounds of the entrancing Gamelan fill the fragrant air. The seemingly unreal reality casts a hypnotic spell over our consciousness. There is poetry in every ebbing moment. It is evening in the Orient…
+
+In this movement, Godowsky again explored numerous gamelan sonorities, with a soft and ethereal opening like in a typical gamelan piece, following the tension with various contrapuntal layers and complex polyrhytmic texture to explore the sounds of gong and bells that shake one's soul. This movement lets the listener to visualize the Kraton’s ornate architecture, quiet courtyards, and the distant hum of traditional music echoing through its halls, all while immersing in Godowsky’s deeply personal impressions of Javanese culture.
 
 ### XI. The Ruined Water Castle at Djokja
 ![image](https://github.com/user-attachments/assets/1bdab86b-5480-4e14-bea4-252018ed7af5)
