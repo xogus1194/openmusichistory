@@ -105,7 +105,13 @@ In this movement, Godowsky was inspired by Ravel's Jeaux d'eau as both pieces re
 ### XII. A Court Pageant in Solo
 ![image](https://github.com/user-attachments/assets/5d761bc5-ec6f-4bce-afad-f06cc336c5ef)
 
-Although Godowsky did not specify a particular historical or cultural pageant in this piece, it is clear that the pageant is hosted in Solo, where there is also a _kraton_.  
+Although Godowsky did not specify a particular historical or cultural pageant in this movement, it is clear that this movement illustrates a royal court procession in Kraton Solo, a spectacular occassion, showcasing gamelan music, colorful costumes, lively dances, and exuberant celebrations. The procession evokes the deeply symbolic elements of court life. Dancers move with deliberate grace, their gestures narrating tales of mythology, spirituality, and historical events. Accompanied by the gentle yet intricate sounds of the gamelan orchestra, the performance immerses audiences in the distinctive rhythms and melodies of Javanese music. The costumes, adorned with intricate batik patterns and golden accessories, embody the craftsmanship and attention to detail for which Solo is renowned.
+
+As the end of the suite, Godowsky used all the elements he has explored throughout the previous eleven movements: intricate imitations of gamelan sonorities, expansive dynamic range, persistent ostinato patterns, and excessively layered contrapuntal writing, making it the one of the most technically demanding movement in this suite, with a vivid and richly textured musical experience.
+
+Godowsky gave us further description of the composition:
+
+> The clanging and clashing march opens the event. Strongly emphasized in the middle section (F-sharp minor) of this closing composition is that strain of sadness ever present in the music of the Orient. The hilarious mood is resumed with the Fugato, which leads back to an intensified version of the barbaric march. And here these tonal journeys come to an end.
 
 ## Influences
 ## Significance
