@@ -105,6 +105,8 @@ In this movement, Godowsky was inspired by Ravel's Jeaux d'eau as both pieces re
 ### XII. A Court Pageant in Solo
 ![image](https://github.com/user-attachments/assets/5d761bc5-ec6f-4bce-afad-f06cc336c5ef)
 
+Although Godowsky did not specify a particular historical or cultural pageant in this piece, it is clear that the pageant is hosted in Solo, where there is also a _kraton_.  
+
 ## Influences
 ## Significance
 ## Performance and Reception
