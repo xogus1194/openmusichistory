@@ -5,7 +5,27 @@
 ![image](https://github.com/user-attachments/assets/592491f1-30b4-431d-b558-0323a4818b8f)
 
 
-## Timeline
+## Timeline (still needs to be confirmed)
+| Year       | Event                                   | Description                                                                                          |
+|------------|-----------------------------------------|------------------------------------------------------------------------------------------------------|
+| **1870**   | Birth                                   | Born on February 13, 1870, in Žasliai, Russian Empire (now Lithuania). Orphaned at a young age.      |
+| **1876**   | First Exposure to Piano                 | Begins studying piano under his cousin; displays prodigious talent.                                 |
+| **1884**   | Concert Debut                           | Performs his first concert at age 14, captivating audiences with his technique and expressiveness.   |
+| **1886**   | Moves to Berlin                         | Studies briefly at the Königliche Hochschule für Musik, though he largely develops as a self-taught artist. |
+| **1890**   | U.S. Debut                              | Moves to the United States, becoming a sought-after pianist and educator.                           |
+| **1900**   | Acclaimed in Europe                     | Gains international fame, performing in prestigious venues and collaborating with major musicians.   |
+| **1910**   | Completes *Studies on Chopin Études*    | Publishes 53 virtuosic re-imaginings of Chopin’s Études, showcasing his contrapuntal and technical innovations. |
+| **1919**   | *Triakontameron* Published              | Releases *Triakontameron*, a set of 30 character pieces, blending poetry and music.                  |
+| **1922**   | Tours Asia                              | Godowsky’s travels introduce him to Eastern cultures, laying the groundwork for his later works.    |
+| **1923**   | Travels to Java                         | Visits the Dutch East Indies (modern Indonesia) during his Southeast Asia tour for 4 weeks, captivated by Javanese culture. |
+| **1924-1925** | Composes *Java Suite*                 | Inspired by his experiences in Java, he writes the suite, blending gamelan elements and European pianism. |
+| **1925**   | Completes *Java Suite*                  | Publishes the *Java Suite*, comprising 12 tone-pictures that reflect the landscapes, myths, and traditions of Java. |
+| **1928**   | Final Major Tour                        | Undertakes one of his last concert tours before health issues begin to limit his activities.         |
+| **1930**   | Stroke and Retirement                   | Suffers a debilitating stroke, which paralyzes his right hand and curtails his performance career.   |
+| **1935**   | Composes with Left Hand Only            | Writes pieces and teaches piano students despite his physical limitations.                          |
+| **1938**   | Death                                   | Passes away on November 21, 1938, in New York City, leaving a lasting legacy as a pianist-composer.  |
+
+
 ## Java Suite
 Java Suite, originally named "Phonoramas: Tonal journeys for the Pianoforte", is one of the piano works composed by Godowsky, and it was published in 1925. This suite consists of 12 pieces portraying the Island of Java, Indonesia after he visited and stayed in Java for four weeks.
 
