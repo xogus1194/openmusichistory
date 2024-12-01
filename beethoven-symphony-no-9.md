@@ -6,10 +6,10 @@
  - [About Beethoven](#ludwig-van-beethoven)
  - [Timeline](#timeline-of-beethoven)
  - [Symphony no.9](#beethoven-symphony-no9-in-d-minor-op-125)
-   - [1st mov.](#1st-mov-allegro-ma-non-troppo-un-poco-maestoso)
-   - [2nd mov.](#2nd-mov-molto-vivace-presto)
-   - [3rd mov.](#3rd-mov-adagio-molto-e-cantabile)
-   - [4th mov.](#4th-mov-finale-presto–allegro-assai)
+   - [1st mov.](#1st-movement)
+   - [2nd mov.](#2nd-movement)
+   - [3rd mov.](#3rd-movement)
+   - [4th mov.](#4th-movement)
  - [Conclude](#concluding-the-textbook-of-beethovens-symphony-no9)
 
 ---
@@ -62,14 +62,18 @@ In his later years, his health deteriorated along with his hearing, leading to a
 
 ***Beethoven's Symphony No.9*** is regarded as one of the greatest masterpieces in the history of music, achieving innovation in both form and content. Based on Friedrich Schiller's poem ***Ode to Joy*** this work celebrates humanity, freedom, and peace, earning universal acclaim worldwide. This piece is more than just a musical composition, it is an artistic and philosophical declaration embodying the ideals and hopes of humanity. Created despite his complete loss of hearing, this work demonstrates the greatness of the human spirit and the boundless power of art.
 
-## 1st Mov. [Allegro ma non troppo, un poco maestoso]
+## 1st Movement
+
+### [Allegro ma non troppo, un poco maestoso]
 ![Alt text](https://github.com/user-attachments/assets/36dba000-52ba-408c-af96-1acaade4c08c)
 
 #### It begins with the tremolo of the strings and the mysterious harmonies of the horns, evoking the genesis of the universe.
 
 The rhythm played by the violin, viola, and double bass gradually intensifies, building tension. As the theme becomes clearer, the music explodes with energy, symbolizing the search for light within darkness. This section marks the very beginning of the first movement, illustrating how instruments are layered one by one, heightening the sense of anticipation. In this movement, Beethoven uses contrasting and complex structures to convey humanity's inner struggles and the determination to overcome them.
 
-## 2nd Mov. [Molto vivace / Presto]
+## 2nd Movement
+
+### [Molto vivace / Presto]
 
 #### The second movement is structured in a Scherzo and Trio form.
 
@@ -79,7 +83,9 @@ The rhythm played by the violin, viola, and double bass gradually intensifies, b
 
 The second movement is the most dynamic and energetic part of Symphony No. 9. Through the contrast between the Scherzo and Trio, it clearly reveals a structure that transitions from tension to relaxation and back to tension again, expressing human willpower and energy throughout the piece.
 
-## 3rd Mov. [Adagio molto e cantabile]
+## 3rd Movement 
+
+### [Adagio molto e cantabile]
 
 #### The third movement is structured in a variation form, alternating between the slow and lyrical Adagio molto e cantabile and the faster Andante moderato.
 
@@ -94,7 +100,9 @@ There are three key points to focus on while listening to the third movement:
  The third movement serves as the emotional center of the entire symphony, musically expressing deep insights into humanism and peace. It is also a masterpiece that encapsulates inner reflection and human ideals, delivering a powerful message even within its serenity, offering the audience a profound emotional impact.
 
 
-## 4th Mov. [Finale: Presto / Allegro assai]
+## 4th Movement 
+
+### [Finale: Presto / Allegro assai]
 
 #### The fourth movement forms the climax of the symphony, consisting of a large-scale combination of choir and orchestra, with "Ode to Joy" as the central theme.
 
