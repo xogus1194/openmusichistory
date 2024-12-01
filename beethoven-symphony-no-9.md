@@ -6,7 +6,7 @@
  - [About Beethoven](#ludwig-van-beethoven-:-german-composer-and-pianist)
  - [Timeline](#timeline-of-beethoven)
  - [Symphony no.9](#beethoven-symphony-no9-in-d-minor-op-125)
-   - [1st mov.](#1st-Mov-[Allegro-ma-non-troppo,-un-poco-maestoso])
+   - [1st mov.](#1st-mov-[allegro-ma-non-troppo,-un-poco-maestoso])
    - [2nd mov.](#2nd-mov-molto-vivace-Presto)
    - [3rd mov.](#3rd-mov-adagio-molto-e-cantabile)
    - [4th mov.](#4th-mov-finale:-presto–allegro-assai)
