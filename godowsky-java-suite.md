@@ -37,6 +37,14 @@ This opening movement is completely almost diatonic and mainly pentatonic with a
 ![image](https://github.com/user-attachments/assets/bb66a32b-2f7e-4f63-bf40-fd660e501339)
 ### III. Hari Besaar, The Great Day
 ![image](https://github.com/user-attachments/assets/db646f5f-7de4-4816-b4a3-2d9e7d89409a)
+
+Hari Besar, or The Great Day, is when the people are celebrating holiday by creating a joyous and bright festival. Godowsky stated his impression on this event as follows:
+
+> From plantations and hamlets natives flock to the town that is the center of the bright, joyous celebrations, naive, harmless amusements. They throw themselves eagerly into the whirl of festivities, enjoying the excitement and animation.
+
+In this movement, Godowsky took inspirations from Seelig's Javanese Rhapsody for orchestra for the opening theme and two authentic Javanese tunes: Krawita and Kanjut, as main themes.
+
+
 ### IV. Chattering Monkeys at the Sacred Lake of Wendit
 ![image](https://github.com/user-attachments/assets/22ae8a41-f1b4-4a9e-bfd8-47dc0e4936fd)
 
