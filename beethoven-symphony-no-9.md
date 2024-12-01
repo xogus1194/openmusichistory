@@ -3,7 +3,7 @@
 
 ## Table of contents   
 
- - [About Beethoven](#ludwig-van-beethoven-:-german-composer-and-pianist)
+ - [About Beethoven](#ludwig-van-beethoven-german-composer-and-pianist)
  - [Timeline](#timeline-of-beethoven)
  - [Symphony no.9](#beethoven-symphony-no9-in-d-minor-op-125)
    - [1st mov.](#1st-mov-allegro-ma-non-troppo-un-poco-maestoso)
