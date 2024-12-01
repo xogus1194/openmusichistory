@@ -44,6 +44,33 @@ Hari Besar, or The Great Day, is when the people are celebrating holiday by crea
 
 In this movement, Godowsky took inspirations from Seelig's Javanese Rhapsody for orchestra for the opening theme and two authentic Javanese tunes: Krawita and Kanjut, as main themes.
 
+![Theme of Javanese Rhapsody for Orchestra-1](https://github.com/user-attachments/assets/2fc95e8f-37d7-471e-b38f-11852f8b7782)
+
+Seelig: Javanese Rhapsody
+
+![Hari Besar 1-1](https://github.com/user-attachments/assets/e6056e1c-e8e8-440c-ad4d-bb7d9304bf47)
+
+Use of Javanese Rhapsody in Hari Besar, m. 14
+
+![krawita](https://github.com/user-attachments/assets/9480d584-97f1-450c-b46d-1500bba52dbd)
+
+Krawita
+
+![hari besar krawita-1](https://github.com/user-attachments/assets/4277198f-aaee-413c-82fe-39dbce440d82)
+
+Use of Krawita in Hari Besar, m. 15-16
+
+![kanjut](https://github.com/user-attachments/assets/67aaecc4-bbd4-4277-9d4c-a429a6d7a5bf)
+
+Kanjut
+
+![hari besar kanjut](https://github.com/user-attachments/assets/c19e1295-5963-4b57-986a-86791a7be48c)
+
+Use of Kanjut in Hari Besar, m. 20-21
+
+Godowsky's use of pentatonic scale and ostinato patterns represents the sonority of gamelan pointed out by gongs. Not only that, the ostinato patterns in the left hand also suggest continuous motion and movement of people and things in the festival, meanwhile the right hand depicts sparkling themes that rise and fall like fireworks in the night sky. 
+
+The two Javanese tunes mentioned above, Kanjut and Krawita, continue to repeat again and again in various settings, resulting in a "festival" atmosphere. As this movement continues, the texture becomes thicker and more contrapuntal, and the repetitive motions build up tension until they finally burst to a majestic closing of the first part of the suite, reflecting the communal joy of the occasion and the profound cultural significance of the festival in Javanese life.
 
 ### IV. Chattering Monkeys at the Sacred Lake of Wendit
 ![image](https://github.com/user-attachments/assets/22ae8a41-f1b4-4a9e-bfd8-47dc0e4936fd)
