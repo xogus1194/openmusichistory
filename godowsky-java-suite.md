@@ -99,8 +99,6 @@ Godowsky was mainly thrilled by the temple's appearance in the evening:
 
 The ambience of Borobudur under the serene glow of moonlight is transcribed into music with gently flowing melodies and luminous harmonies, with the tempo _Molto tranquillo, misterioso_. In creating a bell-like sonorities, Godowsky used broken octaves, with techniques similar to what Debussy used in _Et la Lune Descend sur le Temple qui Fut_.
 
-(insert image)
-
 ### VI. The Bromo Volcano and the Sand Sea at Daybreak
 ![image](https://github.com/user-attachments/assets/b62c2514-a13f-4c62-8476-b7428fa766fe)
 
@@ -112,6 +110,15 @@ This movement opens in _grandioso_ mark, capturing the majesty of Mount Bromo. G
 
 ### VII. Three Dances
 ![image](https://github.com/user-attachments/assets/a3d73a47-3c61-4fc1-8201-e960cc6c42f2)
+
+Historically, Javanese dances have been deeply rooted in religious and spiritual traditions. Many of these dances were performed as offerings to deities or as part of rituals in Javanese Hindu-Buddhist temples, symbolizing a connection between the human and the divine. This sacred setting is reflected in their tangled gestures, slow movements, and deep symbolism, which often represent cosmic harmony, myths, or moral teachings.
+
+As the time goes by, secular dances was developed, often tied to the Kingdom of Djokja and Solo, where they evolved into a refined art form expressing emotions and social narratives. These dances maintained a spiritual depth even in secular settings, as they emphasized inner tranquility and profound storytelling through movement. That's why Godowsky stated as follows:
+
+> It is doubtful if there is a people in any part of the world whose innermost feelings are so wholly revealed in their dances as are the Javanese.
+
+The first dance depicts the ceremonial nature of calm and melancholic courtly dances, with the melodious and deliberate phrasings to represent the intricate movements of the dancers. The second dance is livelier than the first one, with syncopated rhythms and luminous harmonies to illustrate the joy and spontaneity of the village dances. Contrasting with the first two dances, the third dance explodes with energy and intricacy, with rapid notes, layered textures, and dynamic variations. It evokes the celebratory climax of a festival, where dancers’ intricate footwork and dramatic gestures reach a thrilling intensity.
+
 ### VIII. The Gardens of Buitenzorg
 ![image](https://github.com/user-attachments/assets/ad2525db-84bf-4ba0-8873-83458483437a)
 
