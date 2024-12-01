@@ -3,7 +3,7 @@
 
 ## Table of contents   
 
- - [About Beethoven](#ludwig-van-beethoven-german-composer-and-pianist)
+ - [About Beethoven](#ludwig-van-beethoven)
  - [Timeline](#timeline-of-beethoven)
  - [Symphony no.9](#beethoven-symphony-no9-in-d-minor-op-125)
    - [1st mov.](#1st-mov-allegro-ma-non-troppo-un-poco-maestoso)
@@ -15,7 +15,9 @@
 ---
 
 
-## Ludwig van Beethoven : German composer and pianist 
+## Ludwig van Beethoven 
+
+### The German composer and pianist 
 
 #### Childhood and Early Years    
 Beethoven was born in Bonn and exhibited remarkable musical talent from a young age. His father, hoping to mold him into a prodigy like Mozart, subjected him to rigorous training.
