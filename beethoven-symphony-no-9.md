@@ -9,7 +9,7 @@
    - [1st mov.](#1st-mov-allegro-ma-non-troppo-un-poco-maestoso)
    - [2nd mov.](#2nd-mov-molto-vivace-/-presto)
    - [3rd mov.](#3rd-mov-adagio-molto-e-cantabile)
-   - [4th mov.](#4th-mov-finale:-presto–/-allegro-assai)
+   - [4th mov.](#4th-mov-finale-presto–/-allegro-assai)
  - [Conclude](#concluding-the-textbook-of-beethovens-symphony-no9)
 
 ---
