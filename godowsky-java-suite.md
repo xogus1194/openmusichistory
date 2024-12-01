@@ -35,6 +35,12 @@ This opening movement is completely almost diatonic and mainly pentatonic with a
 
 ### II. Wayang-Purwa, Puppet Shadow Plays
 ![image](https://github.com/user-attachments/assets/bb66a32b-2f7e-4f63-bf40-fd660e501339)
+
+_Wayang-Purwa_, or _Wayang Kulit_, is a traditional javanese theatre show of shadow puppets (_wayang_ means shadow or imagination), using specific puppets as shown in the photo above. The stories of these shows are often derived from classic Hindu stories, mystical tales, and Eastern Indian Legends, and are recited by a puppet master (_Dalang_) while holding those puppets. Also, the performance is accompanied by gamelan music.
+
+This movement evokes the dimly lit stage where the leather puppets cast moving shadows against a white screen, creating a black-and-white simplicity. Godowsky used a narrative manner to draw the listeners to an imaginary world and simple melodious tune (ascending and descending diatonic scales) to induce the sense of storytelling. Godowsky's use of piano’s full range—soft, shimmering high notes paired with deep, resonant bass tones—creates a sonic depiction of the mysterious and otherworldly atmosphere of the wayang theater. Intricate textures and rhythmic motifs are also used to represent the interaction between the puppets and the rhythmic pulse of the gamelan music accompaniment. Lastly, the themes in this movement shift between reflective and dynamic, much like the alternating tension and resolution in the stories of heroes, gods, and demons.
+
+
 ### III. Hari Besaar, The Great Day
 ![image](https://github.com/user-attachments/assets/db646f5f-7de4-4816-b4a3-2d9e7d89409a)
 
