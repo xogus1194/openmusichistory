@@ -7,9 +7,9 @@
  - [Timeline](#timeline-of-beethoven)
  - [Symphony no.9](#beethoven-symphony-no9-in-d-minor-op-125)
    - [1st mov.](#1st-mov-allegro-ma-non-troppo-un-poco-maestoso)
-   - [2nd mov.](#2nd-mov-molto-vivace-presto)
+   - [2nd mov.](#2nd-mov-molto-vivace-/-presto)
    - [3rd mov.](#3rd-mov-adagio-molto-e-cantabile)
-   - [4th mov.](#4th-mov-finale:-presto–allegro-assai)
+   - [4th mov.](#4th-mov-finale:-presto–/-allegro-assai)
  - [Conclude](#concluding-the-textbook-of-beethovens-symphony-no9)
 
 ---
@@ -67,7 +67,7 @@ In his later years, his health deteriorated along with his hearing, leading to a
 
 The rhythm played by the violin, viola, and double bass gradually intensifies, building tension. As the theme becomes clearer, the music explodes with energy, symbolizing the search for light within darkness. This section marks the very beginning of the first movement, illustrating how instruments are layered one by one, heightening the sense of anticipation. In this movement, Beethoven uses contrasting and complex structures to convey humanity's inner struggles and the determination to overcome them.
 
-## 2nd Mov. [Molto vivace – Presto]
+## 2nd Mov. [Molto vivace / Presto]
 
 #### The second movement is structured in a Scherzo and Trio form.
 
@@ -92,7 +92,7 @@ There are three key points to focus on while listening to the third movement:
  The third movement serves as the emotional center of the entire symphony, musically expressing deep insights into humanism and peace. It is also a masterpiece that encapsulates inner reflection and human ideals, delivering a powerful message even within its serenity, offering the audience a profound emotional impact.
 
 
-## 4th Mov. [Finale: Presto – Allegro assai]
+## 4th Mov. [Finale: Presto / Allegro assai]
 
 #### The fourth movement forms the climax of the symphony, consisting of a large-scale combination of choir and orchestra, with "Ode to Joy" as the central theme.
 
