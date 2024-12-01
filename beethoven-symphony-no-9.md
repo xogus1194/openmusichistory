@@ -86,12 +86,27 @@ There are three key points to focus on while listening to the third movement:
 
 ## 4th Mov. [Finale: Presto – Allegro assai]
 
+#### The fourth movement forms the climax of the symphony, consisting of a large-scale combination of choir and orchestra, with "Ode to Joy" as the central theme.
 
+Among the countless symphonies, ***Beethoven's Symphony No. 9*** is undeniably one of the most famous in modern times. In particular, the fourth movement is the most renowned, grand, and perfect movement of all the movements. To achieve such a high level of perfection, the harmonies and melody lines of each instrument must not be overemphasized and should always be restrained, requiring both the conductor and performers to possess a high level of musical skill. This piece, which progresses with the lyrics of "Ode to Joy," is best appreciated when each section is thoroughly understood and carefully listened to.
 
+#### Presto / Recitativo a minor 3/4
 
+It begins with the intense dissonance of the brass. However, it is soon answered by the recitative of the low strings (cello and double bass).
 
+#### Allegro ma non troppo a minor 2/4
 
+The orchestra introduces the opening of the first. However, the recitative of the low strings soon answers in response.
 
+#### Vivace in a minor 3/4
+
+This time, the second movement theme is introduced by the woodwinds. However, it is again interrupted by the recitative of the low strings.
+
+#### Adagio cantabile in D-flat major, 4/4
+
+The woodwinds recall the third movement theme, but it is again interrupted by the recitative of the low strings.
+
+#### Allegro assai A Major 4/4
 
 
 
