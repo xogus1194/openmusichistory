@@ -108,6 +108,59 @@ The woodwinds recall the third movement theme, but it is again interrupted by th
 
 #### Allegro assai A Major 4/4
 
+![Alt text](https://github.com/user-attachments/assets/888b5ee1-71ae-4760-b833-e3f6ceca0c61)
+
+The most famous melody of the piece appears. The viola follows, supported by the bassoon and double bass with a counter-melody. Additionally, the theme of "Ode to Joy" is passed to the first violins, forming rich harmonies through a four-part counterpoint. Finally, the melody is joined by the brass, and the entire orchestra sings together.
+
+#### Presto / Recitativo a minor 3/4
+
+"O Freunde"
+
+The dissonance from the beginning is now played as an orchestral introduction. The baritone soloist sings the recitative, in the same melody as the recitative of the low strings, with the words "O Freunde, nicht diese Töne!" (O friends, not these tones!). Here, the meaning of the repeated low string recitatives from the beginning is revealed, showing that they represented the negation of the music from the first to the third movement.
+
+#### Allegro assai A Major 4/4
+
+"Freude, schöner Götterfunken"
+
+The chant of "Freude!" is hummed by the baritone soloist and the basses of the choir (tenors also join in), and then the "Ode to Joy" is introduced by the baritone soloist. The second half of the melody is repeated by the choir. Next, the four soloists join in, and once again, the choir repeats the second half of the melody.
+
+#### Alla marcia Allegro assai vivace D-flat Major 6/8
+
+"Froh, wie seine Sonnen"
+
+The percussion section, which had remained silent until now, begins to sound softly, gradually increasing in volume. Over this, the brass instruments vary the theme of "Joy." Then, the tenor soloist sings the variation of the "Joy" theme with the melody "Froh, wie seine Sonnen" (Joy, like his sun), and this is joined by a male trio (first tenor, second tenor, bass), followed by a powerful orchestral accompaniment that creates a peak. Buoyed by the soaring male chorus, a vigorous scherzo-like fugue in the orchestra alone is played as a long interlude. After this section calms down, the entire choir sings the "Joy" theme and the first verse in its entirety.
+
+#### Andante maestoso G Major 3/2
+
+"Seid umschlungen , Millionen!"
+
+The melody first introduced by the trombone is followed, and the hymn of "embrace" is sung solemnly by the choir, sounding like medieval religious music.
+
+#### Adagio ma non troppo, ma divoto B-flat Major 3/2 
+
+"Ihr , stürzt nieder"
+
+The sense of the Creator continues to be sung.
+
+#### Allegro energico, sempre ben marcato A Major 6/4
+
+"Freude , schöner Götterfunken " / " Seid umschlungen , Millionen! "
+
+The two texts, "Joy" and "Embrace," based on the melody of the "Ode to Joy," are developed in a double fugue.
+
+#### Allegro ma non tanto A Major 2/2
+
+"Freude, Tochter aus Elysium!"
+
+The four soloists sing the first verse of "Joy" in a fugue-like style. As this intertwines, the choir enters, taking over, and then the four soloists enter in reverse order, alternating with one another. In the Adagio, the voices follow in sequence (soprano → alto → tenor → baritone), creating a gentle, lingering effect with triplets and sixteenth notes, gradually calming down.
+
+#### Prestissimo A Major 2/2 
+
+"Seid umschlungen , Millionen! "
+
+The fastest tempo in the fourth movement occurs at the climax. It begins in Presto and then transitions to Maestoso. Here, Schiller's lyrics, "Freude, schöner Götterfunken" (Joy, beautiful spark of the gods), are sung grandly, and then the tempo returns to Presto, with the orchestra closing the piece in a coda.
+
+
 
 
 
