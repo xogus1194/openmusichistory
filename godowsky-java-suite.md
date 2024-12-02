@@ -4,9 +4,11 @@
 
 Leopold Godowsky was a Lithuania-born American composer and virtuoso pianist, known for his extraordinary piano technique. As a performer, Godowsky could navigate the most challenging passages with remarkable effortlessness. Equally gifted as an improviser, his impromptu encores often left a more lasting impression than the pieces originally featured on his program. 
 
-Godowsky was influenced by a few composers such as Chopin's poetic lyricism and technical innovation (shown in his 53 Studies on Chopin Etudes) such as in his [piano sonata](chopin-piano-sonata.md), Liszt's virtuosity and transcriptions, Bach's counterpoint and structure, Mendelssohn's lyrical approach, Debussy's Exoticism (shown in his Java Suite), and romantic tradition of piano exploration (such as Schumann's [Kreisleriana](schumann-kreisleriana.md)). 
+For most of the time of his career as a composer, Godowsky wrote music only for piano, except for some arrangements he made for strings and piano. He was heavily influenced by Chopin and Liszt. Inspired from Chopin, Godowsky really loved the piano's ability to produce a pure, singing tone and to offer endless opportunities to explore layered techniques and nuanced tonal colors---that's why he chose to explore those sounds in his beloved, instrument, piano, instead of writing music for orchestras or ensembles. Unlike Liszt who was the first to reproduce the vastness and intensity of symphonic orchestration into the piano, Godowsky translated the rich and dynamic orchestral sound to contrapuntal piano textures while preserving the sensitivity of pure piano sound and colors that can be found in Chopin's works, including his [second piano sonata](chopin-piano-sonata.md).
 
-For most of the time of his career as a composer, Godowsky wrote music only for piano, except for some arrangements he made for strings and piano. He was heavily influenced by Chopin and Liszt. Inspired from Chopin, Godowsky really loved the piano's ability to produce a pure, singing tone and to offer endless opportunities to explore layered techniques and nuanced tonal colors---that's why he chose to exploring those sounds in his beloved, instrument, piano, instead of writing music for orchestras or ensembles.
+Not only a composer, Godowsky was also one of the most succesful concert pianists of his time. Starting at the young age, Godowsky had been keeping a busy schedule as a concert pianist (giving 107 concerts in 1891 within the US and Canada), including doing tours around the world to perform too, until 1930 when he suffered from stroke.
+
+
 ![image](https://github.com/user-attachments/assets/592491f1-30b4-431d-b558-0323a4818b8f)
 
 
