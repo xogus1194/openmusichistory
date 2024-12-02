@@ -17,7 +17,7 @@ Besides his numerous concert tours in North America and Europe, his love of trav
 countries. Between 1921 and 1925, Godowsky went to Central and South American countries (Mexico, Uruguay, Argentina, and Brazil), East and Southeast Asia, as well as North Africa, Egypt and Palestine. Not only travelling, Godowsky also gave recitals in every country he visited.
 
 - [Timeline](#timeline)
-- [Java Suite](#javasuite)
+- [Java Suite](#java-suite)
 - [PART I](#part-i)
 - [I. Gamelan](#i-gamelan)
 - [II. Wayang-Purwa, Puppet Shadow Plays](#ii-wayang-purwa-puppet-shadow-plays)
