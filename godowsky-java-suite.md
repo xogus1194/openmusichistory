@@ -2,6 +2,10 @@
 
 ![image](https://github.com/user-attachments/assets/f127db3b-45cf-4c3a-ab2c-17a1af379a67)
 
+Leopold Godowsky was a Lithuania-born American composer and virtuoso pianist, known for his extraordinary piano technique. As a performer, Godowsky could navigate the most challenging passages with remarkable effortlessness. Equally gifted as an improviser, his impromptu encores often left a more lasting impression than the pieces originally featured on his program. 
+
+Godowsky was influenced by a few composers such as Chopin's poetic lyricism and technical innovation (shown in his 53 Studies on Chopin Etudes) such as in his [piano sonata](chopin-piano-sonata.md), Liszt's virtuosity and transcriptions, Bach's counterpoint and structure, Mendelssohn's lyrical approach, Debussy's Exoticism (shown in his Java Suite), and romantic tradition of piano exploration (such as Schumann's [Kreisleriana](schumann-kreisleriana.md)). 
+
 ![image](https://github.com/user-attachments/assets/592491f1-30b4-431d-b558-0323a4818b8f)
 
 
@@ -10,12 +14,13 @@
 |------------|-----------------------------------------|------------------------------------------------------------------------------------------------------|
 | **1870**   | Birth                                   | Born on February 13, 1870, in Žasliai, Russian Empire (now Lithuania). Orphaned at a young age.      |
 | **1876**   | First Exposure to Piano                 | Begins studying piano under his cousin; displays prodigious talent.                                 |
-| **1884**   | Concert Debut                           | Performs his first concert at age 14, captivating audiences with his technique and expressiveness.   |
-| **1886**   | Moves to Berlin                         | Studies briefly at the Königliche Hochschule für Musik, though he largely develops as a self-taught artist. |
-| **1890**   | U.S. Debut                              | Moves to the United States, becoming a sought-after pianist and educator.                           |
+| **1882**   | Concert Debut                           | Performs his first concert at age 12, captivating audiences with his technique and expressiveness.   |
+| **1884**   | Moves to Berlin                         | Studies briefly at the Königliche Hochschule für Musik, though he largely develops as a self-taught artist. |
+| **1884**   | U.S. Debut                              | Giving his first concert in the United States
+| **1890**   | Moves to U.S.                           | Moves to the United States, becoming a sought-after pianist and educator in New York College of Music. |
 | **1900**   | Acclaimed in Europe                     | Gains international fame, performing in prestigious venues and collaborating with major musicians.   |
 | **1910**   | Completes *Studies on Chopin Études*    | Publishes 53 virtuosic re-imaginings of Chopin’s Études, showcasing his contrapuntal and technical innovations. |
-| **1919**   | *Triakontameron* Published              | Releases *Triakontameron*, a set of 30 character pieces, blending poetry and music.                  |
+| **1920**   | *Triakontameron* Published              | Releases *Triakontameron*, a set of 30 character pieces, blending poetry and music.                  |
 | **1922**   | Tours Asia                              | Godowsky’s travels introduce him to Eastern cultures, laying the groundwork for his later works.    |
 | **1923**   | Travels to Java                         | Visits the Dutch East Indies (modern Indonesia) during his Southeast Asia tour for 4 weeks, captivated by Javanese culture. |
 | **1924-1925** | Composes *Java Suite*                 | Inspired by his experiences in Java, he writes the suite, blending gamelan elements and European pianism. |
@@ -29,7 +34,7 @@
 ## Java Suite
 Java Suite, originally named "Phonoramas: Tonal journeys for the Pianoforte", is one of the piano works composed by Godowsky, and it was published in 1925. This suite consists of 12 pieces portraying the Island of Java, Indonesia after he visited and stayed in Java for four weeks.
 
-As said before, Godowsky was a world traveler, and he has traveled to many countries, including those in South America and Far-East (Asia). Although Godowsky was fascinated by the uniqueness and richness of the countries he visited, it was the island of Java that impressed him the most. 
+Godowsky was a world traveler, and he has traveled to many countries, including those in South America and Far-East (Asia). Although Godowsky was fascinated by the uniqueness and richness of the countries he visited, it was the island of Java that impressed him the most. 
 
 His original plan was to “to make picturesque, characteristic and fanciful works based on folk tunes and dances of exotic countries: Java, Japan, China, India, Turkey and perhaps one Jewish and one Negro piece.” However, the scenic beauty and vibrant cultural atmosphere of the Island of Java inspired his creativty and and “the thought gradually matured in me to recreate my roaming experiences in a cycle of musical travelogues—tonal journeys—which I have named collectively “Phonoramas,” beginning with a series of twelve descriptive scenes in Java.”
 
