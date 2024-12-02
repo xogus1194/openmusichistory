@@ -65,7 +65,8 @@ In his later years, his health deteriorated along with his hearing, leading to a
 ## 1st Movement
 
 ### [Allegro ma non troppo, un poco maestoso]
-![Alt text](https://github.com/user-attachments/assets/36dba000-52ba-408c-af96-1acaade4c08c)
+![Alt text](https://github.com/user-attachments/assets/f5956661-b3b9-44d2-85bf-97f910a7cccf)
+
 
 #### It begins with the tremolo of the strings and the mysterious harmonies of the horns, evoking the genesis of the universe.
 
