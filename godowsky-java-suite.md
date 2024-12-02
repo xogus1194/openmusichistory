@@ -16,10 +16,6 @@ Last but not least, Godowsky was a world traveler. As described by Millan Sachan
 Besides his numerous concert tours in North America and Europe, his love of travelling took him to remote, “exotic” 
 countries. Between 1921 and 1925, Godowsky went to Central and South American countries (Mexico, Uruguay, Argentina, and Brazil), East and Southeast Asia, as well as North Africa, Egypt and Palestine. Not only travelling, Godowsky also gave recitals in every country he visited.
 
-
-![image](https://github.com/user-attachments/assets/592491f1-30b4-431d-b558-0323a4818b8f)
-
-
 ## Timeline (still needs to be confirmed)
 | Year       | Event                                   | Description                                                                                          |
 |------------|-----------------------------------------|------------------------------------------------------------------------------------------------------|
@@ -43,7 +39,11 @@ countries. Between 1921 and 1925, Godowsky went to Central and South American co
 
 
 ## Java Suite
-Java Suite, originally named "Phonoramas: Tonal journeys for the Pianoforte", is one of the piano works composed by Godowsky, and it was published in 1925. This suite consists of 12 pieces portraying the Island of Java, Indonesia after he visited and stayed in Java for four weeks.
+Java Suite, originally named "Phonoramas: Tonal journeys for the Pianoforte", is one of the piano works composed by Godowsky, and it was published in 1925. This suite consists of 12 pieces portraying the Island of Java, Indonesia after he visited, stayed, and gave not less than twenty piano recitals in Java for four weeks.
+
+![image](https://github.com/user-attachments/assets/592491f1-30b4-431d-b558-0323a4818b8f)
+
+Illustration of Godowsky visiting Java Island
 
 As described before, Godowsky was a world traveler. By travelling, Godowsky also stated that his original plan was to “to make picturesque, characteristic and fanciful works based on folk tunes and dances of exotic countries: Java, Japan, China, India, Turkey and perhaps one Jewish and one Negro piece.” However, it was the island of Java that impressed him the most, despite the fact that he was fascinated by the uniqueness and richness of the countries he visited. The scenic beauty and vibrant cultural atmosphere of the Island of Java inspired his creativty and and “the thought gradually matured in me to recreate my roaming experiences in a cycle of musical travelogues—tonal journeys—which I have named collectively “Phonoramas,” beginning with a series of twelve descriptive scenes in Java.”
 
