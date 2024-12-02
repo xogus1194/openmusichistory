@@ -39,7 +39,10 @@ countries. Between 1921 and 1925, Godowsky went to Central and South American co
 - [Performance and Reception](#performance-and-reception)
 - [Listening Guide](#listening-guide)
 
-## Timeline (still needs to be confirmed)
+## Timeline
+
+(still needs to be clarified)
+
 | Year       | Event                                   | Description                                                                                          |
 |------------|-----------------------------------------|------------------------------------------------------------------------------------------------------|
 | **1870**   | Birth                                   | Born on February 13, 1870, in Žasliai, Russian Empire (now Lithuania). Orphaned at a young age.      |
