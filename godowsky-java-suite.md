@@ -6,6 +6,7 @@ Leopold Godowsky was a Lithuania-born American composer and virtuoso pianist, kn
 
 Godowsky was influenced by a few composers such as Chopin's poetic lyricism and technical innovation (shown in his 53 Studies on Chopin Etudes) such as in his [piano sonata](chopin-piano-sonata.md), Liszt's virtuosity and transcriptions, Bach's counterpoint and structure, Mendelssohn's lyrical approach, Debussy's Exoticism (shown in his Java Suite), and romantic tradition of piano exploration (such as Schumann's [Kreisleriana](schumann-kreisleriana.md)). 
 
+For most of the time of his career as a composer, Godowsky wrote music only for piano, except for some arrangements he made for strings and piano. He was heavily influenced by Chopin and Liszt. Inspired from Chopin, Godowsky really loved the piano's ability to produce a pure, singing tone and to offer endless opportunities to explore layered techniques and nuanced tonal colors---that's why he chose to exploring those sounds in his beloved, instrument, piano, instead of writing music for orchestras or ensembles.
 ![image](https://github.com/user-attachments/assets/592491f1-30b4-431d-b558-0323a4818b8f)
 
 
@@ -34,19 +35,17 @@ Godowsky was influenced by a few composers such as Chopin's poetic lyricism and 
 ## Java Suite
 Java Suite, originally named "Phonoramas: Tonal journeys for the Pianoforte", is one of the piano works composed by Godowsky, and it was published in 1925. This suite consists of 12 pieces portraying the Island of Java, Indonesia after he visited and stayed in Java for four weeks.
 
-Godowsky was a world traveler, and he has traveled to many countries, including those in South America and Far-East (Asia). Although Godowsky was fascinated by the uniqueness and richness of the countries he visited, it was the island of Java that impressed him the most. 
-
-His original plan was to “to make picturesque, characteristic and fanciful works based on folk tunes and dances of exotic countries: Java, Japan, China, India, Turkey and perhaps one Jewish and one Negro piece.” However, the scenic beauty and vibrant cultural atmosphere of the Island of Java inspired his creativty and and “the thought gradually matured in me to recreate my roaming experiences in a cycle of musical travelogues—tonal journeys—which I have named collectively “Phonoramas,” beginning with a series of twelve descriptive scenes in Java.”
+Godowsky was a world traveler, and he has traveled to many countries, including those in South America and Far-East (Asia). By travelling, Godowsky also stated that his original plan was to “to make picturesque, characteristic and fanciful works based on folk tunes and dances of exotic countries: Java, Japan, China, India, Turkey and perhaps one Jewish and one Negro piece.” However, it was the island of Java that impressed him the most, despite the fact that he was fascinated by the uniqueness and richness of the countries he visited. The scenic beauty and vibrant cultural atmosphere of the Island of Java inspired his creativty and and “the thought gradually matured in me to recreate my roaming experiences in a cycle of musical travelogues—tonal journeys—which I have named collectively “Phonoramas,” beginning with a series of twelve descriptive scenes in Java.”
 
 In the preface of Java Suite score, Godowsky stated his inspirations of making this piece:
 > The Island of Java, called ‘The Garden of the East,’ with a population of close to forty million, is the most densely inhabited island in the world. It has a tropical, luxuriant vegetation; marvelous scenery and picturesque inhabitants; huge volcanoes, active and extinct; majestic ruins and imposing monuments of many centuries past…It was, however, the native music of the Javanese, in the heart of Java, at Djokja and Solo that made the most profound impression on me.
 
-Out of the twelve pieces, eight are inspired from specific city, location, monument, or landmark (Sacred lake of Wendit, BoroBudur Temple, Mount Bromo, Buitenzorg Gardens, Old Batavia Streets, Kraton Djokja and Kraton Solo, Taman Sari Djokja, and the city of Solo), meanwhile the other four (Gamelan, Wayang Purwa, Hari Besaar, and Three Dances) reflect his general musical and cultural impressions throughout his journey.
+Out of the twelve pieces, eight are inspired from specific city, location, monument, or landmark (Sacred lake of Wendit, BoroBudur Temple, Mount Bromo, Buitenzorg Gardens, Old Batavia Streets, Kraton Djokja and Kraton Solo, Taman Sari Djokja, and the city of Solo), meanwhile the other four (Gamelan, Wayang Purwa, Hari Besaar, and Three Dances) reflect his general musical and cultural impressions throughout his journey. Those pieces are also divided into four parts, resembling Albeniz's Iberia, with festive closing pieces in the end of each part.
 
 The map of Java below highlights the major cities and locations featured in the Suite, with the numbers indicating the order of each movement in the composition.
 ![image](https://github.com/user-attachments/assets/356c26be-9ccc-4d23-9b59-2e86ef581030)
 
-
+### **PART I**
 ### I. Gamelan
 ![image](https://github.com/user-attachments/assets/7e0a5123-e9d3-451e-b40c-4361cf2f4b2a)
 
@@ -103,6 +102,7 @@ Godowsky's use of pentatonic scale and ostinato patterns represents the sonority
 
 The two Javanese tunes mentioned above, Kanjut and Krawita, continue to repeat again and again in various settings, resulting in a "festival" atmosphere. As this movement continues, the texture becomes thicker and more contrapuntal, and the repetitive motions build up tension until they finally burst to a majestic closing of the first part of the suite, reflecting the communal joy of the occasion and the profound cultural significance of the festival in Javanese life.
 
+### **PART II**
 ### IV. Chattering Monkeys at the Sacred Lake of Wendit
 ![image](https://github.com/user-attachments/assets/22ae8a41-f1b4-4a9e-bfd8-47dc0e4936fd)
 
@@ -133,6 +133,7 @@ The ambience of Borobudur under the serene glow of moonlight is transcribed into
 
 This movement opens in _grandioso_ mark, capturing the majesty of Mount Bromo. Godowsky used harmonic layering and triplet sweeping figures divided into two hands to thicken the texture and evoke the interplay of light and shadow over the volcanic terrain. Unlike other final movements, the climax in this final movement occurs in the middle, calming down towards the end, like a volcano cooling down after erupting.
 
+### **PART III**
 ### VII. Three Dances
 ![image](https://github.com/user-attachments/assets/a3d73a47-3c61-4fc1-8201-e960cc6c42f2)
 
@@ -162,6 +163,7 @@ Batavia (now named Jakarta, the capital city of Indonesia) is a bustling, multic
 
 This movement starts with quick sixteenth running notes in a pentatonic scale, depicting the vibrant ambience of the Chinese. Then, a section full of whole-tone scales begins as if one is wandering around, lost in the alley. The movement continues by portraying the Arabs with intricate, melismatic melodies in Dorian mode following an illustration of the Indonesian natives with melodious pentatonic air. The end of this movement is a bombastic climax, representing the busy, crowded bazaars. 
 
+### **PART IV**
 ### X. In the Kraton
 ![image](https://github.com/user-attachments/assets/6a06cec9-e092-407f-965a-d370a8c2589b)
 
