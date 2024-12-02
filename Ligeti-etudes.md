@@ -12,7 +12,7 @@ György Ligeti (1923–2006) was a Hungarian-Austrian composer, recognized as on
 - [Timeline](#timeline)
 - [Musical Style](#musical-style)
 - [Key Features of Études](#key-features-of-études)
-- [Detailed Analysis of Select Études](#detailed-analysis-of-select-études)
+- [Detailed Analysis of Select Études](#detailed-analysis-of-all-études)
 
 ## Timeline
 
@@ -44,21 +44,68 @@ Ligeti’s études combine these elements into a highly personal and innovative 
 3. **Rhythmic Intricacy**: Interlocking patterns and polyrhythms.
 4. **Expressive Depth**: Balancing intellectual rigor with emotional resonance.
 
-### A Glimpse of Ligeti’s Études:
-The études are grouped into three books:
-- **Book 1 (1985)**: Six études introducing Ligeti’s rhythmic and harmonic innovations.
-- **Book 2 (1988–1994)**: Extends the exploration into more dramatic and expressive territories.
-- **Book 3 (1994)**: Features the final four études, delving into introspection and abstraction.
 
-## Detailed Analysis of Select Études
-### Étude No. 1: *Désordre*
-This étude introduces Ligeti’s fascination with rhythmic complexity, with one hand maintaining an unchanging pulse while the other accelerates and decelerates. The interplay creates a swirling chaos that justifies its title, “Disorder.”
+## Detailed Analysis of All Études
 
-### Étude No. 3: *Touches bloquées*
-In this étude, Ligeti uses “blocked keys,” where the pianist’s hands block certain notes from sounding. This technique creates unique textures and enhances the physical engagement of the performer.
+### Book I (1985)
 
-### Étude No. 13: *L’escalier du diable*
-Translating to “The Devil’s Staircase,” this étude features relentless, climbing figures that evoke the imagery of an endless spiral. The overwhelming intensity demands extraordinary stamina and interpretive skill from the pianist.
+#### Étude No. 1: *Désordre* (Disorder)
+This piece explores rhythmic complexity, where the right hand accelerates while the left hand decelerates. The chaotic interplay between the hands creates a swirling, restless atmosphere, exemplifying the "disorder" of its title.
+
+#### Étude No. 2: *Cordes à vide* (Open Strings)
+Inspired by the resonance of open strings on string instruments, this étude uses harmonic overtones and pedal effects to evoke an ethereal and resonant sound world.
+
+#### Étude No. 3: *Touches bloquées* (Blocked Keys)
+This étude features the unique technique of “blocked keys,” where the pianist presses certain keys silently, creating muted and fragmented textures that challenge conventional piano sound.
+
+#### Étude No. 4: *Fanfares*
+This vibrant piece begins with bright, rhythmic motifs reminiscent of brass fanfares. It combines dynamic rhythmic drive with playful, exuberant melodic patterns.
+
+#### Étude No. 5: *Arc-en-ciel* (Rainbow)
+A lyrical and tender étude, this piece emphasizes flowing melodic lines and rich harmonic colors. The music evokes the shimmering, iridescent qualities of a rainbow.
+
+#### Étude No. 6: *Automne à Varsovie* (Autumn in Warsaw)
+This dramatic and powerful étude is one of the most challenging in the set, featuring relentless, cascading arpeggios and a hauntingly melancholic atmosphere.
+
+### Book II (1988–1994)
+
+#### Étude No. 7: *Galamb Borong* (Melancholic Pigeon)
+A mysterious and introspective étude inspired by Ligeti’s memories of Hungarian folk music. The title reflects a gentle yet melancholic character.
+
+#### Étude No. 8: *Fém* (Metal)
+This étude explores metallic resonances and percussive attacks, creating a unique sound world that blends rhythmic precision with timbral experimentation.
+
+#### Étude No. 9: *Vertige* (Vertigo)
+A swirling, dizzying étude that features continuous, cascading scales in a hypnotic and disorienting flow. The effect is mesmerizing, resembling a spiraling descent.
+
+#### Étude No. 10: *Der Zauberlehrling* (The Sorcerer’s Apprentice)
+Inspired by Goethe’s poem and Dukas’s orchestral work, this étude combines playful rhythms with a sense of magical unpredictability.
+
+#### Étude No. 11: *En suspens* (Suspended)
+A calm and meditative étude that emphasizes silence and space, creating a suspended, almost otherworldly soundscape.
+
+#### Étude No. 12: *Entrelacs* (Interlacing)
+Complex polyrhythms intertwine in this étude, creating intricate textures and a sense of continuous motion.
+
+### Book III (1994)
+
+#### Étude No. 13: *L’escalier du diable* (The Devil’s Staircase)
+One of Ligeti’s most famous études, this piece features relentless, ascending patterns that evoke the imagery of an endless staircase. It demands extreme stamina and technical mastery.
+
+#### Étude No. 14: *Coloana infinită* (Infinite Column)
+Inspired by Constantin Brâncuși’s sculpture of the same name, this étude creates a sense of infinite upward motion through its repetitive and evolving structures.
+
+#### Étude No. 15: *White on White*
+A study in subtlety and nuance, this piece focuses on delicate dynamics and sparse textures, evoking a minimalist aesthetic.
+
+#### Étude No. 16: *Pour Irina*
+Dedicated to Ligeti’s wife, Irina, this étude combines lyrical expressiveness with technical complexity, reflecting both tenderness and depth.
+
+#### Étude No. 17: *À bout de souffle* (Out of Breath)
+This étude captures a sense of urgency and exhaustion through its rapid, relentless rhythmic patterns, symbolizing the struggle to maintain momentum.
+
+#### Étude No. 18: *Canon*
+The final étude is a contrapuntal masterpiece, weaving intricate canonic lines that challenge both the performer’s technique and the listener’s perception.
 
 ## The Impact of Ligeti’s Études
 Ligeti’s *Études pour le piano* stand as monumental works in the modern piano repertoire. They challenge pianists to rethink technique and musicality while inviting listeners into a world of boundless imagination and innovation.
@@ -68,3 +115,6 @@ Ligeti’s *Études pour le piano* stand as monumental works in the modern piano
 ![리게티와 피아노](https://github.com/user-attachments/assets/example-ligeti-piano.jpg)
 
 ### Explore the magical and labyrinthine world of Ligeti’s music. Immerse yourself in the extraordinary journey through his *Études pour le piano*!
+
+
+
