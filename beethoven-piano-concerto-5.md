@@ -66,8 +66,6 @@ This is an example of the piano accompanying the orchestra in the piano concerto
 
 (This section is still only a copy from chatgpt's writing. Will be refined soon)
 
-(This section is still only a copy from chatgpt's writing. Will be refined soon)
-
 1. A New Paradigm for the Piano Concerto
 The Emperor redefined the piano concerto, breaking away from the Classical era's conventional structures. Beethoven’s innovative approach—where the piano and orchestra interact as equals—set a new standard for the concerto form. This "symphonic" treatment of the genre, with expanded orchestration and more integrated roles for soloist and ensemble, directly influenced later Romantic composers like:
 
