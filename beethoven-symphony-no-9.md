@@ -74,7 +74,7 @@ The rhythm played by the violin, viola, and double bass gradually intensifies, b
 
 ## 2nd Movement
 
-### [Molto vivace / Presto]
+### [Molto vivace - Presto]
 
 #### The second movement is structured in a Scherzo and Trio form.
 
@@ -103,7 +103,7 @@ There are three key points to focus on while listening to the third movement:
 
 ## 4th Movement 
 
-### [Finale: Presto / Allegro assai]
+### [Finale: Presto - Allegro assai]
 
 #### The fourth movement forms the climax of the symphony, consisting of a large-scale combination of choir and orchestra, with "Ode to Joy" as the central theme.
 
