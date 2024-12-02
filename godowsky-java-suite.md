@@ -16,6 +16,29 @@ Last but not least, Godowsky was a world traveler. As described by Millan Sachan
 Besides his numerous concert tours in North America and Europe, his love of travelling took him to remote, “exotic” 
 countries. Between 1921 and 1925, Godowsky went to Central and South American countries (Mexico, Uruguay, Argentina, and Brazil), East and Southeast Asia, as well as North Africa, Egypt and Palestine. Not only travelling, Godowsky also gave recitals in every country he visited.
 
+- [Timeline](#timeline)
+- [Java Suite](#javasuite)
+- [PART I](#part-i)
+- [I. Gamelan](#i-gamelan)
+- [II. Wayang-Purwa, Puppet Shadow Plays](#ii-wayang-purwa-puppet-shadow-plays)
+- [III. Hari Besaar, The Great Day](#iii-hari-besaar-the-great-day)
+- [PART II](#part-ii)
+- [IV. Chattering Monkeys at the Sacred Lake of Wendit](#iv-chattering-monkeys-at-the-sacred-lake-of-wendit)
+- [V. Boro Budur in Moonlight](#v-boro-budur-in-moonlight)
+- [VI. The Bromo Volcano and the Sand Sea at Daybreak](#vi-the-bromo-volcano-and-the-sand-sea-at-daybreak)
+- [PART III](#part-iii)
+- [VII. Three Dances](#vii-three-dances)
+- [VIII. The Gardens of Buitenzorg](#viii-the-gardens-of-buitenzorg)
+- [XI. In the Streets of Old Batavia](#xi-in-the-streets-of-old-batavia)
+- [PART IV](#part-iv)
+- [X. In the Kraton](#x-in-the-kraton)
+- [XI. The Ruined Water Castle at Djokja](#xi-the-ruined-water-castle-at-djokja)
+- [XII. A Court Pageant in Solo](#xii-a-court-pageant-in-solo)
+- [Influences](#influences)
+- [Significance](#significance)
+- [Performance and Reception](#performance-and-reception)
+- [Listening Guide](#listening-guide)
+
 ## Timeline (still needs to be confirmed)
 | Year       | Event                                   | Description                                                                                          |
 |------------|-----------------------------------------|------------------------------------------------------------------------------------------------------|
