@@ -4,11 +4,13 @@
 
 - [Rondo a carpriccio Op.129](#rondo_a_carpriccio_op_129)
   - [Introduction](#introduction)
-  - [Structure and Characteristics](structure_and_characteristics)
-  - [Musical Character](musical_charater)
-  - [Points to Listen For](points_to_listen_for)
-  - [Conclusion](conclusion)
-- [Timeline](timeline)
+  - [Structure and Characteristics](#structure_and_characteristics)
+  - [Musical Character](#musical_charater)
+  - [Points to Listen For](#points_to_listen_for)
+  - [Conclusion](#conclusion)
+- [Timeline](#timeline)
+- [Qestions for Review](#qestions_for_review)
+- [Guides for Further Studies](#guides_for_further_studies)
 
 ## Rondo a carpriccio Op.129
 
@@ -42,6 +44,10 @@ Expressive Depth: Beyond technical proficiency, performers must capture the ligh
 ### Conclusion
 
 Beethoven's Rondo a Capriccio is a gem that offers a glimpse into the composer's human side and his playful artistry. Performers have the chance to convey Beethoven's humor and vitality, while audiences are invited to enjoy a delightful exploration of his unique musical imagination.
+
+### Qestions for Review
+
+### Guides for Further Studies
 
 ## Timeline 
 
