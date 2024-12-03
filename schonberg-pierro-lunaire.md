@@ -6,6 +6,8 @@
 3. Structure : Song cycle based on 21 poems
 4. Original Poem : Albert Giraud
 
+---
+
 - [Timeline](#timeline)
 - [Several Notable Features](#several-notable-features)
   - [1. Atonality](#1-atonality)
@@ -14,6 +16,8 @@
 - [Importance](#importance)
 - [Questions for Review](#questions-for-review)
 - [Guides for Further Studies](#guides-for-further-studies)
+
+---
 
 ## Timeline
 
