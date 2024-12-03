@@ -16,7 +16,9 @@
     - [Second Movement: Mäßig. Durchaus energisch](#second_movement_mäßig_durchaus_energisch)
     - [Third Movement: Langsam getragen. Durchweg leise zu halten](#third_movement_langsam_getragen_durchweg_leise_zu_halten)
   - [Legacy](#legacy)
-
+- [Questions for Review](#questions-for-review)
+- [Guides for Further Studies](#guides-for-further-studies)
+  
 ---
 
 ## Timeline
@@ -61,5 +63,11 @@ The final movement serves as a lyrical and contemplative conclusion to the work.
 ### Legacy
 
 The Fantasy in C Major stands as a testament to Schumann’s genius, capturing the spirit of Romanticism in its unrestrained emotion and inventive form. Its depth and complexity make it a favorite among pianists and listeners alike, offering a window into the heart and mind of one of the 19th century’s most passionate and poetic composers.
+
+---
+
+## Questions for Review
+
+## Guides for Further Studies
 
 <img src="fantasie.png">
