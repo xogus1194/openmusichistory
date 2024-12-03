@@ -99,6 +99,9 @@ As we explore these compositions, we invite readers to experience the varied sou
 ### Robert Schumann
 - [*Kreisleriana*, Op. 16](schumann-kreisleriana.md) by [ziwonnnn](https://github.com/ziwonnnn)
 
+### John Adams
+- [*Doctor Atomic](john-adams-doctor-atomic.md) by [eunhwan00)(https://github.com/eunhwan00)
+
 ### Leopold Godowsky
 - [*Java Suite*](godowsky-java-suite.md) by [piopio1248](https://github.com/piopio1248)
 
@@ -146,4 +149,6 @@ As we explore these compositions, we invite readers to experience the varied sou
 
 ### _21st Century_
 
+### John Adams
+- [*Doctor Atomic](john-adams-doctor-atomic.md) by [eunhwan00)(https://github.com/eunhwan00)
 - None :sob:
