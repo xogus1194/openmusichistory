@@ -96,6 +96,7 @@ As we explore these compositions, we invite readers to experience the varied sou
 
 ### Robert Schumann
 - [*Kreisleriana*, Op. 16](schumann-kreisleriana.md) by [ziwonnnn](https://github.com/ziwonnnn)
+- [Fantasie, Op. 17](schumann-fantasie.md) by [leeminji0110](https://github.com/leeminji0110)
 
 ---
 
@@ -122,6 +123,7 @@ As we explore these compositions, we invite readers to experience the varied sou
 
 ### Robert Schumann
 - [*Kreisleriana*, Op. 16](schumann-kreisleriana.md) by [ziwonnnn](https://github.com/ziwonnnn)
+- [Fantasie, Op. 17](schumann-fantasie.md) by [leeminji0110](https://github.com/leeminji0110)
 
 ### Gustav Mahler
 - [Symphony No. 1 in D major](mahler-symphony.md) by [Taegyun-Kim-Bassist](https://github.com/Taegyun-Kim-Bassist)
