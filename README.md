@@ -103,14 +103,14 @@ As we explore these compositions, we invite readers to experience the varied sou
 
 ### Robert Schumann
 - [*Kreisleriana*, Op. 16](schumann-kreisleriana.md) by [ziwonnnn](https://github.com/ziwonnnn)
+
 - [Fantasie, Op. 17](schumann-fantasie.md) by [leeminji0110](https://github.com/leeminji0110)
 
 ### Moonhee Lee
 - [The Proliferation of Dots](moonheelee-The-Proliferation-of-Dots.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
+- [Fantasie, Op. 17](schumann_fantasie.md) by [leeminji0110](https://github.com/leeminji0110)
+- [*Fantasie*, in C major, Op.17](schumann-fantasie.md) by [xogus1194](https://github.com/xogus1194)
 
-
-### Leopold Godowsky
-- [*Java Suite*](godowsky-java-suite.md) by [piopio1248](https://github.com/piopio1248)
 
 ---
 
@@ -140,6 +140,8 @@ As we explore these compositions, we invite readers to experience the varied sou
 ### Robert Schumann
 - [*Kreisleriana*, Op. 16](schumann-kreisleriana.md) by [ziwonnnn](https://github.com/ziwonnnn)
 - [Fantasie, Op. 17](schumann-fantasie.md) by [leeminji0110](https://github.com/leeminji0110)
+- [Fantasie, Op. 17](schumann_fantasie.md) by [leeminji0110](https://github.com/leeminji0110)
+- [*Fantasie*, in C major, Op.17](schumann-fantasie.md) by [xogus1194](https://github.com/xogus1194)
 
 ### Gustav Mahler
 - [Symphony No. 1 in D major](mahler-symphony.md) by [Taegyun-Kim-Bassist](https://github.com/Taegyun-Kim-Bassist)
