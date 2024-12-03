@@ -95,6 +95,9 @@ As we explore these compositions, we invite readers to experience the varied sou
 ### Gustav Mahler
 - [Symphony No. 1 in D major](mahler-symphony.md) by [Taegyun-Kim-Bassist](https://github.com/Taegyun-Kim-Bassist)
 
+### Moonhee Lee
+- [The Proliferation of Dots](moonheelee-The-Proliferation-of-Dots.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
+
 ### Wolfgang Amadeus Mozart
 - [Symphony No. 41 in C major, K. 551](mozart-symphony.md) by [hobin2788](https://github.com/hobin2788)
 
@@ -106,8 +109,6 @@ As we explore these compositions, we invite readers to experience the varied sou
 
 - [Fantasie, Op. 17](schumann-fantasie.md) by [leeminji0110](https://github.com/leeminji0110)
 
-### Moonhee Lee
-- [The Proliferation of Dots](moonheelee-The-Proliferation-of-Dots.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
 - [Fantasie, Op. 17](schumann_fantasie.md) by [leeminji0110](https://github.com/leeminji0110)
 - [*Fantasie*, in C major, Op.17](schumann-fantasie.md) by [xogus1194](https://github.com/xogus1194)
 
@@ -159,11 +160,8 @@ As we explore these compositions, we invite readers to experience the varied sou
 
 ### _21st Century_
 
-
-### Moonhee Lee
-
-- [The Proliferation of Dots](moonheelee-The-Proliferation-of-Dots.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
-
 ### John Adams
 - [Doctor Atomic](john_adams_doctor_atomic.md) by [eunhwan00](https://github.com/eunhwan00)
 
+### Moonhee Lee
+- [The Proliferation of Dots](moonheelee-The-Proliferation-of-Dots.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
