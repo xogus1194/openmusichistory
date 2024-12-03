@@ -11,8 +11,8 @@
    - [3rd mov.](#3rd-movement)
    - [4th mov.](#4th-movement)
  - [Conclude](#concluding-the-textbook-of-beethovens-symphony-no9)
- - Questions for Review
- - Guides for Further Studies
+ - [Questions for Review](#questions-for-review)
+ - [Guides for Further Studies](guides-for-further-studies)
 
 ---
 
@@ -192,8 +192,8 @@ There is no doubt that this piece is a masterpiece. Beethoven's final symphony, 
 
 
 
+## Questions for Review
 
 
-
-
+## Guides for Further Studies
 
