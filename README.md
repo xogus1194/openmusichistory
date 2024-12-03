@@ -97,6 +97,9 @@ As we explore these compositions, we invite readers to experience the varied sou
 ### Robert Schumann
 - [*Kreisleriana*, Op. 16](schumann-kreisleriana.md) by [ziwonnnn](https://github.com/ziwonnnn)
 
+### Leopold Godowsky
+- [*Java Suite*](godowsky-java-suite.md) by [piopio1248](https://github.com/piopio1248)
+
 ---
 
 ## Works (by periods)
@@ -133,6 +136,9 @@ As we explore these compositions, we invite readers to experience the varied sou
 
 ### Arnold Schönberg
 - [*Pierrot lunaire*, Op. 21](schonberg-pierro-lunaire.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
+
+### Leopold Godowsky
+- [*Java Suite*](godowsky-java-suite.md) by [piopio1248](https://github.com/piopio1248)
 
 ### _21st Century_
 
