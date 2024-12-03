@@ -75,6 +75,8 @@ As we explore these compositions, we invite readers to experience the varied sou
 - [Piano Sonata No. 21 in C major, "Waldstein"](beethoven-piano-sonata-no.21.md) by [Middaa](https://github.com/Middaa)
 - [Piano Sonata No. 26 in E-flat major, Op. 81a, "Les Adieux"](beethoven-sonata-26.md) by [leeminji0110](https://github.com/leeminji0110)
 - [Which sonata?](sample-beethoven-piano-sonata.md) by [xogus1194](https://github.com/xogus1194)
+- [Symphony no.9](beethoven-symphony-no-9.md) by [taegyun-kim-bassist](https://github.com/Taegyun-Kim-Bassist)
+
 
 ### Ferruccio Busoni (Sample)
 - [Piano Sonata in F minor, BV 204](sample-busoni-piano-sonata.md) by [kyeser](https://github.com/kyeser)
@@ -97,8 +99,16 @@ As we explore these compositions, we invite readers to experience the varied sou
 ### Robert Schumann
 - [*Kreisleriana*, Op. 16](schumann-kreisleriana.md) by [ziwonnnn](https://github.com/ziwonnnn)
 
+
 ### Moonhee Lee
 - [The Proliferation of Dots](moonheelee-The-Proliferation-of-Dots.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
+
+### John Adams
+- [*Doctor Atomic](john-adams-doctor-atomic.md) by [eunhwan00)(https://github.com/eunhwan00)
+
+### Leopold Godowsky
+- [*Java Suite*](godowsky-java-suite.md) by [piopio1248](https://github.com/piopio1248)
+
 
 ---
 
@@ -117,6 +127,8 @@ As we explore these compositions, we invite readers to experience the varied sou
 - [Piano Sonata No. 21 in C major, "Waldstein"](beethoven-piano-sonata-no.21.md) by [Middaa](https://github.com/Middaa)
 - [Piano Sonata No. 26 in E-flat major, Op. 81a, "Les Adieux"](beethoven-sonata-26.md) by [leeminji0110](https://github.com/leeminji0110)
 - [Which sonata?](sample-beethoven-piano-sonata.md) by [xogus1194](https://github.com/xogus1194)
+- [Symphony no.9](beethoven-symphony-no-9.md) by [taegyun-kim-bassist](https://github.com/Taegyun-Kim-Bassist)
+
 
 ### _19th Century_
 
@@ -137,8 +149,16 @@ As we explore these compositions, we invite readers to experience the varied sou
 ### Arnold Schönberg
 - [*Pierrot lunaire*, Op. 21](schonberg-pierro-lunaire.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
 
+### Leopold Godowsky
+- [*Java Suite*](godowsky-java-suite.md) by [piopio1248](https://github.com/piopio1248)
+
 ### _21st Century_
+
 
 ### Moonhee Lee
 
 - [The Proliferation of Dots](moonheelee-The-Proliferation-of-Dots.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
+
+### John Adams
+- [*Doctor Atomic](john-adams-doctor-atomic.md) by [eunhwan00)(https://github.com/eunhwan00)
+
