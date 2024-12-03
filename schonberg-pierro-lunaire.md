@@ -1,13 +1,12 @@
 # Arnold Franz Walter Schönberg
 ## _Pierro Lunaire_'s Explanation
 
-	• Composer: Arnold Schoenberg
-	• Title: Pierrot Lunaire, Op. 21 is an Expressionist work composed in 1912, consisting of 21 songs. 
- 	This piece holds a significant place in music history due to its use of atonality and the unique technique of 
-  	Sprechstimme (speech-singing).
-	• Year of Composition: 1912
-	• Structure: Song cycle based on 21 poems
-	• Original Poet: Albert Giraud
+1. Composer: Arnold Schoenberg
+2. Title: Pierrot Lunaire, Op. 21 is an Expressionist work composed in 1912, consisting of 21 songs. 
+3. This piece holds a significant place in music history due to its use of atonality and the unique technique of Sprechstimme (speech-singing).
+4. Year of Composition: 1912
+5. Structure: Song cycle based on 21 poems
+6. Original Poem: Albert Giraud
 
 - [Timeline](#timeline)
 - [Several Notable Features](#several-notable-features)
@@ -49,13 +48,13 @@ Similar to recitative but distinct, Sprechstimme is a unique technique that lies
 ---
 ## Instrumentation
 
->This work is composed for a chamber ensemble, creating a unique instrumental combination. The instruments used are as follows:
+> This work is composed for a chamber ensemble, creating a unique instrumental combination. The instruments used are as follows:
 
-	• Flute (including piccolo)
-	• Clarinet (including bass clarinet)
-	• Violin (including on viola)
-	• Cello
-	• Piano
+* Flute (including piccolo)
+* Clarinet (including bass clarinet)
+* Violin (including on viola)
+* Cello
+* Piano
 
 Comments: Explain what he wanted to express for each instrument.
 
