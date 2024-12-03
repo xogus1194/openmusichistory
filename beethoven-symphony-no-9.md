@@ -11,6 +11,8 @@
    - [3rd mov.](#3rd-movement)
    - [4th mov.](#4th-movement)
  - [Conclude](#concluding-the-textbook-of-beethovens-symphony-no9)
+ - Questions for Review
+ - Guides for Further Studies
 
 ---
 
