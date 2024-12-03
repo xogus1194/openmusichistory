@@ -7,7 +7,7 @@
 - [Batter my heart](#batter-my-heart)
 - [Listening Guide](#listening-guide)
 - [Questions for Review](#questions-for-guide)
-- [Guide for Further Studies](#guide-for-further-studeis)
+- [Guide for Further Studies](#guide-for-further-studies)
   
 <img src="john_adams.png"> 
 
@@ -71,9 +71,10 @@ Continues to be relevant as it reflects on the ethical dilemmas of technology an
 In the opera, the aria occurs at a climactic moment, reflecting Oppenheimer's internal conflict as he grapples with the moral implications of his role in creating the atomic bomb. The aria’s intense, introspective nature mirrors his anguish and sense of responsibility for unleashing a power capable of unprecedented destruction.
 
 ### Listening Guide
- [Watch](https://www.youtube.com/watch?v=cfti9Bx8G6g&pp=ygUTZG9jdG9yIGF0b21pYyBvcGVyYQ%3D%3D)
- [Watch](https://www.youtube.com/watch?v=PKvKHl9qskk&pp=ygUTZG9jdG9yIGF0b21pYyBvcGVyYQ%3D%3D)
+ [Deutch National Opera](https://www.youtube.com/watch?v=cfti9Bx8G6g&pp=ygUTZG9jdG9yIGF0b21pYyBvcGVyYQ%3D%3D)
+ 
+ [French premier of Dr. Atomic at Opéra national du Rhin](https://www.youtube.com/watch?v=PKvKHl9qskk&pp=ygUTZG9jdG9yIGF0b21pYyBvcGVyYQ%3D%3D)
  
 ## Questions-for Guide
 
-## Guide for further studeis)
+## Guide for further studies
