@@ -12,7 +12,7 @@
    - [4th mov.](#4th-movement)
  - [Conclude](#concluding-the-textbook-of-beethovens-symphony-no9)
  - [Questions for Review](#questions-for-review)
- - [Guides for Further Studies](guides-for-further-studies)
+ - [Guides for Further Studies](#guides-for-further-studies)
 
 ---
 
