@@ -82,7 +82,7 @@ This movement is a tour de force of technical brilliance, where Beethoven explor
 - **Rhythmic drive**: The movement is propelled by vigorous and syncopated rhythmic patterns.
 - **Thematic development**: Beethoven continuously manipulates the themes, providing an ever-evolving sense of drama.
 - **Technical challenges**: Rapid scales, wide leaps, and intricate passagework define the movement’s virtuosic character.
-
+[I think this key features points are not necessary in program notes, instead, you should incorporate it into the paragraphs]
 ---
 
 ### **2. Adagio un poco mosso**
@@ -95,7 +95,7 @@ Though calm on the surface, the movement subtly shifts through various harmonic 
 - **Expressive lyricism**: The movement’s long, singing lines invite the performer to focus on subtle phrasing and dynamic shading.
 - **Harmonic richness**: Beethoven employs chromaticism and shifting harmonies, creating a sense of emotional depth.
 - **Contrast**: The movement provides a dramatic and thematic respite from the brilliance of the first, with a more personal and intimate character.
-
+[I think this key features points are not necessary in program notes, instead, you should incorporate it into the paragraphs]
 ---
 
 ### **3. Allegro molto**
@@ -108,7 +108,7 @@ As in the first movement, Beethoven takes full advantage of the piano’s potent
 - **Rhythmic drive**: The movement features fast, alternating rhythms and rapid passages that require both speed and precision.
 - **Light-hearted energy**: Despite its technical demands, the movement conveys a sense of joy and optimism.
 - **Exuberant ending**: The movement concludes with a triumphant flourish, bringing the sonata to a brilliant close.
-
+[I think this key features points are not necessary in program notes, instead, you should incorporate it into the paragraphs]
 ---
 
 # Musical Significance
@@ -122,3 +122,8 @@ Beethoven’s innovation is evident in the way he manipulates form. While adheri
 # Conclusion
 
 The "Waldstein" Sonata is a stunning demonstration of Beethoven’s genius, marked by its boldness, innovation, and emotional depth. With its striking contrasts between the vigorous and the lyrical, the playful and the profound, it is a work that encapsulates the essence of Beethoven's style: a fearless exploration of the piano’s capabilities, imbued with an intensely personal expression. As one of his most iconic piano works, the "Waldstein" Sonata remains a cornerstone of the piano repertoire, continuously inspiring performers and listeners alike.
+
+
+That's cool. 
+
+It's a great textbook.
