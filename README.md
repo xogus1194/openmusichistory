@@ -151,6 +151,9 @@ As we explore these compositions, we invite readers to experience the varied sou
 
 ### _20th Century_
 
+### John Adams
+- [Doctor Atomic](john_adams_doctor_atomic.md) by [eunhwan00](https://github.com/eunhwan00)
+
 ### Leopold Godowsky
 - [*Java Suite*](godowsky-java-suite.md) by [piopio1248](https://github.com/piopio1248)
 
@@ -163,7 +166,4 @@ As we explore these compositions, we invite readers to experience the varied sou
 ### Moonhee Lee
 
 - [The Proliferation of Dots](moonheelee-The-Proliferation-of-Dots.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
-
-### John Adams
-- [Doctor Atomic](john_adams_doctor_atomic.md) by [eunhwan00](https://github.com/eunhwan00)
 
