@@ -38,6 +38,8 @@ countries. Between 1921 and 1925, Godowsky went to Central and South American co
 - [Significance](#significance)
 - [Performance and Reception](#performance-and-reception)
 - [Listening Guide](#listening-guide)
+- [Questions for Review](#questions-for-review)
+- [Guides for Further Studies](#guides-for-further-studies)
 
 ## Timeline
 
@@ -300,3 +302,7 @@ Active Listening: Pay attention to the interplay between melody and accompanimen
 Multiple Listenings: Each movement is rich in detail. Repeated listening can reveal new layers and subtleties.
 Compare and Contrast: If possible, listen to traditional Javanese gamelan music to better appreciate Godowsky’s interpretation.
 The Java Suite is a testament to Godowsky’s ability to synthesize diverse cultural elements into a unique musical language, making it both a technical tour de force and a deeply atmospheric work.
+
+## Questions for Review
+
+## Guides for Further Studies

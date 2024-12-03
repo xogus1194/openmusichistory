@@ -16,6 +16,8 @@
 - [Significance](#significance)
 - [Performance and Reception](#performance-and-reception)
 - [Listening Guide](#listening-guide)
+- [Questions for Review](#questions-for-review)
+- [Guides for Further Studies](#guides-for-further-studies)
 
 ## Timeline
 
@@ -72,6 +74,10 @@ Beethoven dedicated this sonata to Archduke Rudolph, whose patronage and friends
 ## Performance and Reception
 
 ## Listening Guide
+
+## Questions for Review
+
+## Guides for Further Studies
 
 comments : The textbook is really helpful.
 
