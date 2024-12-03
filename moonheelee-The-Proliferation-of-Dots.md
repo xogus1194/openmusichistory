@@ -6,6 +6,9 @@
 3. Year of Composition : 2024
 4. Structure : This piece was composed after reading point and line to pane, a book by Wassily Kandinsky, a Russian painter and art theorist.
 
+- [Timeline](#timeline)
+- [Who is Moonhee Lee?](#who-is-moonhee-lee)
+  
 # Timeline
 | Year | Event | Description                                                                | Youtube |
 | ---- | ----- | -------------------------------------------------------------------------- | ------- |
