@@ -8,6 +8,8 @@ Ferruccio Busoni (1866–1924) was a multifaceted Italian artist—composer, pia
 - [Significance](#significance)
 - [Performance and Reception](#performance-and-reception)
 - [Listening Guide](#listening-guide)
+- Questions for Reivew
+- Guides for Further Studies
 
 ## Timeline
 
