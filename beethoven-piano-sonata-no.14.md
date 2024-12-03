@@ -5,7 +5,7 @@
 
 
 - [Timeline](#timeline)
-- [Piano Sonata No. 14 in C# minor, Op. 27, No. 2 ("Moonlight Sonata")](#piano-sonata-no-14-in-c#-minor-op-27-no-2-moonlight-sonata)
+- [Piano Sonata No. 14 in C-Sharp minor, Op. 27, No. 2](#piano-sonata-no-14-in-c-sharp-minor-op-27-no-2)
 - [Influences](#influences)
 - [Significance](#significance)
 - [Performance and Reception](#performance-and-reception)
@@ -39,7 +39,7 @@
 This piece was directly influenced by Beethoven's piano sonatas, especially [Piano Sonata No.26](#beethoven-sonata-26.md) (This is not true.)
 
 ---
-## Piano Sonata No. 14 in C# minor, Op. 27, No. 2 
+## Piano Sonata No. 14 in C-Sharp minor, Op. 27, No. 2 
 
 <img src="Moonlight_Sonata_I.png" wirth="400" height="150">
 
@@ -83,3 +83,7 @@ This sonata deviates from the traditional three-movement sonata form, offering a
 ## Performance and Reception
 
 ## Listening Guide
+
+## Questions for Review
+
+## Guides for Further Studies
