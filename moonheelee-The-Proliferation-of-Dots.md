@@ -13,6 +13,10 @@
 | 2012 | Birth | Eolssigu Eolssu for percussion and esemble (Clarinet, Piano, Volin, Cello) |         |
 | 2024 | Birth | The Proliferation of Dots for orchestra                                    |         |
 
+<div align="center">
+<img src="moonhee-lee.jpg" width="250px">
+</div>
+
 # Who is Moonhee Lee?
 
 Moonhee Lee was born in Busan(South Korea), in 1984 and studied composition with Jongwoo Yim and Doneung Lee at Hanyang University in Seoul. He received a Master’s degree from Luebeck National University of Music, studying with Dieter Mack and received his professional studies from the University of Music and Peforming Arts Munich in Germany under the guidance of Isabel Mundry.
