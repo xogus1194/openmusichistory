@@ -4,7 +4,7 @@
 - [Compositional style](#compositional-style)
 - [John Adams Opera](#john-adams-opera)
 - [Opera Doctor Atomic](#opera-doctor-atomic)
-- 
+  
 <img src="john_adams.png"> 
 
 
