@@ -36,6 +36,8 @@ John Adams’ Dr. Atomic explores the moral and existential dilemmas surrounding
 John Adams' operas are known for their innovative use of modern musical techniques, blending minimalist influences with rich orchestration and complex rhythms. His works often tackle significant historical and political events, such as Nixon in China, which explores Nixon's 1972 visit to China, and Doctor Atomic, which delves into the moral and emotional struggles of those involved in the development of the atomic bomb. Adams' operas are characterized by compelling narratives, complex characters, and a deep exploration of contemporary issues, combining intellectual depth with dramatic intensity. His music engages with themes of morality, responsibility, and the human impact of technological advancements, making his operas both thought-provoking and emotionally powerful.
 
 ## Opera Doctor Atomic
+<img src="doctor atomic scene.webp"> 
+
 ### Plot and themes
 Doctor Atomic dramatizes the intense and morally fraught moments leading up to the first test of the atomic bomb in July 1945. The opera is set in Los Alamos, New Mexico, and centers on the scientists, military personnel, and their psychological struggles as they prepare for the Trinity test.
 
