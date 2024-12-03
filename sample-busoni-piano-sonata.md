@@ -8,6 +8,8 @@ Ferruccio Busoni (1866–1924) was a multifaceted Italian artist—composer, pia
 - [Significance](#significance)
 - [Performance and Reception](#performance-and-reception)
 - [Listening Guide](#listening-guide)
+- [Questions for Review](#questions-for-review)
+- [Guides for Further Studies](#guides-for-further-studies)
 
 ## Timeline
 
@@ -46,3 +48,7 @@ Although it is an early work, the Piano Sonata in F minor, BV 204, reveals much 
 The sonata is rarely performed today, overshadowed by Busoni's later masterpieces such as the Fantasia Contrappuntistica and the Concerto for Piano and Orchestra, Op. 39. However, for pianists and scholars, it remains a rewarding piece, both technically and musically, for its combination of youthful energy and the seeds of compositional brilliance.
 
 ## Listening Guide
+
+## Questions for Review
+
+## Guides for Further Studies
