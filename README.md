@@ -58,7 +58,7 @@ As we explore these compositions, we invite readers to experience the varied sou
 [hobin2788](https://github.com/hobin2788)  
 > 3rd-year student in the Department of Piano at Hanyang University.
 
-### Your name?  
+### HYUNMIN KIM 
 [RYUSEI-KIM](https://github.com/RYUSEI-KIM)  
 > 3rd-year composition major at Hanyang University. A sweet soul full of love and kindness!
 
@@ -99,11 +99,16 @@ As we explore these compositions, we invite readers to experience the varied sou
 ### Robert Schumann
 - [*Kreisleriana*, Op. 16](schumann-kreisleriana.md) by [ziwonnnn](https://github.com/ziwonnnn)
 
+
+### Moonhee Lee
+- [The Proliferation of Dots](moonheelee-The-Proliferation-of-Dots.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
+
 ### John Adams
 - [*Doctor Atomic](john-adams-doctor-atomic.md) by [eunhwan00)(https://github.com/eunhwan00)
 
 ### Leopold Godowsky
 - [*Java Suite*](godowsky-java-suite.md) by [piopio1248](https://github.com/piopio1248)
+
 
 ---
 
@@ -149,6 +154,11 @@ As we explore these compositions, we invite readers to experience the varied sou
 
 ### _21st Century_
 
+
+### Moonhee Lee
+
+- [The Proliferation of Dots](moonheelee-The-Proliferation-of-Dots.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
+
 ### John Adams
 - [*Doctor Atomic](john-adams-doctor-atomic.md) by [eunhwan00)(https://github.com/eunhwan00)
-- None :sob:
+
