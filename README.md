@@ -98,6 +98,7 @@ As we explore these compositions, we invite readers to experience the varied sou
 
 ### Robert Schumann
 - [*Kreisleriana*, Op. 16](schumann-kreisleriana.md) by [ziwonnnn](https://github.com/ziwonnnn)
+- [Fantasie, Op. 17](schumann_fantasie.md) by [leeminji0110](https://github.com/leeminji0110)
 - [*Fantasie*, in C major, Op.17](schumann-fantasie.md) by [xogus1194](https://github.com/xogus1194)
 
 ### John Adams
@@ -133,6 +134,7 @@ As we explore these compositions, we invite readers to experience the varied sou
 
 ### Robert Schumann
 - [*Kreisleriana*, Op. 16](schumann-kreisleriana.md) by [ziwonnnn](https://github.com/ziwonnnn)
+- [Fantasie, Op. 17](schumann_fantasie.md) by [leeminji0110](https://github.com/leeminji0110)
 - [*Fantasie*, in C major, Op.17](schumann-fantasie.md) by [xogus1194](https://github.com/xogus1194)
 
 ### Gustav Mahler
