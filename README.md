@@ -62,9 +62,9 @@ As we explore these compositions, we invite readers to experience the varied sou
 [RYUSEI-KIM](https://github.com/RYUSEI-KIM)  
 > 3rd-year composition major at Hanyang University. A sweet soul full of love and kindness!
 
-### Your name?  
+### Taelim Seo
 [xogus1194](https://github.com/xogus1194)  
-> *(No description provided)*  
+> 4th-year student in the department of piano at Hanyang University.
 
 ---
 
