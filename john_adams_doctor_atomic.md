@@ -1,8 +1,10 @@
 # John Adams
 
 - [John Adams life and career](#john-adams-life-and-career)
--
-
+- [Compositional style](#compositional-style)
+- [John Adams Opera](#john-adams-opera)
+- [Opera Doctor Atomic](#opera-doctor-atomic)
+- 
 <img src="john_adams.png"> 
 
 
@@ -20,6 +22,7 @@
 ## Compositional style
 John Adams' compositional style blends the repetitive structures and rhythmic patterns of minimalism with rich orchestration and emotional depth, creating a unique sound that evolves over time. 
 He often incorporates complex harmonic textures and subtle shifts in rhythm, adding layers of intensity and drama. His works frequently explore political, historical, and moral themes, with a particular focus on contemporary issues, blending intellectual exploration with powerful emotional expression. Adams' music is known for its dramatic narrative quality, especially in his operas, where he combines modern musical language with compelling storytelling.
+
 -[Beethoven symphony](beethoven-symphony-no-9.md)
 John Adams’ Dr. Atomic explores the moral and existential dilemmas surrounding the creation of the atomic bomb, much like Beethoven’s works reflect profound moments of human struggle and innovation. Both composers confront pivotal moments in history—Beethoven through the revolutionary spirit of his symphonies and Adams through the ethical consequences of scientific advancement. While Beethoven broke musical boundaries in his time, Adams similarly pushes the boundaries of opera by combining minimalism and modernism to address complex themes. Ultimately, both composers use their music to explore the tension between human ambition and its often catastrophic consequences.
 <img src="doctor_atomic_symphony_orchestra.png">
