@@ -8,7 +8,7 @@ Ferruccio Busoni (1866–1924) was a multifaceted Italian artist—composer, pia
 - [Significance](#significance)
 - [Performance and Reception](#performance-and-reception)
 - [Listening Guide](#listening-guide)
-- [Questions for Reivew](#questions-for-review)
+- [Questions for Review](#questions-for-review)
 - [Guides for Further Studies](#guides-for-further-studies)
 
 ## Timeline
@@ -49,6 +49,6 @@ The sonata is rarely performed today, overshadowed by Busoni's later masterpiece
 
 ## Listening Guide
 
-## Questions for Reivew
+## Questions for Review
 
 ## Guides for Further Studies
