@@ -108,9 +108,6 @@ As we explore these compositions, we invite readers to experience the varied sou
 ### John Adams
 - [*Doctor Atomic](john-adams-doctor-atomic.md) by [eunhwan00)(https://github.com/eunhwan00)
 
-### Leopold Godowsky
-- [*Java Suite*](godowsky-java-suite.md) by [piopio1248](https://github.com/piopio1248)
-
 ---
 
 ## Works (by periods)
