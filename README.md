@@ -58,23 +58,28 @@ As we explore these compositions, we invite readers to experience the varied sou
 [hobin2788](https://github.com/hobin2788)  
 > 3rd-year student in the Department of Piano at Hanyang University.
 
-### Your name?  
+### HYUNMIN KIM 
 [RYUSEI-KIM](https://github.com/RYUSEI-KIM)  
 > 3rd-year composition major at Hanyang University. A sweet soul full of love and kindness!
 
-### Your name?  
+### Taelim Seo
 [xogus1194](https://github.com/xogus1194)  
-> *(No description provided)*  
+> 4th-year student in the department of piano at Hanyang University.
 
 ---
 
 ## Works (by composers)
 
+### John Adams
+- [Doctor Atomic](john_adams_doctor_atomic.md) by [eunhwan00](https://github.com/eunhwan00)
+
 ### Ludwig van Beethoven
 - [Piano Concerto No. 5 in C minor, Op. 73](beethoven-piano-concerto-5.md) by [piopio1248](https://github.com/piopio1248)
+- [Piano Sonata No. 14 in C-Sharp minor, Op. 27, "Moonlight"](beethoven-piano-sonata.md) by [xogus1194](https://github.com/xogus1194)
 - [Piano Sonata No. 21 in C major, "Waldstein"](beethoven-piano-sonata-no.21.md) by [Middaa](https://github.com/Middaa)
 - [Piano Sonata No. 26 in E-flat major, Op. 81a, "Les Adieux"](beethoven-sonata-26.md) by [leeminji0110](https://github.com/leeminji0110)
-- [Which sonata?](sample-beethoven-piano-sonata.md) by [xogus1194](https://github.com/xogus1194)
+- [Symphony No. 9, Op. 125](beethoven-symphony-no-9.md) by [taegyun-kim-bassist](https://github.com/Taegyun-Kim-Bassist)
+- [Rondo a carpriccio Op.129](beethoven-rondo.md) by [Yunseungju](https://github.com/Yunseungju)
 
 ### Ferruccio Busoni (Sample)
 - [Piano Sonata in F minor, BV 204](sample-busoni-piano-sonata.md) by [kyeser](https://github.com/kyeser)
@@ -82,8 +87,14 @@ As we explore these compositions, we invite readers to experience the varied sou
 ### Frédéric Chopin
 - [Piano Sonata No. 2 in B-flat minor, Op. 35](chopin-piano-sonata.md) by [Yunseungju](https://github.com/Yunseungju)
 
+### Leopold Godowsky
+- [*Java Suite*](godowsky-java-suite.md) by [piopio1248](https://github.com/piopio1248)
+
 ### Joseph Haydn
 - [Keyboard Sonata in C major, Hob.XVI:50](haydn-piano-sonata.md) by [eunhwan00](https://github.com/eunhwan00)
+
+### Moonhee Lee
+- [The Proliferation of Dots](moonheelee-The-Proliferation-of-Dots.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
 
 ### Gustav Mahler
 - [Symphony No. 1 in D major](mahler-symphony.md) by [Taegyun-Kim-Bassist](https://github.com/Taegyun-Kim-Bassist)
@@ -114,14 +125,21 @@ As we explore these compositions, we invite readers to experience the varied sou
 - [Piano Sonata No. 21 in C major, "Waldstein"](beethoven-piano-sonata-no.21.md) by [Middaa](https://github.com/Middaa)
 - [Piano Sonata No. 26 in E-flat major, Op. 81a, "Les Adieux"](beethoven-sonata-26.md) by [leeminji0110](https://github.com/leeminji0110)
 - [Which sonata?](sample-beethoven-piano-sonata.md) by [xogus1194](https://github.com/xogus1194)
+- [Rondo a carpriccio Op.129](beethoven-rondo.md) by [Yunseungju](https://github.com/Yunseungju)
+- [Symphony No. 9, Op. 125](beethoven-symphony-no-9.md) by [taegyun-kim-bassist](https://github.com/Taegyun-Kim-Bassist)
 
 ### _19th Century_
 
 ### Frédéric Chopin
 - [Piano Sonata No. 2 in B-flat minor, Op. 35](chopin-piano-sonata.md) by [Yunseungju](https://github.com/Yunseungju)
 
+### Leopold Godowsky
+- [*Java Suite*](godowsky-java-suite.md) by [piopio1248](https://github.com/piopio1248)
+
 ### Robert Schumann
 - [*Kreisleriana*, Op. 16](schumann-kreisleriana.md) by [ziwonnnn](https://github.com/ziwonnnn)
+- [Fantasie, Op. 17](schumann_fantasie.md) by [leeminji0110](https://github.com/leeminji0110)
+- [*Fantasie*, in C major, Op.17](schumann-fantasie.md) by [xogus1194](https://github.com/xogus1194)
 
 ### Gustav Mahler
 - [Symphony No. 1 in D major](mahler-symphony.md) by [Taegyun-Kim-Bassist](https://github.com/Taegyun-Kim-Bassist)
@@ -131,9 +149,13 @@ As we explore these compositions, we invite readers to experience the varied sou
 
 ### _20th Century_
 
+### John Adams
+- [Doctor Atomic](john_adams_doctor_atomic.md) by [eunhwan00](https://github.com/eunhwan00)
+
 ### Arnold Schönberg
 - [*Pierrot lunaire*, Op. 21](schonberg-pierro-lunaire.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
 
 ### _21st Century_
 
-- None :sob:
+### Moonhee Lee
+- [The Proliferation of Dots](moonheelee-The-Proliferation-of-Dots.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
