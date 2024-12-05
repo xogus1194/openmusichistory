@@ -13,7 +13,8 @@
    -[Coda](#coda)
 - [Tips for practicing](#tips-for-practicing)
 - [Listening Guide](#listening-guide)
-
+- [Questions-for Guide](#questions-for-guide)
+- [Guide for further studies](#guide-for-further-studies)
 
 
 ## Haydn's life and career
@@ -91,3 +92,6 @@ The opening Allegro is light and brisk, with Schiff's attention to detail creati
 
 [3. Glenn Gould](https://www.youtube.com/watch?v=VfmmVQhg3-0)
 Gould plays with clear, almost detached articulation that emphasizes clarity over conventional lyricism. While this style may not bring the full "playfulness" some other performances capture, Gould’s rendition has a unique, crisp quality that highlights the structure of the piece in a way that reveals deeper layers of Haydn's compositional ingenuity. He occasionally emphasizes certain harmonic shifts and key moments with a slight push, providing both a sense of forward motion and a subtle invitation for reflection.
+
+## Questions-for Guide
+## Guide for further studies
