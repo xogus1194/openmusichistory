@@ -55,14 +55,15 @@ The recapitulation brings back the main theme, now firmly rooted in the home key
 ### Coda 
 The movement concludes with a spirited coda, reintroducing elements from earlier in the movement and culminating in a jubilant finish.
 
-# Musical Characteristics
+### Musical Characteristics
 Rhythm and Articulation: The first movement features lively rhythms and clear articulation, allowing for expressive playing. The use of staccato and legato contrasts adds to the playful character.
 Harmonic Language: Haydn's harmonic language is inventive, with unexpected modulations that keep the listener engaged.
-# Performance Notes
+
+### Performance Notes
 Expression: Performers are encouraged to emphasize the contrasts between the themes and to bring out the playful elements. Dynamic variations and phrasing will enhance the movement's character.
 The first movement of Haydn's Piano Sonata in C Major is a vibrant and engaging work that showcases Haydn's mastery of form and melody, making it a delightful experience for both performers and audiences.
 
-## Emotional Connection
+### Emotional Connection
 While the movement is upbeat and cheerful, it also contains moments of subtle expressiveness. The humor in the piece is not overt but comes through in Haydn's playful use of harmonic shifts and rhythmic surprises. Encourage performers to approach the piece with a sense of lightheartedness, allowing the music to flow naturally with a sense of optimism and joy.
 
 ## Tips for Practicing 
@@ -79,8 +80,7 @@ Imagine the right hand as telling a story, with the left hand responding. This w
 ### Have Fun!
 Above all, enjoy the music! Haydn’s Piano Sonata Hob. XVI:50 is a delightful work full of energy and wit, and it offers a rewarding experience both for the performer and the audience.
 
-Overall, this first movement of Haydn’s Piano Sonata in C Major is a perfect example of his mastery of form, rhythm, and melody. It embodies the Classical spirit with a touch of humor and inventiveness, making it an enjoyable piece for performers and audiences alike. [You can put the word "overall" here if you want to]
-
+Overall, this first movement of Haydn’s Piano Sonata in C Major is a perfect example of his mastery of form, rhythm, and melody. It embodies the Classical spirit with a touch of humor and inventiveness, making it an enjoyable piece for performers and audiences alike.
 ## Listening Guide
 This listening guide explores, offering insights into the unique interpretations of various pianists.
 
