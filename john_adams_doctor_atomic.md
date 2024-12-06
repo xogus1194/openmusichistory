@@ -1,11 +1,11 @@
 # John Adams
 
 - [John Adams life and career](#john-adams-life-and-career)
-- [Compositional style](#compositional-style)
+  - [Compositional style](#compositional-style)
 - [John Adams Opera](#john-adams-opera)
-- [Opera Doctor Atomic](#opera-doctor-atomic)
-- [Batter my heart](#batter-my-heart)
-- [Listening Guide](#listening-guide)
+  - [Opera Doctor Atomic](#opera-doctor-atomic)
+  - [Act I, Scene 3 "Batter my heart"](#act-i-scene-3-batter-my-heart)
+  - [Listening Guide](#listening-guide)
 - [Questions for Review](#questions-for-guide)
 - [Guide for Further Studies](#guide-for-further-studies)
   
@@ -65,7 +65,7 @@ Praised for its innovative storytelling and Adams' ability to humanize historica
 Some critics note its focus on character and mood over linear narrative as both a strength and a challenge.
 Continues to be relevant as it reflects on the ethical dilemmas of technology and warfare in modern times.
 
-## Batter my heart
+## Act I, Scene 3 "Batter my heart"
 <img src="Batter my heart voice.png"> 
 "Batter my heart" is a poignant aria from John Adams' opera Doctor Atomic, performed by the character of J. Robert Oppenheimer. The text is adapted from a metaphysical sonnet by John Donne, which portrays a deeply personal plea to God for spiritual renewal through forceful intervention.
 In the opera, the aria occurs at a climactic moment, reflecting Oppenheimer's internal conflict as he grapples with the moral implications of his role in creating the atomic bomb. The aria’s intense, introspective nature mirrors his anguish and sense of responsibility for unleashing a power capable of unprecedented destruction.
