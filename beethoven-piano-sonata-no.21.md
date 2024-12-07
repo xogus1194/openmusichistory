@@ -49,7 +49,7 @@ Despite losing his hearing, Beethoven overcame immense challenges to create time
 
 
 
-<img src="sonata-no.21.png">
+<img src="beethoven-for.png">
 
 
 **Ludwig van Beethoven: Piano Sonata No. 21 in C major, Op. 53 ("Waldstein")**
