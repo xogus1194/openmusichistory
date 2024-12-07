@@ -29,11 +29,25 @@ Beethoven's Sonata "Waldstein" shows innovation and originality in the sonata fo
 
 # TimeLine
 
-| Year | Event       | Description                           | Youtube |
-| ---- | ----------- | ------------------------------------- | ------- |
-| 1770 | Birth       | Born  on December 16, 1770 in Germany |         |
-| 1795 | Early Works | Piano Sonata No. 1~3, 8               |         |
-| 1800 | Symphony    | Symphony No. 1 in C Major, Op. 21     | [Listen](https://www.youtube.com/watch?v=ouKhdyzxXE8) :tv: |
+| Year | Event       | Description                                                           | Youtube |
+| ---- | ----------- | --------------------------------------------------------------------- | ------- |
+| 1770 | Birth       | Born  on December 16, 1770 in Germany                                 |
+| 1787 | Early Works | Visited Vienna, reportedly met Mozart                                 |
+| 1792 | Symphony    | Moved to Vienna, studied composition with Haydn                       | [Listen](https://www.youtube.com/watch?v=ouKhdyzxXE8) :tv: |
+| 1800 | Published his First Symphony, gaining recognition as a composer                     | 
+| 1803 | Composed Symphony No. 3 *"Eroica"*                                                  |
+| 1808 | Premiered Symphony No. 5 *"Fate"* and No. 6 *"Pastoral"*                            |
+| 1815 | Following his brother's death, began a legal battle for custody of his nephew, Karl |  
+| 1824 | Presented Symphony No. 9 *"Choral"*, considered a masterpiece                       |
+| 1827 | Died in Vienna at the age of 56                                                     |
+ 
+
+
+
+Despite losing his hearing, Beethoven overcame immense challenges to create timeless works that transformed the world of music.
+
+
+
 
 <img src="sonata-no.21.png">
 
