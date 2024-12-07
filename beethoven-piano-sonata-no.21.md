@@ -50,12 +50,12 @@ This piece was directly influenced by Mozart' symphony, especially [Mozart Symph
 | ---- | ---------------------------- | ----------------------------------------------------------------------------------- | ------- |
 | 1770 | Birth in Bonn                | Born  on December 16, 1770 in Germany                                               |
 | 1787 | First Visit to Vienna        | Visited Vienna, reportedly met Mozart                                               |
-| 1792 | Move to Vienna               | Moved to Vienna, studied composition with Haydn                                     | [Listen](https://www.youtube.com/watch?v=ouKhdyzxXE8) :tv:                                                 |
+| 1792 | Move to Vienna               | Moved to Vienna, studied composition with Haydn                                     | [Listen No.1](https://www.youtube.com/watch?v=ouKhdyzxXE8&t=373s) :tv:                                                 |
 | 1800 | First Symphony               | Published his First Symphony, gaining recognition as a composer                     | 
-| 1803 | The Eroica Symphony          | Composed Symphony No. 3 *"Eroica"*                                                  | [Listen](https://www.youtube.com/watch?v=I9HapWc4mr4) :tv:                                                 |
-| 1808 | Fate and Pastoral Symphonies | Premiered Symphony No. 5 *"Fate"* and No. 6 *"Pastoral"*                            | [Listen](https://www.youtube.com/watch?v=NWWbA5H5pEs) :tv: , [Listen](https://www.youtube.com/watch?v=y-6B1z5spOY) :tv: |
+| 1803 | The Eroica Symphony          | Composed Symphony No. 3 *"Eroica"*                                                  | [Listen No.3](https://www.youtube.com/watch?v=I9HapWc4mr4) :tv:                                                 |
+| 1808 | Fate and Pastoral Symphonies | Premiered Symphony No. 5 *"Fate"* and No. 6 *"Pastoral"*                            | [Listen No.5](https://www.youtube.com/watch?v=NWWbA5H5pEs) :tv: , [Listen No.6](https://www.youtube.com/watch?v=y-6B1z5spOY) :tv: |
 | 1815 | Custody Battle               | Following his brother's death, began a legal battle for custody of his nephew, Karl |  
-| 1824 | Symphony No. 9               | Presented Symphony No. 9 *"Choral"*, considered a masterpiece                       | [Listen](https://www.youtube.com/watch?v=acmy-daxIZk) :tv:                                                 |
+| 1824 | Symphony No. 9               | Presented Symphony No. 9 *"Choral"*, considered a masterpiece                       | [Listen No.9](https://www.youtube.com/watch?v=acmy-daxIZk) :tv:                                                 |
 | 1827 | Death in Vienna              | Died in Vienna at the age of 56                                                     |
  
 
