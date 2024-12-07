@@ -49,7 +49,7 @@ Despite losing his hearing, Beethoven overcame immense challenges to create time
 
 
 
-<img src="beethoven-for.png">
+
 
 
 **Ludwig van Beethoven: Piano Sonata No. 21 in C major, Op. 53 ("Waldstein")**
@@ -62,7 +62,7 @@ Despite losing his hearing, Beethoven overcame immense challenges to create time
 This piece was directly influenced by Mozart' symphony, especially [Mozart Symphony No.41](mozart-symphony.md). 
 
 
-<img src="animal_.png">
+<img src="beethoven-for.png">
 
 
 
