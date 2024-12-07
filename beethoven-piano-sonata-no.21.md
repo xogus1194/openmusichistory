@@ -12,43 +12,6 @@ Beethoven's Sonata "Waldstein" shows innovation and originality in the sonata fo
 
 
 
-
-
-
-- [Timeline](#timeline)
-- [Overview](#overview )
-- [Structure](#structure)
-- [Musical Significance](#musical-significance)
-- [Conclusion](#conclusion)
-
-
-
-
-
-
-
-# TimeLine
-
-| Year | Event       | Description                                                           | Youtube |
-| ---- | ----------- | --------------------------------------------------------------------- | ------- |
-| 1770 | Birth       | Born  on December 16, 1770 in Germany                                 |
-| 1787 | Early Works | Visited Vienna, reportedly met Mozart                                 |
-| 1792 | Symphony    | Moved to Vienna, studied composition with Haydn                       | [Listen](https://www.youtube.com/watch?v=ouKhdyzxXE8) :tv: |
-| 1800 | Published his First Symphony, gaining recognition as a composer                     | 
-| 1803 | Composed Symphony No. 3 *"Eroica"*                                                  |
-| 1808 | Premiered Symphony No. 5 *"Fate"* and No. 6 *"Pastoral"*                            |
-| 1815 | Following his brother's death, began a legal battle for custody of his nephew, Karl |  
-| 1824 | Presented Symphony No. 9 *"Choral"*, considered a masterpiece                       |
-| 1827 | Died in Vienna at the age of 56                                                     |
- 
-
-
-
-Despite losing his hearing, Beethoven overcame immense challenges to create timeless works that transformed the world of music.
-
-
-
-
 ---
 
 
@@ -63,6 +26,50 @@ This piece was directly influenced by Mozart' symphony, especially [Mozart Symph
 
 
 <img src="beethoven-for.png">
+
+---
+
+
+- [Timeline](#timeline)
+- [Overview](#overview )
+- [Structure](#structure)
+- [Musical Significance](#musical-significance)
+- [Conclusion](#conclusion)
+
+
+
+
+---
+
+
+
+
+# TimeLine
+
+| Year | Event                        | Description                                                                         | Youtube |
+| ---- | ---------------------------- | ----------------------------------------------------------------------------------- | ------- |
+| 1770 | Birth in Bonn                | Born  on December 16, 1770 in Germany                                               |
+| 1787 | First Visit to Vienna        | Visited Vienna, reportedly met Mozart                                               |
+| 1792 | Move to Vienna               | Moved to Vienna, studied composition with Haydn                                     | [Listen](https://www.youtube.com/watch?v=ouKhdyzxXE8) :tv: |
+| 1800 | First Symphony               | Published his First Symphony, gaining recognition as a composer                     | 
+| 1803 | The Eroica Symphony          | Composed Symphony No. 3 *"Eroica"*                                                  |
+| 1808 | Fate and Pastoral Symphonies | Premiered Symphony No. 5 *"Fate"* and No. 6 *"Pastoral"*                            |
+| 1815 | Custody Battle               | Following his brother's death, began a legal battle for custody of his nephew, Karl |  
+| 1824 | Symphony No. 9               | Presented Symphony No. 9 *"Choral"*, considered a masterpiece                       |
+| 1827 | Death in Vienna              | Died in Vienna at the age of 56                                                     |
+ 
+
+
+
+
+
+---
+
+
+
+
+
+
 
 
 
