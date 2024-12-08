@@ -12,6 +12,8 @@ Also, this sonata was one of my performance pieces. Originally, I didn't particu
 
 ---
 
+<img src="proro.png">
+
 - [Timeline](#timeline)
 - [Overview](#overview )
 - [Structure](#structure)
@@ -19,6 +21,8 @@ Also, this sonata was one of my performance pieces. Originally, I didn't particu
 - [Conclusion](#conclusion)
 
 ---
+
+
 
 # Timeline 
 
