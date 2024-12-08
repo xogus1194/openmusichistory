@@ -12,6 +12,12 @@ Also, this sonata was one of my performance pieces. Originally, I didn't particu
 
 ---
 
+
+<img src="prokof.png">
+
+
+---
+
 # Overview
 
 **Prokofiev's Piano Sonata No. 2 in D Minor, Op. 14** composed in 1912, is a work lasting approximately 20 minutes. It consists of four movements, each characterized by contrasts between lyrical elements and energetic rhythms. The first movement, **"Allegro, ma non troppo,"** features lively and bold rhythms, while the second movement, **"Scherzo: Allegro marcato,"** emphasizes sharp, accented rhythms, creating a humorous and witty atmosphere. The third movement, **"Andante,"** is lyrical and introspective, and the fourth movement, **"Vivace,"** concludes the work with fast, energetic passages.
@@ -28,6 +34,8 @@ The Sonata is in four movements:
 2. **Allegro marcato**
 3. **Andante**
 4. **Vivace**
+
+
 
 ---
 
