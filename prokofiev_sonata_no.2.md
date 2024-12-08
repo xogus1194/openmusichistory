@@ -7,13 +7,36 @@
 
 **Sergei Prokofiev (1891-1953)** was a prominent 20th-century Russian composer known for his unique blend of classical forms and modern sensibilities. He excelled in various genres, including symphonies, ballets, operas, and piano works, leaving behind masterpieces such as *The Classical Symphony*, *Romeo and Juliet*, and *Peter and the Wolf*. Renowned for his innovative and experimental style, Prokofiev had a profound influence on both Russian and global music, with his works characterized by powerful rhythms, distinctive harmonies, and evocative melodies.
 
-Prokofiev’s Piano Sonata No. 2, Op. 14 is a work in which he transforms classical form with a modern sensibility, showcasing both musical depth and technical challenges. The sonata reflects the innovative characteristics of early 20th-century music and presents an opportunity for performers to express a wide range of emotions, making it an engaging and meaningful challenge. Moreover, this piece demonstrates the development of Prokofiev's musical language and his pursuit of innovation within the music scene of his time. 
+**Prokofiev’s Piano Sonata No. 2, Op. 14** is a work in which he transforms classical form with a modern sensibility, showcasing both musical depth and technical challenges. The sonata reflects the innovative characteristics of early 20th-century music and presents an opportunity for performers to express a wide range of emotions, making it an engaging and meaningful challenge. Moreover, this piece demonstrates the development of Prokofiev's musical language and his pursuit of innovation within the music scene of his time. 
 Also, this sonata was one of my performance pieces. Originally, I didn't particularly enjoy this genre. However, while studying Sonata No. 2, I feel that my musical perspective has broadened.
 
 ---
 
+- [Timeline](#timeline)
+- [Overview](#overview )
+- [Structure](#structure)
+- [Musical Significance](#musical-significance)
+- [Conclusion](#conclusion)
 
-<img src="prokof.png">
+---
+
+# Timeline 
+
+
+
+| Year      | Event                                   | Description                                                                    | Youtube |
+| --------- | --------------------------------------- | ------------------------------------------------------------------------------ | ------- |
+| 1891      | Birth                                   | Born in Sontsovka, Ukraine.                                                    |
+| 1904      | First Composition                       | Begins studying music at the Saint Petersburg Conservatory.                                     |
+| 1914      | Graduation and Early Works              | Graduates and starts composing seriously.                                      |              |
+| 1917      | Russian Revolution and Move to the West | Moves to the West due to the Russian Revolution, living in Europe and the U.S. | 
+| 1923      | Paris and Early Success                 | Establishes himself in Paris, composing works like The Love for Three Oranges. | [Listen](https://www.youtube.com/watch?v=7Q0toEhKRWk) :tv: |
+| 1936      | Return to the Soviet Union              | Returns to the Soviet Union, facing political restrictions.                    |
+| 1938-1941 | World War II and Increased Recognition  | Composes major works like War Sonatas, Cinderella, and Alexander Nevsky.       | [Listen](https://www.youtube.com/watch?v=h21KSLqj7HA) :tv: |
+| 1948      | Official Denouncement                   | Officially denounced by Soviet authorities for "formalism".                    |                                                  |
+| 1953      | Death                                   | Dies on March 5, the same day as Stalin, overshadowing his death.              |
+                                           
+
 
 
 ---
@@ -23,6 +46,10 @@ Also, this sonata was one of my performance pieces. Originally, I didn't particu
 **Prokofiev's Piano Sonata No. 2 in D Minor, Op. 14** composed in 1912, is a work lasting approximately 20 minutes. It consists of four movements, each characterized by contrasts between lyrical elements and energetic rhythms. The first movement, **"Allegro, ma non troppo,"** features lively and bold rhythms, while the second movement, **"Scherzo: Allegro marcato,"** emphasizes sharp, accented rhythms, creating a humorous and witty atmosphere. The third movement, **"Andante,"** is lyrical and introspective, and the fourth movement, **"Vivace,"** concludes the work with fast, energetic passages.
 
 This sonata represents Prokofiev's reconstruction of classical forms with modern harmonies and rhythms, reflecting the avant-garde musical trends of the time. It is also a highly virtuosic work, requiring the performer to demonstrate technical prowess with its complex rhythms and fast tempos. **Piano Sonata No. 2 Op. 14** is an important piece that showcases Prokofiev's experience with early 20th-century musical innovations and subtle influences from Russian folk music.
+
+---
+
+<img src="prokof.png">
 
 ---
 
