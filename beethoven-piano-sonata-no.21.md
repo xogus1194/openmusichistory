@@ -57,7 +57,8 @@ This piece was directly influenced by Mozart' symphony, especially [Mozart Symph
 | 1815 | Custody Battle               | Following his brother's death, began a legal battle for custody of his nephew, Karl |  
 | 1824 | Symphony No. 9               | Presented Symphony No. 9 *"Choral"*, considered a masterpiece                       | [Listen No.9](https://www.youtube.com/watch?v=acmy-daxIZk) :tv:                                                 |
 | 1827 | Death in Vienna              | Died in Vienna at the age of 56                                                     |
- 
+
+
 
 
 
@@ -69,7 +70,8 @@ This piece was directly influenced by Mozart' symphony, especially [Mozart Symph
 
 
 
-
+ 
+ <img src="서음사 발트슈타인.png">
 
 
 
