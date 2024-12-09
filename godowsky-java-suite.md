@@ -242,13 +242,11 @@ Godowsky gave us further description of the composition:
 
 ## Influences
 
+Godowsky was heavily influenced by Javanese music, especially gamelan, which is characterized by layered textures and voices, complex rhythms, and shimmering sounds. Although he did not transcribe gamelan music literally, his suite catches its spirit through rhythmic intricacy, pentatonic scales, and bell-like sonorities.
 
+Not only influenced by gamelan music, Godowsky also integrated it with the virtuoso piano tradition of Liszt and Chopin and expanded the expressive techniques of the piano. His approach inspired later composers like Olivier Messiaen and Béla Bartók, who similarly took inspiration from non-Western music.
 
-Cultural Encounter: Godowsky was deeply influenced by Javanese gamelan music, characterized by layered textures, intricate rhythms, and shimmering timbres. Though he did not directly transcribe gamelan music, his suite captures its spirit through rhythmic complexity, pentatonic scales, and bell-like sonorities.
-
-East Meets West: By integrating Javanese elements with the virtuoso piano tradition of Liszt and Chopin, Godowsky expanded the expressive possibilities of the piano. His approach anticipated later composers like Olivier Messiaen and Béla Bartók, who similarly drew inspiration from non-Western music.
-
-Broadening Piano Repertoire: The Java Suite contributed to a growing interest in programmatic piano works that depicted exotic locales, influencing later composers to explore non-European musical idioms.
+Lastly, Java Suite contributed to a growing interest in programmatic music works that illustrated exotic scene or tradition, which influenced later composers to explore non-European music.
 
 ## Significance
 
@@ -278,4 +276,17 @@ Last but not least, listeners can do active listening, that is, to listen careul
 
 ## Questions for Review
 
+- What inspired Godowsky to compose Java Suite, and how do these influences shape the suite's overall mood and character?
+- How does Java Suite represent the traditional and musical elements of Java?
+- Can you identify specific examples of musical aspects that introduce Javanese gamelan or other Javanese elements?
+- What aspects of Godowsky’s compositional style are obvious in this suite?
+- Which movement of the Java Suite made you fascinated the most, and why?
+- How do the programmatic aspects of Java Suite (the descriptive titles and narrative aspects) improve your understanding of the music?
+- How does Java Suite compare to other works of its time that explore exotic or non-Western themes?
+- Do you think Java Suite is an accurate representation of Javanese culture, or is it more of an impression filtered through a Western lens?
+
 ## Guides for Further Studies
+
+Tan, H. (2015). _A guide to Leopold Godowsky's Java Suite_. Retrieved from https://core.ac.uk/download/pdf/213831857.pdf
+
+Predota, G. (2018, August 8). _Godowsky: Java Suite_. Interlude. Retrieved from https://interlude.hk/godowsky-java-suite/
