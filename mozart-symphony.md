@@ -6,6 +6,16 @@ Mozart opened new paths in various genres, including symphonies, concertos, oper
 
 <img src="mozart.png">
 
+- [Mozart's Symphony No. 41 in C major, K. 551](mozart's-symphony-no-41-c-major-k-551)
+- [*Description of each movement*](description-of-each-movement)
+- [Movement I: Allegro vivace](movement-i-allegro-vivace)
+- [Movement II: Andante cantabile](movement-ii-andante-cantabile)
+- [Movement III: Menuetto: Allegretto](movement-iii-menuetto-allegretto)
+- [Movement IV: Molto allegro](movement-iv-molto-allegro)
+- [Form and Style](form-and-style)
+- [Historical Significance](historical-significance)
+
+  
 ## Mozart's Symphony No. 41 in C major, K. 551
 Mozart's Symphony No. 41 in C major, K. 551, commonly known as the Jupiter Symphony, was his last symphony and was composed in 1788. 
 The Jupiter Symphony raised classical formal beauty and balance to the highest level. Each movement is elaborately composed, and the melody and harmony are perfectly harmonized, making it an ideal model of a classical symphony. In particular, the fugue finale of the last movement is considered the pinnacle of classical symphonic composition.
