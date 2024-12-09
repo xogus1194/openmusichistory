@@ -29,10 +29,12 @@ Despite his short life, Chopin left an indelible mark on music, influencing coun
 |  Year    | Event                            | Description                                                                 | 
 |----------|----------------------------------|-----------------------------------------------------------------------------|
 | **1810** | Birth                            | Born on March 1, 1810 in Paris, France.                                     |
-| **1834** | composition                      | Completed Andante Spianato and Grande Polonaise Brillante, Op. 22           | 
+| **1834** | Composition                      | Completed Andante Spianato and Grande Polonaise Brillante, Op. 22           | 
 | **1849** | Death                            | Died in Paris, October 17, 1849                                             |
 
+
 ![image](chopin-composing.png)
+
 
 ## Andante Spianato and Grande Polonaise Brillante in E flat major Op. 22
 The Andante Spianato and Grande Polonaise Brillante in E-flat major, Op. 22, is one of Frédéric Chopin's most celebrated works, blending poetic lyricism with dazzling virtuosity. It consists of two sections that were composed at different times and later combined by Chopin for performance.
