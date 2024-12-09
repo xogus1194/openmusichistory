@@ -7,7 +7,7 @@ Ligeti’s *Études pour le piano* are among the most influential and challengin
 ## About Ligeti
 György Ligeti (1923–2006) was a Hungarian-Austrian composer, recognized as one of the most innovative and visionary figures in modern music. His compositions blend avant-garde experimentation with deeply expressive qualities, bridging traditional and contemporary approaches.
 
-<img src="리게티 초상화.png">
+<img src="ligeti.png" width="500" height="500">
 
 - [Timeline](#timeline)
 - [Musical Style](#musical-style)
@@ -112,7 +112,8 @@ Ligeti’s *Études pour le piano* stand as monumental works in the modern piano
 
 > “These études are a crystallization of my inner world — part dream, part reality, and wholly human.” – György Ligeti
 
-<img src="리게티모습.png">
+<img src="ligeti2.png" width="500" height="500">
+
 
 
 
