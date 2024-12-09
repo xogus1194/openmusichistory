@@ -28,7 +28,7 @@ György Ligeti (1923–2006) was a Hungarian-Austrian composer, recognized as on
 
 Ligeti's *Études pour le piano* are renowned for their intellectual depth and technical brilliance.
 
-![리게티 악보 예시](https://github.com/user-attachments/assets/example-ligeti-score.jpg)
+<img src="ligeti-1.png">
 
 ## Musical Style
 Ligeti’s style is characterized by:
@@ -112,7 +112,7 @@ Ligeti’s *Études pour le piano* stand as monumental works in the modern piano
 
 > “These études are a crystallization of my inner world — part dream, part reality, and wholly human.” – György Ligeti
 
-![리게티와 피아노](https://github.com/user-attachments/assets/example-ligeti-piano.jpg)
+<img src="리게티모습.png">
 
 
 
