@@ -6,14 +6,14 @@ Mozart opened new paths in various genres, including symphonies, concertos, oper
 
 <img src="mozart.png">
 
-- [Mozart's Symphony No. 41 in C major, K. 551](mozart's-symphony-no-41-c-major-k-551)
-- [*Description of each movement*](description-of-each-movement)
-- [Movement I: Allegro vivace](movement-i-allegro-vivace)
-- [Movement II: Andante cantabile](movement-ii-andante-cantabile)
-- [Movement III: Menuetto: Allegretto](movement-iii-menuetto-allegretto)
-- [Movement IV: Molto allegro](movement-iv-molto-allegro)
-- [Form and Style](form-and-style)
-- [Historical Significance](historical-significance)
+- [Mozart's Symphony No. 41 in C major, K. 551](#mozart's-symphony-no-41-c-major-k-551)
+- [*Description of each movement*](#description-of-each-movement)
+- [Movement I: Allegro vivace](#movement-i-allegro-vivace)
+- [Movement II: Andante cantabile](#movement-ii-andante-cantabile)
+- [Movement III: Menuetto: Allegretto](#movement-iii-menuetto-allegretto)
+- [Movement IV: Molto allegro](#movement-iv-molto-allegro)
+- [Form and Style](#form-and-style)
+- [Historical Significance](#historical-significance)
 
   
 ## Mozart's Symphony No. 41 in C major, K. 551
