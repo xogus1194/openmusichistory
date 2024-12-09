@@ -278,30 +278,13 @@ Modern Appreciation: Today, the Java Suite is celebrated for its innovative synt
 
 ## Listening Guide
 
-(This section is still only a copy from chatgpt's writing. Will be refined soon)
+In order to listen and understand this suite deeply, here are some things that listeners can do.
 
-1. Appreciate the Context
-Godowsky’s Background: Godowsky was one of the most technically accomplished pianists of his time. His compositions often push the boundaries of what is technically and musically possible on the piano.
-Cultural Inspiration: Written in the 1920s, the Java Suite reflects Godowsky's impressions of Java during a time when exoticism was a significant influence in Western art and music.
-2. Musical Structure
-The Java Suite consists of twelve movements, each depicting different aspects of Javanese culture, landscapes, or traditions. Here’s a breakdown of notable movements:
+Firstly, we need to understand that Leopold Godowsky was one of technically expert pianists of his time, and he often wrote virtuosic pieces and wanted to see every technique that can be done in playing the piano. Inspired by Java Island in Dutch East Indies (now called Indonesia), Godowsky wrote the Java Suite in the 1920s, consisting of twelve movements, with each movement represents the different aspects of Javanese culture, scenery, and traditions.
 
-I. Gamelan: Inspired by the traditional Javanese gamelan ensemble, Godowsky translates the shimmering, layered textures and pentatonic scales into piano idioms.
-II. Wayang-Purwa (The Shadow Play): This movement reflects the ancient Javanese tradition of shadow puppetry. Listen for a storytelling quality in the music, with contrasting moods that suggest the dramatic episodes of a wayang kulit performance.
-V. The Bromo Volcano and the Sand Sea at Daybreak: This movement is highly atmospheric, with delicate textures painting a vivid picture of the volcanic landscape at dawn.
-X. In the Kraton: The Kraton refers to the royal palace. This piece exudes elegance and regality, with an almost ceremonial feel.
-3. Listening for Influences
-Javanese Gamelan: Listen for intricate rhythms, overlapping melodic lines, and the use of pentatonic scales reminiscent of gamelan music.
-Western Romanticism: Godowsky’s piano writing also reflects the lush harmonies and virtuosic flourishes typical of late Romantic composers like Liszt or Rachmaninoff.
-Tone Painting: Each piece evokes vivid imagery, so try to imagine the scenes or cultural practices Godowsky describes through his music.
-4. Technical and Emotional Challenges
-Godowsky’s Java Suite is known for its technical difficulty. Pianists face challenges such as complex textures, rapid passages, and nuanced pedaling to capture the layered soundscape of the gamelan.
-Emotionally, the suite requires sensitivity to both the exotic influences and the Western romanticism that underpins the music.
-5. Suggested Approach
-Active Listening: Pay attention to the interplay between melody and accompaniment, and how Godowsky mimics the sonorities of Javanese instruments.
-Multiple Listenings: Each movement is rich in detail. Repeated listening can reveal new layers and subtleties.
-Compare and Contrast: If possible, listen to traditional Javanese gamelan music to better appreciate Godowsky’s interpretation.
-The Java Suite is a testament to Godowsky’s ability to synthesize diverse cultural elements into a unique musical language, making it both a technical tour de force and a deeply atmospheric work.
+Secondly, after knowing the title of a certain movement, listeners can do a little bit of research (or read previous sections of this text) to understand what that movement is about. Then, listeners can listen to the music while considering two things that Godowsky applied in the entire suite: Gamelan and Tone Painting. Gamelan music is characterized by complex rhythms, overlapping melodic lines, and pentatonic scales. Tone Painting means that the music really reflects what the composer wants to tell us, and listeners can imagine the scenery or cultural traditions in each movement while listening to the music.
+
+Last but not least, listeners can do active listening, that is, to listen careully to the interaction between melody and accompaniment, to the sonorities of gamelan, to layers and contrapuntal elements, and other things. Listening to traditional Javanese gamelan music is also highly encouraged to appreciate Godowsky's interpretation better.
 
 ## Questions for Review
 
