@@ -285,6 +285,6 @@ Last but not least, listeners can do active listening, that is, to listen careul
 
 ## Guides for Further Studies
 
-Tan, H. (2015). _A guide to Leopold Godowsky's Java Suite_. Retrieved from https://core.ac.uk/download/pdf/213831857.pdf
+Arakawa, J. (2013). A guide to Leopold Godowsky's Java suite.
 
 Predota, G. (2018, August 8). _Godowsky: Java Suite_. Interlude. Retrieved from https://interlude.hk/godowsky-java-suite/
