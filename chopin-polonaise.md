@@ -18,6 +18,7 @@ Despite his short life, Chopin left an indelible mark on music, influencing coun
 ## Andante Spianato and Grande Polonaise Brillante in E flat major Op. 22
 The Andante Spianato and Grande Polonaise Brillante in E-flat major, Op. 22, is one of Frédéric Chopin's most celebrated works, blending poetic lyricism with dazzling virtuosity. It consists of two sections that were composed at different times and later combined by Chopin for performance.
 
+![image](chopin-polonaise.png)
 ### Overview of the Work
 1. Andante Spianato
 - The term "spianato" means "smooth" or "even," reflecting the serene, flowing quality of this piece.
