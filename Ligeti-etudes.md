@@ -13,7 +13,11 @@ György Ligeti (1923–2006) was a Hungarian-Austrian composer, recognized as on
 - [Musical Style](#musical-style)
 - [Key Features of Études](#key-features-of-études)
 - [Detailed Analysis of Select Études](#detailed-analysis-of-all-études)
+- [Questions for Review](questions-for-Review)
+- [Guides for Further Studies](guides-for-further-studies)
 
+
+  
 ## Timeline
 
 | Year  | Event                                   | Description                                                   | Youtube |
@@ -22,7 +26,7 @@ György Ligeti (1923–2006) was a Hungarian-Austrian composer, recognized as on
 | 1945  | Early Music Studies                    | Studied composition in Budapest during WWII                   |         |
 | 1956  | Emigration                             | Fled to Austria following the Hungarian Uprising              |         |
 | 1960s | Avant-garde Recognition                | Rose to prominence with *Atmosphères* and *Lux Aeterna*       |         |
-| 1985  | Études pour le piano (Books 1 & 2)     | Published the first two books of his groundbreaking études    | [Listen](https://youtu.be/IkTFLF6F5Vc) |
+| 1985  | Études pour le piano (Books 1 & 2)     | Published the first two books of his groundbreaking études    | [Listen](https://youtu.be/XHhZ2TzHlow?si=a7cXXsXy0V7_3cJp) |
 | 1994  | Études pour le piano (Book 3)          | Completed the third and final book of études                  |         |
 | 2006  | Death                                  | Passed away on June 12, in Vienna, Austria                    |         |
 
@@ -113,6 +117,10 @@ Ligeti’s *Études pour le piano* stand as monumental works in the modern piano
 > “These études are a crystallization of my inner world — part dream, part reality, and wholly human.” – György Ligeti
 
 <img src="ligeti2.png" width="500" height="500">
+
+## Questions for Review
+
+## Guides for Further Studies
 
 
 
