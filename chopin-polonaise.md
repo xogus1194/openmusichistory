@@ -1,5 +1,5 @@
 # Fryderyk Chopin
-
+![image](chopin.png)
 
 Frédéric Chopin (1810–1849) was a Polish composer and virtuoso pianist of the Romantic era, widely regarded as one of the greatest composers for the piano. He was born in Żelazowa Wola, near Warsaw, Poland, and showed prodigious musical talent from a young age.
 ### Musical Style
@@ -15,10 +15,18 @@ In Paris, he primarily performed in intimate salon settings rather than large co
 Chopin suffered from poor health throughout his life, likely due to tuberculosis, which led to his early death at the age of 39.
 Despite his short life, Chopin left an indelible mark on music, influencing countless composers and earning a place as one of history's most beloved pianists and composers.
 
+|  Year    | Event                            | Description                                                                 | 
+|----------|----------------------------------|-----------------------------------------------------------------------------|
+| **1810** | Birth                            | Born on March 1, 1810 in Paris, France.                                     |
+| **1834** | composition                      | Completed Andante Spianato and Grande Polonaise Brillante, Op. 22           | 
+| **1849** | Death                            | Died in Paris, October 17, 1849                                             |
+
+
 ## Andante Spianato and Grande Polonaise Brillante in E flat major Op. 22
 The Andante Spianato and Grande Polonaise Brillante in E-flat major, Op. 22, is one of Frédéric Chopin's most celebrated works, blending poetic lyricism with dazzling virtuosity. It consists of two sections that were composed at different times and later combined by Chopin for performance.
 
 ![image](chopin-polonaise.png)
+
 ### Overview of the Work
 1. Andante Spianato
 - The term "spianato" means "smooth" or "even," reflecting the serene, flowing quality of this piece.
