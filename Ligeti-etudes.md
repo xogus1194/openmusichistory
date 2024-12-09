@@ -13,6 +13,7 @@ György Ligeti (1923–2006) was a Hungarian-Austrian composer, recognized as on
 - [Musical Style](#musical-style)
 - [Key Features of Études](#key-features-of-études)
 - [Detailed Analysis of Select Études](#detailed-analysis-of-all-études)
+- [The Impact of Ligeti’s Études](the-impact-of-ligetis-études)
 - [Questions for Review](questions-for-Review)
 - [Guides for Further Studies](guides-for-further-studies)
 
