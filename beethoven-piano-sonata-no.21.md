@@ -1,6 +1,6 @@
-# L.v. Beethoven
+# Ludwig van Beethoven (1770-1827)
 ## Piano Sonata No. 21 in C major, Op. 53, "Waldstein"
-## Ludwig van Beethoven (1770-1827)
+
 
 <img src="beethoven.png">
 
