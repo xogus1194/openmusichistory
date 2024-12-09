@@ -33,7 +33,7 @@ György Ligeti (1923–2006) was a Hungarian-Austrian composer, recognized as on
 
 Ligeti's *Études pour le piano* are renowned for their intellectual depth and technical brilliance.
 
-<img src="ligeti-1.png">
+<img src="ligeti-1.png" width="700" height="700">
 
 ## Musical Style
 Ligeti’s style is characterized by:
