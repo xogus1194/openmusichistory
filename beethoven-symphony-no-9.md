@@ -11,8 +11,8 @@
    - [3rd mov.](#3rd-movement)
    - [4th mov.](#4th-movement)
  - [Conclude](#concluding-the-textbook-of-beethovens-symphony-no9)
- - [Questions for Review](#questions-for-review)
  - [Guides for Further Studies](#guides-for-further-studies)
+ - [Questions for Review](#questions-for-review)
 
 ---
 
@@ -188,12 +188,14 @@ There is no doubt that this piece is a masterpiece. Beethoven's final symphony, 
  - [Piano Concerto no.5](beethoven-piano-concerto-5.md)
  - [Piano Sonata no.21](beethoven-piano-sonata-no.21.md)
  - [Piano sonata no.26](beethoven-sonata-26.md)
-   
-
-
-
-## Questions for Review
 
 
 ## Guides for Further Studies
+
+There are countless videos of performances by numerous conductors and orchestras, but if asked to choose the most outstanding performance, many people would choose this one. It seems to be the performance that comes closest to the music Beethoven intended to express. Listening to this recording while reading the text above will help with the overall musical interpretation.   
+
+[Beethoven Symphony no.9](https://www.youtube.com/watch?v=O3MVY6UiMag)
+
+
+## Questions for Review
 
