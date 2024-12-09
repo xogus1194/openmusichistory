@@ -1,7 +1,5 @@
-# A. Mozart
-# Symphony No. 41 "Jupiter"
+# Wolfgang Amadeus Mozart (1756–1791)
 
-## Wolfgang Amadeus Mozart (1756–1791)
 Wolfgang Amadeus Mozart is one of the most important and influential composers in Western classical music history. 
 His significance extends across various aspects of music, including innovation, technical mastery, emotional depth, and his lasting influence on future composers and musical traditions. 
 Mozart opened new paths in various genres, including symphonies, concertos, operas, religious music, and chamber music. In particular, in opera, he brilliantly expressed psychological depth and human nature, setting a new standard for opera composition. Representative works include The Marriage of Figaro, Don Giovanni, and The Magic Flute.
