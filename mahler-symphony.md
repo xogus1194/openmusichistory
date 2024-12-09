@@ -11,8 +11,8 @@
    - [3rd mov.](#3rd-mov-feierlich-und-gemessen-ohne-zu-schleppen)
    - [4th mov.](#4th-mov-stürmisch-bewegt)
  - [Conclude](#concluding-the-textbook-of-gustav-mahlers-symphony-no1)
- - [Questions for Review](#questions-for-review)
  - [Guides for Further Studies](#guides-for-further-studies)
+ - [Questions for Review](#questions-for-review)
 
 
 ## Gustav Mahler
@@ -105,6 +105,10 @@ To conclude this textbook, I will present an AI-generated illustration imagining
 ![Alt text](https://github.com/user-attachments/assets/0d762611-b125-40ba-a80e-223a8f0e81ab)
 
 
-## Questions for Review
-
 ## Guides for Further Studies
+
+Many people say that Mahler's Symphony No. 1 is the best piece to start with when getting into Mahler's music. In this text, I have written with the intention of introducing the overall mood of the piece, particularly for those who are listening to it for the first time. I will also introduce a performance video that would be great to listen to while reading this text.   
+
+[Mahler symphony no.1](https://youtu.be/4XbHLFkg_Mw?si=esPJvWvMbcrZ9yum)
+
+## Questions for Review
