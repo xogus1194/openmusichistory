@@ -1,6 +1,6 @@
-# S.Prokofiev
-##  Piano Sonata No.2 in d minor, Op.14
-### Sergei Prokofiev (1891-1953)
+# Sergei Prokofiev (1891-1953)
+## Piano Sonata No.2 in d minor, Op.14
+
 
 <img src="prokofimage.png">
 
@@ -48,16 +48,17 @@ Also, this sonata was one of my performance pieces. Originally, I didn't particu
 
 
 ---
+<img src="prokof.png">
 
+---
 # Overview
 
 **Prokofiev's Piano Sonata No. 2 in D Minor, Op. 14** composed in 1912, is a work lasting approximately 20 minutes. It consists of four movements, each characterized by contrasts between lyrical elements and energetic rhythms. The first movement, **"Allegro, ma non troppo,"** features lively and bold rhythms, while the second movement, **"Scherzo: Allegro marcato,"** emphasizes sharp, accented rhythms, creating a humorous and witty atmosphere. The third movement, **"Andante,"** is lyrical and introspective, and the fourth movement, **"Vivace,"** concludes the work with fast, energetic passages.
 
 This sonata represents Prokofiev's reconstruction of classical forms with modern harmonies and rhythms, reflecting the avant-garde musical trends of the time. It is also a highly virtuosic work, requiring the performer to demonstrate technical prowess with its complex rhythms and fast tempos. **Piano Sonata No. 2 Op. 14** is an important piece that showcases Prokofiev's experience with early 20th-century musical innovations and subtle influences from Russian folk music.
 
----
 
-<img src="prokof.png">
+
 
 ---
 
