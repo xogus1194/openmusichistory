@@ -112,3 +112,16 @@ Many people say that Mahler's Symphony No. 1 is the best piece to start with whe
 [Mahler symphony no.1](https://youtu.be/4XbHLFkg_Mw?si=esPJvWvMbcrZ9yum)
 
 ## Questions for Review
+
+### Where does the nickname 'Titan' come from?
+
+Mahler's Symphony No. 1 is known by the nickname 'Titan'. This name actually comes from the fact that Mahler originally intended to release the piece under the title 'Titan.' 'Titan' is derived from a novel by the composer 'Hartmann', which depicts a giant or heroic figure. Although Mahler later chose not to use this title officially, the nickname 'Titan' has remained as a symbolic representation of the symphony."
+
+### What are the main themes of Symphony No. 1?
+
+***The conflict between nature and humanity***: Through Symphony No. 1, Mahler explores the relationship between nature and humanity, and this work lays an important foundation for expressing the struggles and triumphs of human existence, much like his later symphonies.
+
+***Life and death***: The theme of life and death, which runs throughout the symphony, is an important subject that appears in many of Mahler's works.
+
+***Folk elements and Romanticism***: In the second and third movements, Mahler uses folk music elements to emphasize emotional depth, while overall, he masterfully blends Romanticism and modern musical techniques.
+
