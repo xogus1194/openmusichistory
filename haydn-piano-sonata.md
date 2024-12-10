@@ -6,7 +6,6 @@
 
 - [Haydn's life and career](#haydns-life-and-career)
 - [Form: Sonata-Allegro Form](#form-sonata-allegro-form)
-
    -[Exposition](#exposition)
    -[Development](#development)
    -[Recapitulation](#recapitulation)
@@ -106,3 +105,5 @@ Gould plays with clear, almost detached articulation that emphasizes clarity ove
 
 ## Questions-for Review
 ## Guide for further studies
+Compare with sonatas by Haydn and Beethoven for stylistic differences. 
+[Compare with sonatas](https://data.carnegiehall.org/datalab/experiments/chdl-0003/)
