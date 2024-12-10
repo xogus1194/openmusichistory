@@ -108,8 +108,13 @@ The sonata demands high technical skill from the performer, but this virtuosity 
 
 
 ---
+## Influences
+
+## Significance
+
+## Performance and Reception
 
 ## Questions for Review
 
 ## Guides for Further Studies
- 
+
