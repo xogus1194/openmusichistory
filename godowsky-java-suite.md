@@ -163,7 +163,7 @@ The ambience of Borobudur under the serene glow of moonlight is transcribed into
 ### VI. The Bromo Volcano and the Sand Sea at Daybreak
 ![image](https://github.com/user-attachments/assets/b62c2514-a13f-4c62-8476-b7428fa766fe)
 
-(Shifting from the temple at moonlight to the mountain at dawn..) Mount Bromo is an active volcano located in East Java, reaching 2.329 meters high, and surrounded by a large sea of sand. The sunrise at this mountain never fails anyone to leave in wonder, including Godowsky, which stated:
+Mount Bromo is an active volcano located in East Java, reaching 2.329 meters high, and surrounded by a large sea of sand. The sunrise at this mountain never fails anyone to leave in wonder, including Godowsky, which stated:
 
 > A marvelous sunrise enhanced the terrifying hugeness and transcendental grandeur of this awe-inspiring panorama. The boiling, roaring, rumbling subterranean forces, seething and spouting up from abysmal depths, the sulphurous vapors and dense clouds, spreading steadily and menacingly over the horizon, suggested scenes from Dante’s Inferno, and brought to realization the fact that cataclysmic activities, everlasting fires in the bowels of the earth, threaten all that is alive.
 
