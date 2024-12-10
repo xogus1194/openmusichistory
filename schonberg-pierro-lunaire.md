@@ -1,10 +1,7 @@
 # Arnold Franz Walter Schönberg
 ## _Pierro Lunaire_'s Explanation
 
-1. Composer : Arnold Schoenberg (1874.09.13. - 1951.07.13.)
-2. Year of Composition: 1912
-3. Structure : Song cycle based on 21 poems
-4. Original Poem : Albert Giraud
+ Arnold Schoenberg (1874.09.13 – 1951.07.13) composed this song in 1912, based on 21 poems by Albert Giraud.
 
 ---
 
@@ -64,7 +61,7 @@ Similar to recitative but distinct, Sprechstimme is a unique technique that lies
 Comments: Explain what he wanted to express for each instrument.
 
 <div align="center">
-<img src="Pierrot Score.png" width="500px">
+<img src="pierro_newscore.png" width="1000px">
 </div>
 
 ---
