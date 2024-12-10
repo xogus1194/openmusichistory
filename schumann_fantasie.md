@@ -51,13 +51,13 @@ Schumann’s Fantasy in C Major, Op.17 is one of his most celebrated works for s
 
 ### Structure and Features
 
-#### *First Movement: Durchaus phantastisch und leidenschaftlich vorzutragen*
+#### First Movement: Durchaus phantastisch und leidenschaftlich vorzutragen
 This expansive and improvisatory movement encapsulates Schumann’s emotional intensity and vivid imagination. It oscillates between moments of fiery passion and tender introspection. The inclusion of a quote from Beethoven’s An die ferne Geliebte reinforces the theme of distant love and longing, further underscoring the work’s deeply personal nature.
 
-#### *Second Movement: Mäßig. Durchaus energisch*
+#### Second Movement: Mäßig. Durchaus energisch
 A stark contrast to the first, this movement is structured and energetic, with a march-like rhythm and robust character. It exudes determination and strength, showcasing Schumann’s command of intricate textures and rhythmic vitality.
 
-#### *Third Movement: Langsam getragen. Durchweg leise zu halten*
+#### Third Movement: Langsam getragen. Durchweg leise zu halten
 The final movement serves as a lyrical and contemplative conclusion to the work. Marked by its serene beauty and introspective mood, it evokes a sense of quiet resolution. Schumann’s ability to weave delicate, singing melodies into complex harmonic landscapes is masterfully displayed here, bringing the Fantasy to a profoundly moving close.
 
 ### Legacy
