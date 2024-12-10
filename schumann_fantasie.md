@@ -9,12 +9,12 @@
 ---
 
 - [Timeline](#timeline)
-- [Fantasie Op. 17](#fantasie_op_17)
+- [Fantasie Op. 17](#fantasie-op-17)
   - [Background](#background)
-  - [Structure and Features](#structure_and_features)
-    - [First Movement: Durchaus phantastisch und leidenschaftlich vorzutragen](#first_movement_durchaus_phantastisch_und_leidenschaftlich_vorzutragen)
-    - [Second Movement: Mäßig. Durchaus energisch](#second_movement_mäßig_durchaus_energisch)
-    - [Third Movement: Langsam getragen. Durchweg leise zu halten](#third_movement_langsam_getragen_durchweg_leise_zu_halten)
+  - [Structure and Features](#structure-and-features)
+    - [First Movement: Durchaus phantastisch und leidenschaftlich vorzutragen](#first-movement-durchaus-phantastisch-und-leidenschaftlich-vorzutragen)
+    - [Second Movement: Mäßig. Durchaus energisch](#second-movement-mäßig-durchaus-energisch)
+    - [Third Movement: Langsam getragen. Durchweg leise zu halten](#third-movement-langsam-getragen-durchweg-leise-zu-halten)
   - [Legacy](#legacy)
 - [Questions for Review](#questions-for-review)
 - [Guides for Further Studies](#guides-for-further-studies)
