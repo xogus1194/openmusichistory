@@ -10,7 +10,7 @@
   - [Opera Doctor Atomic](#opera-doctor-atomic)
   - [Act I, Scene 3 "Batter my heart"](#act-i-scene-3-batter-my-heart)
   - [Listening Guide](#listening-guide)
-- [Questions for Review](#questions-for-guide)
+- [Questions for Review](#questions-for-review)
 - [Guide for Further Studies](#guide-for-further-studies)
   
 ---
@@ -85,6 +85,6 @@ In the opera, the aria occurs at a climactic moment, reflecting Oppenheimer's in
  
  [Doctor Atomic-Act I, Scene 3 "Batter my heart"](https://www.youtube.com/watch?v=AlUHKHLk_VU)
   
-## Questions-for Guide
+## Questions-for Review
 
 ## Guide for further studies
