@@ -148,6 +148,13 @@ The "Waldstein" Sonata is a stunning demonstration of Beethoven’s genius, mark
 
 ---
 
+
+## Influences
+
+## Significance
+
+## Performance and Reception
+
 ## Questions for Review
 
 ## Guides for Further Studies
