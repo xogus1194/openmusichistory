@@ -22,23 +22,21 @@ A picture of Beethoven "breaking" the rules of classical era music and innovatin
 - [Questions for Review](#questions-for-review)
 - [Guides for Further Studies](#guides-for-further-studies)
 
-[The sentences seem too long. It might be better to condense it to just introduce his major works.]
-
 ## Timeline
 
-| Year | Event                            | Description                                                                 |
-|------|----------------------------------|-----------------------------------------------------------------------------|
+| Year | Event                            | Description                                                                 | YouTube |
+|------|----------------------------------|-----------------------------------------------------------------------------|-----------|
 | **1770** | Birth                           | Born on December 17, 1770, in Bonn, Germany.                                |
-| **1782** | First Composition               | Composed his first composition, the Nine Variations on a march, WoO 63      |
+| **1782** | First Composition               | Composed his first composition, the Nine Variations on a march, WoO 63      | [Listen](https://www.youtube.com/watch?v=_1ZGPKKuBxM&pp=ygUQYmVldGhvdmVuIHdvbyA2Mw%3D%3D) :tv: |
 | **1787** | Study with Mozart                | Briefly studies with Mozart in Vienna to expand his musical knowledge.      |
 | **1792** | Moves to Vienna                  | Moves to Vienna to study with Haydn and begins his career as a composer.     |
 | **1795** | First Public Performance         | First public performance in Vienna, marking his professional debut.          |
 | **1798** | Hearing Loss                     | Begins to lose his hearing, a challenge that would shape his later works.    |
-| **1803** | *Symphony No. 3* (Eroica)         | Completes *Symphony No. 3*, *Eroica*, marking a new direction in his style.  |
-| **1808** | Premieres *Symphony No. 5*        | Premieres *Symphony No. 5* and *Symphony No. 6* in Vienna.                   |
-| **1809** | Composes *Piano Concerto No. 5*   | Composes *Piano Concerto No. 5* (Emperor Concerto), a monumental piano work. |
-| **1814** | *Fidelio* Premiered               | Premieres *Fidelio*, his only opera, after several revisions.                |
-| **1824** | Premieres *Symphony No. 9*        | Premieres *Symphony No. 9*, famous for the *Ode to Joy*.                     |
+| **1803** | *Symphony No. 3* (Eroica)         | Completes *Symphony No. 3*, *Eroica*, marking a new direction in his style.  | [Listen](https://www.youtube.com/watch?v=dTbesxdLwo8) :tv: |
+| **1808** | Premieres *Symphony No. 5*        | Premieres *Symphony No. 5* in Vienna.                   | [Listen](https://www.youtube.com/watch?v=yKl4T5BnhOA&t=888s) :tv: |
+| **1809** | Composes *Piano Concerto No. 5*   | Composes *Piano Concerto No. 5* (Emperor Concerto), a monumental piano work. | [Listen](https://www.youtube.com/watch?v=hDXWK3W477w&pp=ygUaYmVldGhvdmVuIHBpYW5vIGNvbmNlcnRvIDU%3D) :tv: |
+| **1814** | *Fidelio* Premiered               | Premieres the final version of *Fidelio*, his only opera, after several revisions.                | [Listen](https://www.youtube.com/watch?v=1FtNv37Dxwo) :tv: |
+| **1824** | Premieres *Symphony No. 9*        | Premieres *Symphony No. 9*, famous for the *Ode to Joy*.                     | [Listen](https://www.youtube.com/watch?v=ixpfgm_xxSE&pp=ygUUYmVldGhvdmVuIHN5bXBob255IDk%3D) :tv: |
 | **1827** | Death                            | Passes away on March 26, 1827, in Vienna. Over 10,000 people attend his funeral. |
 
 ## Piano Concerto No. 5, Op. 73
