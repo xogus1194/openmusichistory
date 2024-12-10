@@ -52,11 +52,11 @@ countries. Between 1921 and 1925, Godowsky went to Central and South American co
 | **1884**   | U.S. Debut                              | Giving his first concert in the United States
 | **1890**   | Moves to U.S.                           | Moves to the United States, becoming a sought-after pianist and educator in New York College of Music. |
 | **1900**   | Acclaimed in Europe                     | Gains international fame, performing in prestigious venues and collaborating with major musicians.   |
-| **1910**   | Completes *Studies on Chopin Études*    | Publishes 53 virtuosic re-imaginings of Chopin’s Études, showcasing his contrapuntal and technical innovations. | [Listen](https://www.youtube.com/watch?v=ka2lrfp5C-g&t=277s) |
-| **1920**   | *Triakontameron* Published              | Releases *Triakontameron*, a set of 30 character pieces, blending poetry and music.                  | [Listen](https://www.youtube.com/watch?v=6rxnvT_WiS4) | 
+| **1910**   | Completes *Studies on Chopin Études*    | Publishes 53 virtuosic re-imaginings of Chopin’s Études, showcasing his contrapuntal and technical innovations. | [Listen](https://www.youtube.com/watch?v=ka2lrfp5C-g&t=277s) :tv: |
+| **1920**   | *Triakontameron* Published              | Releases *Triakontameron*, a set of 30 character pieces, blending poetry and music.                  | [Listen](https://www.youtube.com/watch?v=6rxnvT_WiS4) :tv: | 
 | **1922**   | Tours Asia                              | Godowsky’s travels introduce him to Eastern cultures, laying the groundwork for his later works.    |
 | **1923**   | Travels to Java                         | Visits the Dutch East Indies (modern Indonesia) during his Southeast Asia tour for 4 weeks, captivated by Javanese culture. |
-| **1924-1925** | Composes *Java Suite*                 | Inspired by his experiences in Java, he writes the suite, blending gamelan elements and European pianism. | [Listen](https://www.youtube.com/watch?v=43QwWJdH4o4) |
+| **1924-1925** | Composes *Java Suite*                 | Inspired by his experiences in Java, he writes the suite, blending gamelan elements and European pianism. | [Listen](https://www.youtube.com/watch?v=43QwWJdH4o4) :tv: |
 | **1925**   | Completes *Java Suite*                  | Publishes the *Java Suite*, comprising 12 tone-pictures that reflect the landscapes, myths, and traditions of Java. |
 | **1928**   | Final Major Tour                        | Undertakes one of his last concert tours before health issues begin to limit his activities.         |
 | **1930**   | Stroke and Retirement                   | Suffers a debilitating stroke, which paralyzes his right hand and curtails his performance career.   |
