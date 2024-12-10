@@ -3,7 +3,7 @@
 
 ## Table of concents
 
- - [About Gustav Mahler](#gustav-mahler)
+ - [About Gustav Mahler](#about-gustav-mahler)
  - [Timeline](#timeline)
  - [Symphony no.1](#symphony-no1-d-major-titan)
    - [1st mov.](#1st-mov-langsam-schleppend)
@@ -15,7 +15,7 @@
  - [Questions for Review](#questions-for-review)
 
 
-## Gustav Mahler
+## About Gustav Mahler
 
 Gustav Mahler, an Austrian composer and conductor, emerged as a leading figure of the Late Romantic period. Although his family was poor, Mahler showed exceptional musical talent from a young age, and at 13, he began studying piano and composition at the Vienna Conservatory. Before he gained recognition as a composer, Mahler became well-known as an opera conductor, leading several opera houses and gaining fame for his work. However, composing was always his true passion. Even during summer vacations, he would devote himself to completing his symphonies.   
 
