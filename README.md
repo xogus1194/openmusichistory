@@ -50,7 +50,7 @@ As we explore these compositions, we invite readers to experience the varied sou
 [Yunseungju](https://github.com/Yunseungju)  
 > 4th-year piano major at Hanyang University.
 
-### Your name?  
+### Minna Kim 
 [Middaa](https://github.com/Middaa)  
 > 3rd-year student at Hanyang University, Department of Piano.
 
