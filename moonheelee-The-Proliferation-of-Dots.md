@@ -1,10 +1,7 @@
 # Moonhee Lee
 ## The Proliferation of Dots's Explanation
 
-1. Composer : Moonhee Lee
-2. Title : The Proliferation of Dots
-3. Year of Composition : 2024
-4. Structure : This piece was composed after reading point and line to pane, a book by Wassily Kandinsky, a Russian painter and art theorist.
+The Proliferation of Dots,” composed in 2024 by Moonhee Lee, was inspired by Wassily Kandinsky’s book Point and Line to Plane, which explores the Russian painter and art theorist’s ideas on art and abstraction.
 
 ---
 
@@ -15,10 +12,11 @@
 
 ---
 
-## Timeline
 <div align="center">
 <img src="moonhee-lee.jpg" width="250px">
 </div>
+
+## Timeline
 
 | Year | Event      | Description                                                                | Youtube                                                  |
 | ---- | ---------- | -------------------------------------------------------------------------- | ---------------------------------------------------------|
@@ -39,7 +37,7 @@ Moonhee Lee is currently professor at Hanyang University
 ---
 
 <div align="center">
-<img src="Dots_Score.png" width="500px">
+<img src="Dots_Score.png" width="800px">
 </div>
 
 ---
