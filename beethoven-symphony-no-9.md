@@ -40,17 +40,17 @@ In his later years, his health deteriorated along with his hearing, leading to a
 
 ## Timeline of Beethoven
 
-| Year | Event             | Description                                                    | 
-| ---- | ----------------- | -------------------------------------------------------------- |
-| 1770 | Birth             | Born in Bonn, Germany on December 17                           |
-| 1778 | First Concert     | His first concert at the age of seven                          |
-| 1782 | First Composition | Composed piano variation for the first time                    |
-| 1787 | Meet Mozart       | First visit to Vienna, meet Mozart and learn for a short time  |
-| 1792 | Move to Vienna    | Moved to Vienna and learned composition from Haydn and Salieri |
-| 1800 | First Symphony    | Composed ***Symphony no.1***                                   |
-| 1824 | Masterpiece       | Composed and first concertt ***Symphony no.9***                |
-| 1827 | Death             | Died of cirrhosis in Vienna on March 26                        |
-
+| Year | Event             | Description                                                    |     :tv:     |
+| ---- | ----------------- | -------------------------------------------------------------- | ------------ |
+| 1770 | Birth             | Born in Bonn, Germany on December 17                           |              |
+| 1778 | First Concert     | His first concert at the age of seven                          |              |
+| 1782 | First Composition | Composed piano variation for the first time                    |              |
+| 1787 | Meet Mozart       | First visit to Vienna, meet Mozart and learn for a short time  |              |
+| 1792 | Move to Vienna    | Moved to Vienna and learned composition from Haydn and Salieri |              |
+| 1800 | First Symphony    | Composed ***Symphony no.1***                                   | [symphony no.1](https://youtu.be/A6h4Gi2_LA4?si=kI-5AxOCFMpN-6la) |
+| 1824 | Masterpiece       | Composed and first concertt ***Symphony no.9***                | [Beethoven Symphony no.9](https://www.youtube.com/watch?v=O3MVY6UiMag) |
+| 1827 | Death             | Died of cirrhosis in Vienna on March 26                        |              |
+  
 ---
 
 # Beethoven Symphony no.9 in D minor, Op. 125
