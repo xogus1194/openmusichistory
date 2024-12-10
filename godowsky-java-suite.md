@@ -110,27 +110,27 @@ Hari Besar, or The Great Day, is when the people are celebrating holiday by crea
 
 In this movement, Godowsky took inspirations from Seelig's Javanese Rhapsody for orchestra for the opening theme and two authentic Javanese tunes: Krawita and Kanjut, as main themes.
 
-![Theme of Javanese Rhapsody for Orchestra-1](https://github.com/user-attachments/assets/2fc95e8f-37d7-471e-b38f-11852f8b7782)
+![Theme of Javanese Rhapsody for Orchestra-1](https://github.com/user-attachments/assets/c9b91b73-fc30-41cf-9f2c-938b0cf27a07)
 
 Seelig: Javanese Rhapsody
 
-![Hari Besar 1-1](https://github.com/user-attachments/assets/e6056e1c-e8e8-440c-ad4d-bb7d9304bf47)
+![Hari Besar 1-1](https://github.com/user-attachments/assets/5f1ae06b-716f-43a0-ac84-ae2abb543d1f)
 
 Use of Javanese Rhapsody in Hari Besar, m. 14
 
-![krawita](https://github.com/user-attachments/assets/9480d584-97f1-450c-b46d-1500bba52dbd)
+![krawita](https://github.com/user-attachments/assets/f21e0109-9564-40fc-b5c1-55646b535669)
 
 Krawita
 
-![hari besar krawita-1](https://github.com/user-attachments/assets/4277198f-aaee-413c-82fe-39dbce440d82)
+![hari besar krawita-1](https://github.com/user-attachments/assets/24146460-7790-44e0-9a60-6ba75b9d1ebe)
 
 Use of Krawita in Hari Besar, m. 15-16
 
-![kanjut](https://github.com/user-attachments/assets/67aaecc4-bbd4-4277-9d4c-a429a6d7a5bf)
+![kanjut](https://github.com/user-attachments/assets/7f9db9bb-1808-4396-a467-b9edc9492edd)
 
 Kanjut
 
-![hari besar kanjut](https://github.com/user-attachments/assets/c19e1295-5963-4b57-986a-86791a7be48c)
+![hari besar kanjut](https://github.com/user-attachments/assets/e42fc285-c507-4bb4-8260-fbac25f065b6)
 
 Use of Kanjut in Hari Besar, m. 20-21
 
