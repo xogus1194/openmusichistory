@@ -47,8 +47,8 @@ In his later years, his health deteriorated along with his hearing, leading to a
 | 1782 | First Composition | Composed piano variation for the first time                    |              |
 | 1787 | Meet Mozart       | First visit to Vienna, meet Mozart and learn for a short time  |              |
 | 1792 | Move to Vienna    | Moved to Vienna and learned composition from Haydn and Salieri |              |
-| 1800 | First Symphony    | Composed ***Symphony no.1***                                   | [symphony no.1](https://youtu.be/A6h4Gi2_LA4?si=kI-5AxOCFMpN-6la) |
-| 1824 | Masterpiece       | Composed and first concertt ***Symphony no.9***                | [Beethoven Symphony no.9](https://www.youtube.com/watch?v=O3MVY6UiMag) |
+| 1800 | First Symphony    | Composed ***Symphony no.1***                                   | [Symphony no.1](https://youtu.be/A6h4Gi2_LA4?si=kI-5AxOCFMpN-6la) |
+| 1824 | Masterpiece       | Composed and first concertt ***Symphony no.9***                | [Symphony no.9](https://www.youtube.com/watch?v=O3MVY6UiMag) |
 | 1827 | Death             | Died of cirrhosis in Vienna on March 26                        |              |
   
 ---
