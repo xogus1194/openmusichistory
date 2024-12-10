@@ -133,6 +133,7 @@ As we explore these compositions, we invite readers to experience the varied sou
 
 ### Frédéric Chopin
 - [Piano Sonata No. 2 in B-flat minor, Op. 35](chopin-piano-sonata.md) by [Yunseungju](https://github.com/Yunseungju)
+- [Andante Spianato and Grande Polonaise Brillante in E flat major Op. 22](chopin-polonaise.md) by [hobin2788](https://github.com/hobin2788)
 
 ### Leopold Godowsky
 - [*Java Suite*](godowsky-java-suite.md) by [piopio1248](https://github.com/piopio1248)
