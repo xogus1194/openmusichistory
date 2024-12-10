@@ -13,7 +13,7 @@
    -[Coda](#coda)
 - [Tips for practicing](#tips-for-practicing)
 - [Listening Guide](#listening-guide)
-- [Questions-for Guide](#questions-for-guide)
+- [Questions-for Review](#questions-for-review)
 - [Guide for further studies](#guide-for-further-studies)
 
 ---
@@ -104,5 +104,5 @@ Gould plays with clear, almost detached articulation that emphasizes clarity ove
 
 ---
 
-## Questions-for Guide
+## Questions-for Review
 ## Guide for further studies
