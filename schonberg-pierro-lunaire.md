@@ -18,12 +18,13 @@
 - [Guides for Further Studies](#guides-for-further-studies)
 
 ---
-
-## Timeline
-
 <div align="center">
 <img src="schoneberg.jpg" width="250px">
 </div>
+
+## Timeline
+
+
 
  | Year | Event        | Description                                       | YouTube                                                      |
  | ---- | ------------ | ------------------------------------------------- | -------------------------------------------------------------|
