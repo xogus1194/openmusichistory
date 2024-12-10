@@ -36,6 +36,12 @@ Moonhee Lee is currently professor at Hanyang University
 
 ---
 
+<div align="center">
+<img src="Dots_Score.png" width="500px">
+</div>
+
+---
+
 ## Instrumentation
 > This work made for full orchestra.
 
