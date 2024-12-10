@@ -1,11 +1,12 @@
 # Ludwig van Beethoven (1770-1827)
+
 ![image](https://github.com/user-attachments/assets/65fc2549-fc64-450e-af51-e8633467864a)
 
 Beethoven is one of the most influential composers in classical music. Although Beethoven lived in classical era, especially when he was young, he did not follow any specific schools, guilds, or circles of composers that would influence his works, instead, he was courageous to explore and create music that was new and different.
 
 Beethoven has set groundbreaking innovations in composing music. First, he broke the boundaries of classical era music that emphasizes clarity, lightness, and beauty, by composing darker, deeper, and sublime music. By doing this, he allowed his emotions and personal expressions to be in music. Second, he also explored new ways of playing music, such as making more virtuosic compositions that require more virtuosic and technical skill from performers. Third, he experimented with symphonic forms, leading him to compose his ninth symphony, the first-ever symphony not only performed by an orchestra but also by a choir. Therefore, it is not too much to say that Beethoven is the gate of romanticism, where he allowed later musicians to express their feelings in music and explore new harmonization and formation in composing music.
 
-![image](https://github.com/user-attachments/assets/01a5ae87-833a-47e0-b008-f7d4776bf932)
+<img src="https://github.com/user-attachments/assets/01a5ae87-833a-47e0-b008-f7d4776bf932" width="400" />
 
 A picture of Beethoven "breaking" the rules of classical era music and innovating romanticism.
 
