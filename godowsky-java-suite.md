@@ -18,22 +18,22 @@ countries. Between 1921 and 1925, Godowsky went to Central and South American co
 
 - [Timeline](#timeline)
 - [Java Suite](#java-suite)
-- [PART I](#part-i)
-- [I. Gamelan](#i-gamelan)
-- [II. Wayang-Purwa, Puppet Shadow Plays](#ii-wayang-purwa-puppet-shadow-plays)
-- [III. Hari Besaar, The Great Day](#iii-hari-besaar-the-great-day)
-- [PART II](#part-ii)
-- [IV. Chattering Monkeys at the Sacred Lake of Wendit](#iv-chattering-monkeys-at-the-sacred-lake-of-wendit)
-- [V. Boro Budur in Moonlight](#v-boro-budur-in-moonlight)
-- [VI. The Bromo Volcano and the Sand Sea at Daybreak](#vi-the-bromo-volcano-and-the-sand-sea-at-daybreak)
-- [PART III](#part-iii)
-- [VII. Three Dances](#vii-three-dances)
-- [VIII. The Gardens of Buitenzorg](#viii-the-gardens-of-buitenzorg)
-- [XI. In the Streets of Old Batavia](#xi-in-the-streets-of-old-batavia)
-- [PART IV](#part-iv)
-- [X. In the Kraton](#x-in-the-kraton)
-- [XI. The Ruined Water Castle at Djokja](#xi-the-ruined-water-castle-at-djokja)
-- [XII. A Court Pageant in Solo](#xii-a-court-pageant-in-solo)
+  - [PART I](#part-i)
+    - [I. Gamelan](#i-gamelan)
+    - [II. Wayang-Purwa, Puppet Shadow Plays](#ii-wayang-purwa-puppet-shadow-plays)
+    - [III. Hari Besaar, The Great Day](#iii-hari-besaar-the-great-day)
+  - [PART II](#part-ii)
+    - [IV. Chattering Monkeys at the Sacred Lake of Wendit](#iv-chattering-monkeys-at-the-sacred-lake-of-wendit)
+    - [V. Boro Budur in Moonlight](#v-boro-budur-in-moonlight)
+    - [VI. The Bromo Volcano and the Sand Sea at Daybreak](#vi-the-bromo-volcano-and-the-sand-sea-at-daybreak)
+  - [PART III](#part-iii)
+    - [VII. Three Dances](#vii-three-dances)
+    - [VIII. The Gardens of Buitenzorg](#viii-the-gardens-of-buitenzorg)
+    - [IX. In the Streets of Old Batavia](#ix-in-the-streets-of-old-batavia)
+  - [PART IV](#part-iv)
+    - [X. In the Kraton](#x-in-the-kraton)
+    - [XI. The Ruined Water Castle at Djokja](#xi-the-ruined-water-castle-at-djokja)
+    - [XII. A Court Pageant in Solo](#xii-a-court-pageant-in-solo)
 - [Influences](#influences)
 - [Significance](#significance)
 - [Performance and Reception](#performance-and-reception)
@@ -42,8 +42,6 @@ countries. Between 1921 and 1925, Godowsky went to Central and South American co
 - [Guides for Further Studies](#guides-for-further-studies)
 
 ## Timeline
-
-(still needs to be clarified)
 
 | Year       | Event                                   | Description                                                                                          |
 |------------|-----------------------------------------|------------------------------------------------------------------------------------------------------|
@@ -242,17 +240,13 @@ Godowsky gave us further description of the composition:
 
 ## Influences
 
-(This section is still only a copy from chatgpt's writing. Will be refined soon)
+Godowsky was heavily influenced by Javanese music, especially gamelan, which is characterized by layered textures and voices, complex rhythms, and shimmering sounds. Although he did not transcribe gamelan music literally, his suite catches its spirit through rhythmic intricacy, pentatonic scales, and bell-like sonorities.
 
-Cultural Encounter: Godowsky was deeply influenced by Javanese gamelan music, characterized by layered textures, intricate rhythms, and shimmering timbres. Though he did not directly transcribe gamelan music, his suite captures its spirit through rhythmic complexity, pentatonic scales, and bell-like sonorities.
+Not only influenced by gamelan music, Godowsky also integrated it with the virtuoso piano tradition of Liszt and Chopin and expanded the expressive techniques of the piano. His approach inspired later composers like Olivier Messiaen and Béla Bartók, who similarly took inspiration from non-Western music.
 
-East Meets West: By integrating Javanese elements with the virtuoso piano tradition of Liszt and Chopin, Godowsky expanded the expressive possibilities of the piano. His approach anticipated later composers like Olivier Messiaen and Béla Bartók, who similarly drew inspiration from non-Western music.
-
-Broadening Piano Repertoire: The Java Suite contributed to a growing interest in programmatic piano works that depicted exotic locales, influencing later composers to explore non-European musical idioms.
+Lastly, Java Suite contributed to a growing interest in programmatic music works that illustrated exotic scene or tradition, which influenced later composers to explore non-European music.
 
 ## Significance
-
-(This section is still only a copy from chatgpt's writing. Will be refined soon)
 
 A Rare Example of Cultural Fusion: It is one of the first major Western classical works inspired by Southeast Asian music, reflecting Godowsky’s forward-thinking embrace of global musical traditions.
 
@@ -264,45 +258,33 @@ Cross-Cultural Representation: In a time when Western classical music often exot
 
 ## Performance and Reception
 
-(This section is still only a copy from chatgpt's writing. Will be refined soon)
+Java Suite is rarely performed as a whole because of the demands of technique and interpretation of the suite. Each of the 12 movements needs the pianist to master contrapuntal playing, complex textures, and bring the scenery to the listeners. However, single movements of this suite are more often performed separately from the suite. Pianists such as Marc-André Hamelin, Carlo Grante, and Esther Budiarjo have performed the suite over the past few years, introducing it to wider listeners and focusing its place as a virtuosic, passionate, and dramatic work.
 
-Performance
-The Java Suite is rarely performed in its entirety due to its immense technical and interpretive demands. Each of the 12 pieces requires the pianist to master complex textures, balance inner voices, and convey vivid imagery. However, individual pieces are sometimes programmed as standalone works.
-
-Renowned pianists such as Marc-André Hamelin and Carlo Grante have championed the Java Suite in recent years, bringing it to broader audiences and highlighting its place as a virtuosic and expressive masterpiece.
-
-Reception
-Initial Reception: When first published in 1925, the Java Suite received mixed reviews. While some critics admired its originality and technical brilliance, others dismissed it as overly ornate or esoteric.
-
-Modern Appreciation: Today, the Java Suite is celebrated for its innovative synthesis of Western pianistic techniques and Javanese musical aesthetics. Scholars and performers recognize it as a groundbreaking work, ahead of its time in exploring cross-cultural musical dialogue.
+This suite received mixed reviews from audiences and critics when first published in 1925. Some admired the technical brilliance, cross-cultural reference, and originality of the idea (not many composers had been inspired from Indonesian Culture in composing music at that time), while others refused it as an overly ornate or complex piece. However, in the recent times, Java Suite has been celebrated for its groundbreaking combination of Western pianistic techniques and Javanese music elegance, ahead of its time in exploring cross-cultural musical conversation.
 
 ## Listening Guide
 
-(This section is still only a copy from chatgpt's writing. Will be refined soon)
+In order to listen and understand this suite deeply, here are some things that listeners can do.
 
-1. Appreciate the Context
-Godowsky’s Background: Godowsky was one of the most technically accomplished pianists of his time. His compositions often push the boundaries of what is technically and musically possible on the piano.
-Cultural Inspiration: Written in the 1920s, the Java Suite reflects Godowsky's impressions of Java during a time when exoticism was a significant influence in Western art and music.
-2. Musical Structure
-The Java Suite consists of twelve movements, each depicting different aspects of Javanese culture, landscapes, or traditions. Here’s a breakdown of notable movements:
+Firstly, we need to understand that Leopold Godowsky was one of technically expert pianists of his time, and he often wrote virtuosic pieces and wanted to see every technique that can be done in playing the piano. Inspired by Java Island in Dutch East Indies (now called Indonesia), Godowsky wrote the Java Suite in the 1920s, consisting of twelve movements, with each movement represents the different aspects of Javanese culture, scenery, and traditions.
 
-I. Gamelan: Inspired by the traditional Javanese gamelan ensemble, Godowsky translates the shimmering, layered textures and pentatonic scales into piano idioms.
-II. Wayang-Purwa (The Shadow Play): This movement reflects the ancient Javanese tradition of shadow puppetry. Listen for a storytelling quality in the music, with contrasting moods that suggest the dramatic episodes of a wayang kulit performance.
-V. The Bromo Volcano and the Sand Sea at Daybreak: This movement is highly atmospheric, with delicate textures painting a vivid picture of the volcanic landscape at dawn.
-X. In the Kraton: The Kraton refers to the royal palace. This piece exudes elegance and regality, with an almost ceremonial feel.
-3. Listening for Influences
-Javanese Gamelan: Listen for intricate rhythms, overlapping melodic lines, and the use of pentatonic scales reminiscent of gamelan music.
-Western Romanticism: Godowsky’s piano writing also reflects the lush harmonies and virtuosic flourishes typical of late Romantic composers like Liszt or Rachmaninoff.
-Tone Painting: Each piece evokes vivid imagery, so try to imagine the scenes or cultural practices Godowsky describes through his music.
-4. Technical and Emotional Challenges
-Godowsky’s Java Suite is known for its technical difficulty. Pianists face challenges such as complex textures, rapid passages, and nuanced pedaling to capture the layered soundscape of the gamelan.
-Emotionally, the suite requires sensitivity to both the exotic influences and the Western romanticism that underpins the music.
-5. Suggested Approach
-Active Listening: Pay attention to the interplay between melody and accompaniment, and how Godowsky mimics the sonorities of Javanese instruments.
-Multiple Listenings: Each movement is rich in detail. Repeated listening can reveal new layers and subtleties.
-Compare and Contrast: If possible, listen to traditional Javanese gamelan music to better appreciate Godowsky’s interpretation.
-The Java Suite is a testament to Godowsky’s ability to synthesize diverse cultural elements into a unique musical language, making it both a technical tour de force and a deeply atmospheric work.
+Secondly, after knowing the title of a certain movement, listeners can do a little bit of research (or read previous sections of this text) to understand what that movement is about. Then, listeners can listen to the music while considering two things that Godowsky applied in the entire suite: Gamelan and Tone Painting. Gamelan music is characterized by complex rhythms, overlapping melodic lines, and pentatonic scales. Tone Painting means that the music really reflects what the composer wants to tell us, and listeners can imagine the scenery or cultural traditions in each movement while listening to the music.
+
+Last but not least, listeners can do active listening, that is, to listen careully to the interaction between melody and accompaniment, to the sonorities of gamelan, to layers and contrapuntal elements, and other things. Listening to traditional Javanese gamelan music is also highly encouraged to appreciate Godowsky's interpretation better.
 
 ## Questions for Review
 
+- What inspired Godowsky to compose Java Suite, and how do these influences shape the suite's overall mood and character?
+- How does Java Suite represent the traditional and musical elements of Java?
+- Can you identify specific examples of musical aspects that introduce Javanese gamelan or other Javanese elements?
+- What aspects of Godowsky’s compositional style are obvious in this suite?
+- Which movement of the Java Suite made you fascinated the most, and why?
+- How do the programmatic aspects of Java Suite (the descriptive titles and narrative aspects) improve your understanding of the music?
+- How does Java Suite compare to other works of its time that explore exotic or non-Western themes?
+- Do you think Java Suite is an accurate representation of Javanese culture, or is it more of an impression filtered through a Western lens?
+
 ## Guides for Further Studies
+
+Arakawa, J. (2013). A guide to Leopold Godowsky's Java suite.
+
+Predota, G. (2018, August 8). _Godowsky: Java Suite_. Interlude. Retrieved from https://interlude.hk/godowsky-java-suite/

@@ -11,9 +11,9 @@ A picture of Beethoven "breaking" the rules of classical era music and innovatin
 
 - [Timeline](#timeline)
 - [Piano Concerto No. 5, Op. 73](#piano-concerto-no-5-op-73)
-- [I. Allegro](#i-allegro)
-- [II. Adagio un poco mosso](#ii-adagio-un-poco-mosso)
-- [III. Rondo: Allegro ma non troppo](#iii-rondo-allegro-ma-non-troppo)
+  - [I. Allegro](#i-allegro)
+  - [II. Adagio un poco mosso](#ii-adagio-un-poco-mosso)
+  - [III. Rondo: Allegro ma non troppo](#iii-rondo-allegro-ma-non-troppo)
 - [Influences](#influences)
 - [Significance](#significance)
 - [Performance and Reception](#performance-and-reception)
@@ -58,7 +58,6 @@ The second movement unfolds in the surprising key of B major, creating a peacful
 ### III. Rondo: Allegro ma non troppo
 From quiet tranquility, Beethoven made the third movement burst into life with energetic rhythm, broad, joyful lines, and vibrant colors. The melody played at the end of the second movement becomes the main theme with powerful syncopated rhythms and bold phrases, interspersed with imaginative, playful episodes. Near the end, the music slows down while becoming calm, with only the duet of piano and timpani with pianissimo dynamic. Suddenly, the piano soars majestic scale passages preceding the flourishing orchestra, marking the grandious and massive ending of the whole piano concerto.
 
-[I think it would be good to set a movement and explain it in more detail. Explaining the piano and orchestra parts!] That's a good suggestion, but I'll explain more about both parts in the listening guide section!
 ![Piano Concerto No  5, Op  73 accompaniment-1](https://github.com/user-attachments/assets/35f00c9e-fabd-4f36-9e5d-a454c4646fe2)
 ![Piano Concerto No  5, Op  73 accompaniment-2](https://github.com/user-attachments/assets/bd058033-c716-4cfe-a7e1-b3854e3f6a48)
 
@@ -66,35 +65,13 @@ This is an example of the piano accompanying the orchestra in the piano concerto
 
 ## Influences
 
-(This section is still only a copy from chatgpt's writing. Will be refined soon)
+This concerto is one of the pieces that moves away from the Classical era's traditional structures. Beethoven’s new approach—where the piano and orchestra interact equally—set a new standard for the concerto form. This style, with expanded orchestration and more unified roles for soloist and the orchestra, directly influenced later Romantic composers like Liszt, Brahms, and Rachmaninoff.
 
-1. A New Paradigm for the Piano Concerto
-The Emperor redefined the piano concerto, breaking away from the Classical era's conventional structures. Beethoven’s innovative approach—where the piano and orchestra interact as equals—set a new standard for the concerto form. This "symphonic" treatment of the genre, with expanded orchestration and more integrated roles for soloist and ensemble, directly influenced later Romantic composers like:
+The concerto showed that the piano can be used for a tool to promote both dazzling virtuosity and deep emotional expression, and this inspired a tradition of "heroic" concertos, which can be seen in Chopin's Piano Concerto No. 1, Tchaikovsky's Piano Concerto No. 1, and Grieg's Piano Concerto
 
-Franz Liszt, who took inspiration from the virtuosic and dramatic elements of the Emperor for his piano concertos.
-Johannes Brahms, who emulated its grandeur and symphonic character in his two piano concertos.
-Sergei Rachmaninoff, whose works balance technical brilliance with orchestral richness in a manner reminiscent of Beethoven’s innovations.
-2. Virtuosity and Expression Combined
-The Emperor showcased the piano as a vehicle for both dazzling virtuosity and profound emotional expression. Beethoven’s ability to balance technical demands with musical depth inspired a tradition of "heroic" concertos. This duality can be seen in:
+This Concerto is described as a narrative journey which was in line with Romantic composers. This storytelling sense through music influenced works such as Berlioz's Symphonie Fantastique and Liszt's 2nd Piano Concerto, as composers sought to elicit struggle, transcendence, and resolution in their concertos.
 
-Chopin’s Piano Concerto No. 1, which blends lyrical beauty with virtuoso passages.
-Tchaikovsky’s Piano Concerto No. 1, which mirrors the Emperor’s bold and heroic spirit.
-Grieg’s Piano Concerto, which incorporates both grandeur and introspection.
-3. Emotional Storytelling in Music
-The Emperor Concerto is often described as a narrative journey—triumph over adversity—which resonated with Romantic composers. This sense of storytelling through music influenced works that followed, as composers sought to evoke struggle, transcendence, and resolution in their concertos.
-
-Berlioz and other programmatic composers adopted Beethoven's emotive storytelling approach.
-Liszt’s Piano Concerto No. 2 embodies a similar dramatic arc, blending lyricism and power.
-4. Expansion of the Orchestra’s Role
-Beethoven’s expanded use of the orchestra in the Emperor highlighted its role not merely as an accompanist but as an equal partner to the soloist. This paved the way for later concertos with rich, detailed orchestration, such as:
-
-Brahms’ Piano Concerto No. 2, which integrates the orchestra and piano in a deeply symphonic manner.
-Prokofiev’s Piano Concertos, where the orchestra often drives the dramatic narrative alongside the piano.
-5. A Model of Heroism and Innovation
-The Emperor's heroic character inspired composers to infuse their works with a similar sense of grandeur and boldness. The concerto’s legacy as a symbol of triumph has resonated well beyond music, influencing broader cultural ideas of resilience and creativity.
-
-6. Performance Tradition
-The Emperor Concerto also influenced the way pianists approach concertos, emphasizing not only technical mastery but also interpretive depth. Iconic performances by pianists like Arthur Rubinstein, Alfred Brendel, and Maurizio Pollini have cemented its place as a central pillar of the concert repertoire, inspiring generations of performers.
+The Emperor Concerto also influenced the way pianists play piano concertos, which emphasizes not only technical proficiency but also emotional depth. Iconic performances by pianists like Arthur Rubinstein, Alfred Brendel, and Maurizio Pollini have attached its place as a central pillar of the concert repertoire, which later inspired generations of performers.
 
 ## Significance
 
@@ -172,10 +149,16 @@ Beethoven’s "Emperor" Concerto is a tour de force that rewards repeated listen
 
 ## Questions for Review
 
+- What historical and personal contexts influenced Beethoven during the composition of Piano Concerto No. 5?
+- How does the concerto depict Beethoven's transition into his "heroic" period?
+- How does Beethoven use the piano and orchestra to interact in the concerto?
+- What are the unique structural elements of the concerto, and how do they differ or align with classical norms?
+- What emotions or ideas do you think Beethoven was trying to convey through this concerto?
+- How does this concerto compare to Beethoven’s earlier piano concertos?
+- How does the nickname “Emperor” influence your perception of the work?
+
 ## Guides for Further Studies
+Shen, Y. (2015). Narrative Analysis of Beethoven's Piano Concerto No. 5 (Doctoral dissertation).
 
+Tobias, M. W. (2015). _Beethoven: Concerto No. 5 in E-flat Major for Piano and Orchestra, Op. 73 (“Emperor”)._ Indianapolis Symphony Orchestra. Retrieved from https://www.indianapolissymphony.org/backstage/program-notes/beethoven-concerto-no-5/
 
-
-
-
-***I think it would be good to divide the article into more paragraphs to make it easier to read.***
