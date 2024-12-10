@@ -37,7 +37,7 @@ Moonhee Lee is currently professor at Hanyang University
 ---
 
 <div align="center">
-<img src="Dots_Score.png" width="800px">
+<img src="Dots_NewScore.png" width="800px">
 </div>
 
 ---
