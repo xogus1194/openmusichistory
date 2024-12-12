@@ -2,16 +2,16 @@
 ![image](chopin.png)
 
 Frédéric Chopin (1810–1849) was a Polish composer and virtuoso pianist of the Romantic era, widely regarded as one of the greatest composers for the piano. He was born in Żelazowa Wola, near Warsaw, Poland, and showed prodigious musical talent from a young age.
-### Musical Style
+## Musical Style
 Chopin's works are characterized by their emotional depth, lyrical melodies, and innovative harmonies. He had a unique ability to blend technical brilliance with profound expressiveness.
 He wrote almost exclusively for the piano, including nocturnes, waltzes, études, polonaises, and mazurkas.
-### Significance of National Identity
+## Significance of National Identity
 Chopin’s Polish heritage played a vital role in his music. Many of his works, such as the polonaises and mazurkas, reflect Polish folk themes and dances.
 Although he spent much of his life in France, he remained deeply connected to his homeland, especially during Poland’s struggles for independence.
-### Life in France
+## Life in France
 Chopin moved to Paris in 1831, where he became a central figure in the city's vibrant cultural scene. He associated with artists like Franz Liszt and writers such as George Sand (his longtime romantic partner).
 In Paris, he primarily performed in intimate salon settings rather than large concert halls.
-### Health and Legacy
+## Health and Legacy
 Chopin suffered from poor health throughout his life, likely due to tuberculosis, which led to his early death at the age of 39.
 Despite his short life, Chopin left an indelible mark on music, influencing countless composers and earning a place as one of history's most beloved pianists and composers.
 
@@ -21,16 +21,26 @@ Despite his short life, Chopin left an indelible mark on music, influencing coun
 - [1. Andante Spianato](#1-andante-spianato)
 - [2. Grande Polonaise Brillante](#2-grande-polonaise-brillante)
 - [3. Combination of the Two](#3-combination-of-the-two)
+- [Background of the Work](#background-of-the-work)
+- [Musical Features](musical-features)
 - [Performance and Legacy](#performance-and-legacy)
 - [Questions for Review](#questions-for-review)
 - [Guides for Further Studies](#guides-for-further-studies)
 
+
 ## Timeline
-|  Year    | Event                            | Description                                                                 | 
-|----------|----------------------------------|-----------------------------------------------------------------------------|
-| **1810** | Birth                            | Born on March 1, 1810 in Paris, France.                                     |
-| **1834** | Composition                      | Completed Andante Spianato and Grande Polonaise Brillante, Op. 22           | 
-| **1849** | Death                            | Died in Paris, October 17, 1849                                             |
+|      Year     | Event              | Description                                                                                | Youtube                                                      |
+|---------------|--------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------|      
+|    **1810**   | Birth              | Born on March 1, 1810 in Paris, France.                                                    |                                                              |
+|    **1817**   | First Compositions | At just seven years old, Chopin composed two polonaises.                                   |                                                              |
+|    **1826**   | Study              | Studies at the Warsaw Conservatory.                                                        |                                                              |
+|    **1829**   | First success      | Chopin performed in Vienna, where his concerts were highly praised.                        |                                                              |
+|    **1831**   | Settlement         | Chopin settled in Paris, where he became a successful pianist, composer, and piano teacher.|                                                              |
+|    **1834**   | Composition        | Completed Andante Spianato and Grande Polonaise Brillante, Op. 22                          | [listen](https://youtu.be/AO6k_ipgEsI?si=4w1jvXnAqDdkY7mU)🎹 |   
+| **1840-1846** | Golden Era         | Chopin enjoyed the height of his career in Paris.                                          |                                                              | 
+|    **1849**   | Death              | Died in Paris, October 17, 1849.                                                           |                                                              |
+
+
 
 
 ![image](chopin-composing.png)
@@ -55,6 +65,16 @@ The Andante Spianato and Grande Polonaise Brillante in E-flat major, Op. 22, is 
 #### 3. Combination of the Two
 - In 1834, Chopin combined the Andante Spianato with the Grande Polonaise Brillante, creating a single cohesive work.
 - This combination begins with the reflective Andante Spianato and transitions seamlessly into the sparkling Polonaise.
+  
+### Background of the Work
+Chopin composed this piece in the 1830s, completing the initial draft in 1834. After some revisions, the final version was published in 1836.
+The piece reflects Chopin's nostalgia for Poland and his patriotic sentiments.
+By combining virtuosic elements with poignant lyricism, it embodies Chopin's distinctive style.
+
+### Musical Features
+It showcases Chopin's signature singing melodies and ornate embellishments.
+The Andante spianato is gentle and graceful, while the Grande Polonaise Brillante is majestic and dazzling, creating a striking contrast.
+Chopin's reimagining of the traditional Polish polonaise in his unique style is particularly noteworthy.
 
 ### Performance and Legacy
 - The work is a favorite in concert repertoire, showcasing the pianist’s lyrical expressiveness and technical prowess.
@@ -62,4 +82,7 @@ The Andante Spianato and Grande Polonaise Brillante in E-flat major, Op. 22, is 
 The Andante Spianato and Grande Polonaise Brillante remains a shining example of Chopin’s genius, blending the intimate and the grand in a way that continues to captivate audiences worldwide.
 
 ### Questions for Review
+
+
 ### Guides for Further Studies
+
