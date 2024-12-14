@@ -6,6 +6,8 @@
 
 **Ludwig van Beethoven (1770-1827)** was a German composer and pianist who served as a crucial link between the Classical and Romantic eras, expanding the traditions of Mozart and Haydn while developing his own bold and deeply expressive style. His music, characterized by innovation and emotional depth, includes iconic works such as his symphonies, piano sonatas, and string quartets, with Symphony No. 9 standing as a timeless celebration of humanity and peace. Despite losing his hearing in his mid-30s, Beethoven produced some of his most profound compositions, using music to explore the human condition, ideals of freedom, and the social and political issues of his time, leaving an indelible mark on music history.
 
+---
+
 - [Timeline](#timeline)
 - [Piano Sonata No. 26 in E-flat major, Op. 81a, “Das Lebewohl"](#piano-sonata-no-26-in-e-flat-major-op-81a-das-lebewohl)
   -  [Movement I: “Das Lebewohl” (The Farewell)](#movement-i-das-lebewohl-the-farewell)
@@ -14,20 +16,22 @@
 - [Questions for Review](#questions-for-review)
 - [Guides for Further Studies](#guides-for-further-studies)
 
+---
+
 ## Timeline
 
-| Year | Event | Description                                                                                                      | Youtube |
-| ---- | ----- | ---------------------------------------------------------------------------------------------------------------- | ------- |
-| 1770	| Birth	| Ludwig van Beethoven was born in Bonn, Germany.                                                                  |         |
-| 1787	| Meets Mozart	| Traveled to Vienna and briefly met Wolfgang Amadeus Mozart, who praised his talent.                       |         |
-| 1792	| Moves to Vienna	| Beethoven moved to Vienna to study with Joseph Haydn and pursue his musical career.                    |         |
-| 1800	| Hearing loss begins	| Beethoven begins to experience hearing loss, leading to significant emotional challenges.          |         |
-| 1802	| Heiligenstadt Testament	| Wrote a letter expressing despair over his worsening hearing loss.                             |         |
-| 1809	| Archduke Rudolph flees	| Napoleon invades Vienna, forcing Beethoven's patron, Archduke Rudolph, to leave. Beethoven begins composing Piano Sonata No. 26 for him.                                                                                                      |         |
-| 1810	| Completes Piano Sonata No. 26	| Piano Sonata No. 26 'Les Adieux' (Op. 81a) is published, featuring three narrative movements about farewell, absence, and reunion with Archduke Rudolph.                                                                             |         |
-| 1810	| Publishes Sonata No. 26	| Piano Sonata No. 26 was published, reflecting themes of farewell, absence, and reunion.        | [Listen](https://youtu.be/6c9B3K4ii-c?si=PcrhJ5FE2cs3OTSn) :tv: |
-| 1824	| Symphony No. 9 Premiere	| Beethoven conducted the first performance of his Ninth Symphony despite being deaf.            |         |
-| 1827	| Death	| Beethoven passed away in Vienna, Austria.                                                                        |         |
+| Year | Event | Description | Youtube |
+| ---- | ----- | ----------- | ------- |
+| 1770	| Birth	| Ludwig van Beethoven was born in Bonn, Germany. |
+| 1787	| Meets Mozart	| Traveled to Vienna and briefly met Wolfgang Amadeus Mozart, who praised his talent. |
+| 1792	| Moves to Vienna	| Beethoven moved to Vienna to study with Joseph Haydn and pursue his musical career. |
+| 1800	| Hearing loss begins	| Beethoven begins to experience hearing loss, leading to significant emotional challenges. |
+| 1802	| Heiligenstadt Testament	| Wrote a letter expressing despair over his worsening hearing loss. |
+| 1809	| Archduke Rudolph flees	| Napoleon invades Vienna, forcing Beethoven's patron, Archduke Rudolph, to leave. Beethoven begins composing Piano Sonata No. 26 for him. |
+| 1810	| Completes Piano Sonata No. 26	| Piano Sonata No. 26 'Les Adieux' (Op. 81a) is published, featuring three narrative movements about farewell, absence, and reunion with Archduke Rudolph. |
+| 1810	| Publishes Sonata No. 26	| Piano Sonata No. 26 was published, reflecting themes of farewell, absence, and reunion. | [Listen](https://youtu.be/6c9B3K4ii-c?si=PcrhJ5FE2cs3OTSn) :tv: |
+| 1824	| Symphony No. 9 Premiere	| Beethoven conducted the first performance of his Ninth Symphony despite being deaf. |
+| 1827	| Death	| Beethoven passed away in Vienna, Austria. |
 
 ---
 
@@ -45,15 +49,15 @@
 ### The Sonata’s Background and Structure
 Completed between 1809 and early 1810, this sonata is organized into three movements, each marked with German titles that convey the progression of emotions associated with departure and return. Beethoven expressed frustration when the French publisher later altered these titles to the French equivalents, feeling that they lost the intimate nuance of the original German phrases.
 
- #### *Movement I: “Das Lebewohl” (The Farewell)*
+ #### Movement I: “Das Lebewohl” (The Farewell)
  
 Opening with a poignant Adagio introduction, Beethoven illustrates the pain of parting through descending motifs that echo the syllables of “Lebewohl” (farewell). The heavy, sustained chords and solemn intervals convey a sense of loss and separation. As the Allegro section unfolds, Beethoven introduces moments of agitation, capturing the tension of the farewell.
 
- #### *Movement II: “Die Abwesenheit” (The Absence)*
+ #### Movement II: “Die Abwesenheit” (The Absence)
  
 The second movement, marked Andante espressivo, portrays a quiet, reflective sorrow. Here, Beethoven captures the loneliness and longing that follows the Archduke’s departure. The music becomes introspective, with simple, flowing lines that feel suspended in time, evoking a sense of waiting and contemplative solitude.
 
- #### *Movement III: “Das Wiedersehen” (The Return)*
+ #### Movement III: “Das Wiedersehen” (The Return)
  
 Marked Vivacissimamente, the final movement bursts forth with jubilant energy, celebrating the Archduke’s return. Beethoven’s music conveys an undeniable joy, marked by lively, rhythmic motifs and exuberant passages that reflect the excitement of reunion. This final movement is an exuberant release, rounding off the sonata on a note of optimism and restored connection.
 
@@ -65,25 +69,26 @@ Beethoven dedicated this sonata to Archduke Rudolph, whose patronage and friends
 ---
 
 ## Questions for Review
-- Who did Beethoven dedicate Piano Sonata No. 26 to?
-- What words do the opening notes of the first movement represent?
-- How does the second movement describe the absence of Archduke Rudolph?
-- What feeling is shown in the lively third movement?
-- Why was this sonata written during Napoleon’s invasion of Vienna?
+1. Who did Beethoven dedicate Piano Sonata No. 26 to?
+2. What words do the opening notes of the first movement represent?
+3. How does the second movement describe the absence of Archduke Rudolph?
+4. What feeling is shown in the lively third movement?
+5. Why was this sonata written during Napoleon’s invasion of Vienna?
 
 ---
 
 ## Guides for Further Studies
-### 1. Analysis of the Sonata's Structure and Emotional Narrative
+**1. Analysis of the Sonata's Structure and Emotional Narrative**
+   
 Explore an in-depth breakdown of the three movements (*Das Lebewohl*, *Abwesenheit*, *Das Wiedersehen*) that detail Beethoven's storytelling through music. The narrative elements of farewell, absence, and joyous reunion are expressed with unique motifs, harmonic shifts, and emotional dynamics.  
 - [Beethoven's Op.81a analysis - MTO](https://www.mtosmt.org/issues/mto.96.2.4/mto.96.2.4.agmon.html)
 
-### 2. Historical and Biographical Context
+**2. Historical and Biographical Context**
+   
 Delve deeper into Beethoven's life and the historical events he lived through, providing a richer understanding of his music and its emotional depth.  
 - [Ludvig van Beethoven - Britannica](https://www.britannica.com/biography/Ludwig-van-Beethoven)
 
-### 3. Performance Insights
+**3. Performance Insights**
 
 Understand the nuances of *Les Adieux* by listening to interpretations from renowned pianists. This can provide insight into the different ways the sonata's emotional and technical challenges are approached.  
 - [András Schiff's performance - YouTube](https://www.youtube.com/watch?v=6c9B3K4ii-c)
-
