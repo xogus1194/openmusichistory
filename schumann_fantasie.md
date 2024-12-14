@@ -32,7 +32,7 @@
 | 1835 | Meeting Clara Wieck | Schumann falls in love with Clara Wieck, leading to a passionate and challenging relationship. |
 | 1836 | Composing the Fantasy | Schumann composes the Fantasy in C Major, Op.17, inspired by his love for Clara and his admiration for Beethoven. |
 | 1837 | Revisions | Schumann revises and refines the Fantasy, finalizing it as a work of personal expression. |
-| 1839 | Publication | The Fantasy in C Major is published as Op.17 and dedicated to Franz Liszt. | [Watch](https://youtu.be/ZRZjHKX-JMA?si=Q22z0SyJQdcYoJHJ) 📺|
+| 1839 | Publication | The Fantasy in C Major is published as Op.17 and dedicated to Franz Liszt. | [Listen](https://youtu.be/ZRZjHKX-JMA?si=Q22z0SyJQdcYoJHJ) :tv:|
 | 1840 | Year of Song | Schumann marries Clara, and his compositional focus shifts to song cycles, including Dichterliebe. |
 | 1854 | Mental health crisis | Schumann experiences a severe mental health breakdown, leading to hospitalization. |
 | 1856 | Death | Schumann dies in a mental asylum near Bonn, leaving behind a legacy of profound and emotional music. |
@@ -75,16 +75,21 @@ The Fantasy in C Major stands as a testament to Schumann’s genius, capturing t
 4. Analyze the rhythmic features of the second movement and how they convey Schumann's intended emotions.
 5. The third movement is known for its emotional depth. What musical elements create this atmosphere?
 
+---
+
 ## Guides for Further Studies
-### 1. Connection to Beethoven  
+**1. Connection to Beethoven**
+
 Schumann’s *Fantasie in C Major* includes a musical quotation from Beethoven’s *An die ferne Geliebte*, reflecting his admiration for Beethoven and the Romantic ideal of distant love.  
 - [Ludwig van Beethoven - Britannica](https://www.britannica.com/biography/Ludwig-van-Beethoven)  
 
-### 2. Romantic Expression in Schumann's Music  
-Schumann’s music often explores deep emotional contrasts and Romantic ideals. This piece is an excellent example of blending personal emotion with artistic innovation.  
-- [Romantic Music and Schumann - Classic FM](https://www.classicfm.com/composers/schumann/)  
+**2. Romantic Expression in Schumann's Music** 
 
-### 3. Relationship with Clara Schumann  
+Schumann’s music often explores deep emotional contrasts and Romantic ideals. This piece is an excellent example of blending personal emotion with artistic innovation.  
+- [Robert Schumann as Romantic Era Composer - aithor](https://aithor.com/essay-examples/robert-schumann-as-a-romantic-era-composer)
+
+**3. Relationship with Clara Schumann** 
+
 Clara Wieck profoundly influenced Schumann’s works, including this Fantasy, which captures his longing during their separation.  
 - [Clara Schumann’s Biography - Britannica](https://www.britannica.com/biography/Clara-Schumann)  
 
