@@ -7,8 +7,6 @@
 - [Timeline](#timeline)
 - [Piano Sonata No. 14 in C-Sharp minor, Op. 27, No. 2](#piano-sonata-no-14-in-c-sharp-minor-op-27-no-2)
 - [Influences](#influences)
-- [Significance](#significance)
-- [Performance and Reception](#performance-and-reception)
 - [Listening Guide](#listening-guide)
 - [Questions for Review](#questions-for-review)
 - [Guides for Further Studies](#guides-for-further-studies)
@@ -28,12 +26,12 @@
 | 1770 | Birth | Born on December 17th in Bonn, Electorate of Cologne (modern-day Germany).
 | 1792 | Moves to Vienna | Moves to Vienna permanently to study with Joseph Haydn.
 | 1795 | First public | First public performance in Vienna, showcasing his piano skills.
-| 1800 | Composes symphony | Composes his first symphony, Symphony No. 1 in C major.
+| 1800 | Composes symphony | Composes his first symphony, Symphony No. 1 in C major.                                         | [Youtube](https://www.youtube.com/watch?v=ouKhdyzxXE8)|
 | 1801 | Hearing loss | Begins to experience the first signs of hearing loss.
 | 1802 | Heiligenstadt Testament | Composes the "Heiligenstadt Testament," a letter expressing his despair over his deafness.
-| 1812 | Composes sonata | Composes the "Waldstein" Piano Sonata and the "Appassionata" Sonata.
+| 1812 | Composes sonata | Composes the "Waldstein" Piano Sonata and the "Appassionata" Sonata.                              | [Youtube](https://www.youtube.com/watch?v=efA1S8hyBms)|
 | 1815 | Deaf | His hearing deteriorates significantly, and he becomes almost completely deaf.
-| 1824 | Symphony No.9 Premiere | Premieres Symphony No. 9, including the famous "Ode to Joy" chorus.
+| 1824 | Symphony No.9 Premiere | Premieres Symphony No. 9, including the famous "Ode to Joy" chorus.                        | [Youtube](https://www.youtube.com/watch?v=4IqnVCc-Yqo)|
 | 1827 | Death |Dies on March 26th in Vienna at the age of 56.
 
 This piece was directly influenced by Beethoven's piano sonatas, especially [Piano Sonata No.26](#beethoven-sonata-26.md) (This is not true.)
@@ -78,12 +76,17 @@ The "Moonlight Sonata" features emotional depth and introspective expression tha
 **2. Challenge to Traditional Sonata Form**
 This sonata deviates from the traditional three-movement sonata form, offering a more non-traditional structure. The first movement is extremely slow and lyrical, which presents a new approach to sonata form. This challenge to the conventional structure paved the way for later composers to experiment with and break free from traditional forms, particularly those in the Romantic period.
 
-## Significance
-
-## Performance and Reception
-
 ## Listening Guide
+[Evgeny Kissin](https://www.youtube.com/watch?v=r4v_XP0BTdU) Kissin's performance is characterized by his exceptional technique and unique musicality. In particular, his ability to execute the fast tempo of the third movement is the most notable aspect of his interpretation.
+
+[LimYunChan](https://www.youtube.com/watch?v=JiK00v4FrHA) Despite his young age, Lim Yun-chan has expressed the music of Moonlight in his own unique style, and his extraordinary technique, which is truly remarkable, stands out.
+
+[Valentina Lisitsa](https://www.youtube.com/watch?v=ITidiBe-0T0) She has always been known for her exceptional technique, and her light touch is considered her signature. When you listen to her, you will be continually amazed. Not only does she play with a feather-light touch even at fast tempos, but her unique tone, which stands out in both the first and second movements, plays the most important role in interpreting the music.
 
 ## Questions for Review
+- Why was this sonata named "Moonlight"?
+- What is the form of the 3rd movement of the Moonlight Sonata?
+- Which movement of the Moonlight Sonata was the most impressive to you? What is the reason?
 
 ## Guides for Further Studies
+For additional information, it would be helpful to refer to this literature. (https://www.riss.kr/link?id=A107044246)
