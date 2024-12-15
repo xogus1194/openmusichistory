@@ -2,6 +2,7 @@
 
 <img src="beethoven-r.png" width="400" height="400">
 
+- [Timeline](#timeline)
 - [Rondo a carpriccio Op.129](#rondo_a_carpriccio_op_129)
   - [Introduction](#introduction)
   - [Structure and Characteristics](#structure_and_characteristics)
@@ -11,6 +12,17 @@
 - [Timeline](#timeline)
 - [Questions for Review](#questions_for_review)
 - [Guides for Further Studies](#guides_for_further_studies)
+
+## Timeline
+
+|Year|Event                   |Description                                                         |YouTube|
+|----|------------------------|--------------------------------------------------------------------|-------|
+|1770|Birth                   |Born on December 17 in Bonn, Germany                                |       |
+|1778|First Public Performance|Beethoven had his first performance at the age of 7                 |       |
+|1792|Move to Vienna          |Learning from Haydn, vowing the foundation of a composer and pianist|       |
+|1801|Deafness Begins         |Beethoven began to suffer severe hearing loss                       |       |
+|1810|Für Elise               |Beethoven composed the beloved piano piece Bagatelle in A Minor     |[Watch](https://www.youtube.com/watch?v=n4YZKJQKFFk)|
+|1827|Death                   |Beethoven passed away on March 26 in Vienna at the age of 56        |       |
 
 ## Rondo a carpriccio Op.129
 
@@ -47,18 +59,16 @@ Beethoven's Rondo a Capriccio is a gem that offers a glimpse into the composer's
 
 ## Questions for Review
 
+- When was Beethoven's Rondo a Capriccio composed, and why was it published posthumously?
+- Who assigned the nickname Rage Over a Lost Penny, and what does it signify about the character of the piece?
+- What is a rondo form, and how is it exemplified in this piece?
+- How do the episodes differ from the main theme in mood and technical elements?
+- What are the key technical demands of the piece for pianists?
+
 ## Guides for Further Studies
 
-## Timeline 
-
-|Year|Event                   |Description                                                         |YouTube|
-|----|------------------------|--------------------------------------------------------------------|-------|
-|1770|Birth                   |Born on December 17 in Bonn, Germany                                |       |
-|1778|First Public Performance|Beethoven had his first performance at the age of 7                 |       |
-|1792|Move to Vienna          |Learning from Haydn, vowing the foundation of a composer and pianist|       |
-|1801|Deafness Begins         |Beethoven began to suffer severe hearing loss                       |       |
-|1810|Für Elise               |Beethoven composed the beloved piano piece Bagatelle in A Minor     |[Watch](https://www.youtube.com/watch?v=n4YZKJQKFFk)|
-|1827|Death                   |Beethoven passed away on March 26 in Vienna at the age of 56        |       |
-
+Study the rondo form in the works of Mozart and Haydn. How does Beethoven's approach differ in terms of energy and humor?
+Analyze other compositions where Beethoven's humor and wit are evident, such as his Scherzos. What techniques does he use to convey these qualities?
+Read Anton Schindler’s biography of Beethoven to gain insight into the composer’s personality and how Schindler’s interpretations have shaped our understanding of works like this one.
 
 <img src="beethoven-rondo.png">
