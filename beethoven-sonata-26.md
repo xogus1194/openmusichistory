@@ -91,4 +91,4 @@ Delve deeper into Beethoven's life and the historical events he lived through, p
 **3. Performance Insights**
 
 Understand the nuances of *Les Adieux* by listening to interpretations from renowned pianists. This can provide insight into the different ways the sonata's emotional and technical challenges are approached.  
-- [András Schiff's performance - YouTube](https://www.youtube.com/watch?v=6c9B3K4ii-c)
+- [Daniel Barenboim's performance - YouTube](https://youtu.be/K-ChTHM9B2w?si=UUu1wgVFA_I7gRtz)
