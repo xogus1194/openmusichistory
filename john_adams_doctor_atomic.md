@@ -86,5 +86,19 @@ In the opera, the aria occurs at a climactic moment, reflecting Oppenheimer's in
  [Doctor Atomic-Act I, Scene 3 "Batter my heart"](https://www.youtube.com/watch?v=AlUHKHLk_VU)
   
 ## Questions-for Review
+- Do you think operas like John Adams’s are more effective at addressing contemporary issues than traditional operas?
 
+  Operas like those by John Adams are often more effective at addressing contemporary issues than traditional operas due to their direct engagement with modern political, ethical, and scientific themes. For instance, Doctor Atomic confronts the moral dilemmas surrounding the atomic bomb, while Nixon in China deals with the complex geopolitical tensions of the late 20th century. These works use minimalist techniques and contemporary settings to make their themes more immediate and relatable to modern audiences, compared to the often historical or mythological subjects of traditional operas. Adams's operas engage with the world in real-time, allowing them to reflect current issues more dynamically.
+
+- Why is John Adams considered a significant composer in modern opera?
+
+  John Adams is considered a significant composer in modern opera due to his innovative use of minimalist techniques combined with emotional and dramatic complexity. His operas, like Nixon in China and Doctor Atomic, tackle contemporary political, historical, and ethical issues, making them deeply relevant to modern audiences. His unique approach blends accessible, repetitive structures with lush orchestration, making complex subjects emotionally engaging.
+  
+- How does Adams use minimalist techniques in his operas? What effect do these techniques have on the audience?
+
+  By employing repetitive rhythmic patterns, shifting harmonic structures, and gradual evolution of musical material. These techniques create a sense of hypnotic momentum and intensity, enhancing the dramatic tension. In Doctor Atomic, for example, the music reflects the escalating urgency of the Manhattan Project through persistent, evolving motifs.
+  
 ## Guide for further studies
+[Educational resources](https://www.pbslearningmedia.org/resource/doctor-atomic-opera/doctor-atomic-opera/)
+
+[About Opera](https://openlyopera.wordpress.com/)
