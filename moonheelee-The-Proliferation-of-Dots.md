@@ -1,7 +1,7 @@
 # Moonhee Lee
 ## The Proliferation of Dots's Explanation
 
-The Proliferation of Dots,” composed in 2024 by Moonhee Lee, was inspired by Wassily Kandinsky’s book Point and Line to Plane, which explores the Russian painter and art theorist’s ideas on art and abstraction.
+"The Proliferation of Dots,” composed in 2024 by Moonhee Lee, was inspired by Wassily Kandinsky’s book Point and Line to Plane, which explores the Russian painter and art theorist’s ideas on art and abstraction.
 
 ---
 
