@@ -43,7 +43,33 @@ Moonhee Lee is currently professor at Hanyang University
 ---
 
 ## Instrumentation
-> This work made for full orchestra.
+
+* 2 flutes (2nd doubling Piccolo)
+* 1 oboe
+* 1 English horn
+* 2 clarinet in Bb (2nd doubling bass clarinet in Bb)
+* 1 bassoon
+* 1 contrabasson
+
+* 2 horns in F (use straight mute)
+* 2 trumpets in C (use wa-wa, cup, practice mute)
+* 2 trombones (uses plunger, cup mute)
+* 1 bass trombone (use straight mute)
+* 1 tuba (use straight mute)
+
+* timpani (tam-tam, cymbal with bow)
+
+* 2 percussions
+* I. vibraphone, glockenspiel, supended cymbal, mark tree
+* II. marimba, tubular  bell, bass drum
+
+* harp
+
+* violins I
+* violins II
+* violas
+* violoncellos
+* contrabasses (including 5th string)
 
 ---
 
