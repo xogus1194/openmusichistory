@@ -4,14 +4,13 @@
 <img src="chopin.png" width="400" height="400">
 </div>
 
-- [Timeline](#timeline)
 - [Piano sonata in b flat minor Op.35](#piano-sonata-in-b-flat-minor-op-35)
 - [Influences](#influences)
 - [Significance](#significance)
 - [Performance and Reception](#performance-and-reception)
 - [Listening Guide](#listening-guide)
 
-### Timeline
+## Timeline
 
 |Year|Event      |Description                                             |YouTube|
 |----|-------------------|------------------------------------------------|-------|
@@ -77,5 +76,3 @@ Observe how the movement avoids a clear melodic theme, instead creating a sense 
 </div>
 
 <img src="chopin_sonata.png">
-
-
