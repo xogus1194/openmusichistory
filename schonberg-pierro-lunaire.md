@@ -1,10 +1,7 @@
 # Arnold Franz Walter Schönberg
 ## _Pierro Lunaire_'s Explanation
 
-1. Composer : Arnold Schoenberg (1874.09.13. - 1951.07.13.)
-2. Year of Composition: 1912
-3. Structure : Song cycle based on 21 poems
-4. Original Poem : Albert Giraud
+ Arnold Schoenberg (1874.09.13 – 1951.07.13) composed this song in 1912, based on 21 poems by Albert Giraud.
 
 ---
 
@@ -18,12 +15,13 @@
 - [Guides for Further Studies](#guides-for-further-studies)
 
 ---
-
-## Timeline
-
 <div align="center">
 <img src="schoneberg.jpg" width="250px">
 </div>
+
+## Timeline
+
+
 
  | Year | Event        | Description                                       | YouTube                                                      |
  | ---- | ------------ | ------------------------------------------------- | -------------------------------------------------------------|
@@ -60,23 +58,24 @@ Similar to recitative but distinct, Sprechstimme is a unique technique that lies
 * Cello
 * Piano
 
-Comments: Explain what he wanted to express for each instrument.
-
 <div align="center">
-<img src="Pierrot Score.png" width="500px">
+<img src="pierro_newscore.png" width="1000px">
 </div>
 
 ---
 ## Importance
->He is an **influential figure** in 20th-century modern music, often associated with the Second Viennese School. His works explore new musical concepts, including “atonality” and the “twelve-tone technique.” Compared to Debussy, he is a pioneer of Expressionism and avant-garde music, an approach that later influenced Berg’s serialism.
-
-[Honestly, I'm confused with your style of writing. Can you make it more readable?]
+> He is an **influential figure** in 20th-century modern music, often associated with the Second Viennese School. His works explore new musical concepts, including “atonality” and the “twelve-tone technique.” Compared to Debussy, he is a pioneer of Expressionism and avant-garde music, an approach that later influenced Berg’s serialism.
 
 ---
 
 ## Questions for Review
 
+1.	What are the characteristic elements of this piece?
+
+2.	What method did schoenberg devise instead of functional tonality?
 
 ---
 
 ## Guides for Further Studies
+
+If you’re curious about composer Lee Moon-hee, who is currently teaching Schoenberg’s serial music, refer to the following [link](moonheelee-The-Proliferation-of-Dots.md)
