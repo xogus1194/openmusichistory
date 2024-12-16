@@ -9,12 +9,12 @@
 ---
 
 - [Timeline](#timeline)
-- [Fantasie Op. 17](#fantasie_op_17)
+- [Fantasie Op. 17](#fantasie-op-17)
   - [Background](#background)
-  - [Structure and Features](#structure_and_features)
-    - [First Movement: Durchaus phantastisch und leidenschaftlich vorzutragen](#first_movement_durchaus_phantastisch_und_leidenschaftlich_vorzutragen)
-    - [Second Movement: Mäßig. Durchaus energisch](#second_movement_mäßig_durchaus_energisch)
-    - [Third Movement: Langsam getragen. Durchweg leise zu halten](#third_movement_langsam_getragen_durchweg_leise_zu_halten)
+  - [Structure and Features](#structure-and-features)
+    - [First Movement: Durchaus phantastisch und leidenschaftlich vorzutragen](#first-movement-durchaus-phantastisch-und-leidenschaftlich-vorzutragen)
+    - [Second Movement: Mäßig. Durchaus energisch](#second-movement-mäßig-durchaus-energisch)
+    - [Third Movement: Langsam getragen. Durchweg leise zu halten](#third-movement-langsam-getragen-durchweg-leise-zu-halten)
   - [Legacy](#legacy)
 - [Questions for Review](#questions-for-review)
 - [Guides for Further Studies](#guides-for-further-studies)
@@ -32,7 +32,7 @@
 | 1835 | Meeting Clara Wieck | Schumann falls in love with Clara Wieck, leading to a passionate and challenging relationship. |
 | 1836 | Composing the Fantasy | Schumann composes the Fantasy in C Major, Op.17, inspired by his love for Clara and his admiration for Beethoven. |
 | 1837 | Revisions | Schumann revises and refines the Fantasy, finalizing it as a work of personal expression. |
-| 1839 | Publication | The Fantasy in C Major is published as Op.17 and dedicated to Franz Liszt. | [Watch](https://youtu.be/ZRZjHKX-JMA?si=Q22z0SyJQdcYoJHJ) 📺|
+| 1839 | Publication | The Fantasy in C Major is published as Op.17 and dedicated to Franz Liszt. | [Listen](https://youtu.be/ZRZjHKX-JMA?si=Q22z0SyJQdcYoJHJ) :tv:|
 | 1840 | Year of Song | Schumann marries Clara, and his compositional focus shifts to song cycles, including Dichterliebe. |
 | 1854 | Mental health crisis | Schumann experiences a severe mental health breakdown, leading to hospitalization. |
 | 1856 | Death | Schumann dies in a mental asylum near Bonn, leaving behind a legacy of profound and emotional music. |
@@ -51,13 +51,13 @@ Schumann’s Fantasy in C Major, Op.17 is one of his most celebrated works for s
 
 ### Structure and Features
 
-#### *First Movement: Durchaus phantastisch und leidenschaftlich vorzutragen*
+#### First Movement: Durchaus phantastisch und leidenschaftlich vorzutragen
 This expansive and improvisatory movement encapsulates Schumann’s emotional intensity and vivid imagination. It oscillates between moments of fiery passion and tender introspection. The inclusion of a quote from Beethoven’s An die ferne Geliebte reinforces the theme of distant love and longing, further underscoring the work’s deeply personal nature.
 
-#### *Second Movement: Mäßig. Durchaus energisch*
+#### Second Movement: Mäßig. Durchaus energisch
 A stark contrast to the first, this movement is structured and energetic, with a march-like rhythm and robust character. It exudes determination and strength, showcasing Schumann’s command of intricate textures and rhythmic vitality.
 
-#### *Third Movement: Langsam getragen. Durchweg leise zu halten*
+#### Third Movement: Langsam getragen. Durchweg leise zu halten
 The final movement serves as a lyrical and contemplative conclusion to the work. Marked by its serene beauty and introspective mood, it evokes a sense of quiet resolution. Schumann’s ability to weave delicate, singing melodies into complex harmonic landscapes is masterfully displayed here, bringing the Fantasy to a profoundly moving close.
 
 ### Legacy
@@ -69,5 +69,27 @@ The Fantasy in C Major stands as a testament to Schumann’s genius, capturing t
 ---
 
 ## Questions for Review
+1. The Fantasie in C Major, Op.17 consists of three movements. Describe the tempo markings and key features of each movement.
+2. To whom did Schumann dedicate this piece, and why?
+3. What is the musical quotation from Beethoven in the first movement, and what does it signify?
+4. Analyze the rhythmic features of the second movement and how they convey Schumann's intended emotions.
+5. The third movement is known for its emotional depth. What musical elements create this atmosphere?
+
+---
 
 ## Guides for Further Studies
+**1. Connection to Beethoven**
+
+Schumann’s *Fantasie in C Major* includes a musical quotation from Beethoven’s *An die ferne Geliebte*, reflecting his admiration for Beethoven and the Romantic ideal of distant love.  
+- [Ludwig van Beethoven - Britannica](https://www.britannica.com/biography/Ludwig-van-Beethoven)  
+
+**2. Romantic Expression in Schumann's Music** 
+
+Schumann’s music often explores deep emotional contrasts and Romantic ideals. This piece is an excellent example of blending personal emotion with artistic innovation.  
+- [Robert Schumann as Romantic Era Composer - aithor](https://aithor.com/essay-examples/robert-schumann-as-a-romantic-era-composer)
+
+**3. Relationship with Clara Schumann** 
+
+Clara Wieck profoundly influenced Schumann’s works, including this Fantasy, which captures his longing during their separation.  
+- [Clara Schumann’s Biography - Britannica](https://www.britannica.com/biography/Clara-Schumann)  
+
