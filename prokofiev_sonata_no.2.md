@@ -23,6 +23,11 @@ Also, this sonata was one of my performance pieces. Originally, I didn't particu
  -[IV. Vivace](#iv-vivace)
 - [Musical Significance](#musical-significance)
 - [Conclusion](#conclusion)
+- [Influences](#influences)
+- [Significance](#significance)
+- [Performance and Reception](#performance-and-reception)
+- [Questions for Review](#questions-for-review)
+- [Guides for Further Studies](#guides-for-further-studies)
 
 ---
 
