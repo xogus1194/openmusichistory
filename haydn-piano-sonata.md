@@ -105,6 +105,21 @@ Gould plays with clear, almost detached articulation that emphasizes clarity ove
 ---
 
 ## Questions-for Review
+- How does Haydn incorporate elements of surprise and humor into the sonata, particularly in the finale?
+
+  Haydn frequent use of unexpected harmonic shifts and contrasting dynamics creates a sense of playfulness and unpredictability, a hallmark of Haydn’s wit. These moments of surprise keep the listener engaged and add a lighthearted, humorous character to the movement.
+
+-  How would you describe the sonata’s character and emotional range?
+
+    It opens with a vigorous and joyful theme in C Major, full of rhythmic drive and forward momentum, evoking a sense of optimism and excitement. The movement also introduces contrast through a second theme in G Major, which is more lyrical and expressive, offering a moment of calm reflection before returning to the lively, playful nature of the opening. Overall, the emotional range is uplifting and balanced, with Haydn's characteristic wit and lightness evident throughout the movement.
+
+
 ## Guide for further studies
 Compare with sonatas by Haydn and Beethoven for stylistic differences. 
 [Compare with sonatas](https://data.carnegiehall.org/datalab/experiments/chdl-0003/)
+
+This platform offers discussions, performance advice, and sheet music, helping pianists understand the challenges and nuances of the sonata​
+[Sheet music and discussions](https://www.pianostreet.com/haydn-sheet-music/sonatas/sonata-hob-16-50-c-major.htm)
+
+ A detailed breakdown of the sonata's whole movements, harmonic structures, and thematic development, which will deepen your understanding of Haydn's compositional techniques
+[Analysis](https://tonic-chord.com/haydn-piano-sonata-in-c-major-hob-xvi50-analysis/)
