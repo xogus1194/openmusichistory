@@ -86,22 +86,13 @@ Lastly, this concerto left a long-lasting mark on the piano concerto tradition. 
 
 ## Performance and Reception
 
-(This section is still only a copy from chatgpt's writing. Will be refined soon)
+The "Emperor" premiered in Leipzig Gewandhaus on November 28, 1811, with Friedrich Schneider as the soloist. Beethoven’s hearing loss had prevented him from performing the concerto himself. The Vienna premiere in 1812 featured Carl Czerny, one of Beethoven’s most popular pupils, as the pianist.
 
-Performance History
-The "Emperor" premiered in Leipzig on November 28, 1811, with Friedrich Schneider as the soloist. Unfortunately, Beethoven’s hearing loss prevented him from performing the concerto himself. The Vienna premiere in 1812 featured Carl Czerny, one of Beethoven’s most notable pupils, as the soloist.
+At first, the concerto received mixed reviews. While its grandeur and majesty impressed some, its length and intricacy confused others. However, as time passes, critics and audiences came to admire its heroic spirit, lyrical beauty, and majestic sublime.
 
-The concerto is marked by its revolutionary structure and technical demands. The opening, with its bold orchestral chords interrupted by virtuosic piano cadenzas, was unprecedented for the time. Unlike earlier concertos, the first movement avoids an extended solo cadenza near the end, instead integrating the soloist and orchestra in a collaborative finale.
+The nickname "Emperor" was not given by Beethoven himself, but likely arose because of the majesty and magnificance of the music. It illustrates the triumph and heroic character of Beethoven’s middle period.
 
-Reception
-Initially, the concerto received mixed reviews. While its grandeur impressed some, its length and complexity puzzled others. Over time, however, critics and audiences came to admire its innovative spirit, lyrical beauty, and heroic character.
-
-The nickname "Emperor" was not given by Beethoven but likely arose due to the majestic and regal nature of the music. It captures the triumph and defiance characteristic of Beethoven’s middle period.
-
-In modern times, the "Emperor" is celebrated as one of the greatest piano concertos ever written. Renowned pianists such as Arthur Rubinstein, Vladimir Horowitz, and Emil Gilels have brought their interpretations to life, each adding to its legacy. Audiences are continually captivated by its powerful first movement, tender second movement (Adagio un poco mosso), and jubilant finale.
-
-Legacy
-The "Emperor Concerto" exemplifies Beethoven’s ability to push the boundaries of the classical concerto form. Its rich orchestration and virtuosic piano writing serve as a bridge between the Classical and Romantic eras. Today, it remains a cornerstone of concert repertoire, a testament to Beethoven’s genius, and a work that continues to inspire performers and listeners alike.
+In modern times, the "Emperor" is cherished as one of the greatest piano concertos ever written. Renowned pianists such as Arthur Rubinstein, Vladimir Horowitz, and Emil Gilels have brought their interpretations to life, each adding to its legacy. Audiences are continually fascinated by its powerful first movement, tender second movement, and triumphant finale.
 
 ## Listening Guide
 
