@@ -74,17 +74,11 @@ The Emperor Concerto also influenced the way pianists play piano concertos, whic
 
 ## Significance
 
-(This section is still only a copy from chatgpt's writing. Will be refined soon)
+This particular concerto has has several significant influences, especially to the compositions after Beethoven's time.
 
-1. A Revolution in the Piano Concerto Form
-Beethoven expanded the scope and ambition of the piano concerto with the Emperor. It marked a departure from the traditional Classical concerto format, where the orchestra primarily supported the soloist. Instead, Beethoven established a dynamic interplay between the piano and orchestra, elevating the concerto to a dialogue of equals.
+First of all, Beethoven expanded the freedom and ambition of the piano concerto with the Emperor Concerto. Unlike traditional concerto format, where orchestra supported the soloist, Beethoven established an interactive dialogue between the piano and orchestra, thus making both parts have equal position in this concerto. Beethoven also created a revolutionary opening remark of the piece: the soloist enters immediately with a grand and majestic quasi-cadenza, which is unusual for Beethoven's time. Furthermore, by removing the traditional cadenza before the coda part in the first movement and instead integrating the soloist more fully into the music with the orchestra, Beethoven showed us an alternative way of a concerto form.
 
-The opening alone is revolutionary: the soloist enters almost immediately with a cascade of virtuosic flourishes, defying expectations of the time. By omitting the traditional cadenza in the first movement and integrating the soloist more fully into the musical narrative, Beethoven demonstrated a bold rethinking of the concerto form.
-
-2. Bridging the Classical and Romantic Eras
-Composed during Beethoven's "Heroic Period," the Emperor Concerto embodies the transition from the structured elegance of the Classical era to the emotional expressiveness of the Romantic era. Its grandeur, lyricism, and dramatic contrasts exemplify Beethoven's ability to infuse personal and universal themes into his music, setting the stage for later Romantic composers like Liszt, Chopin, and Brahms.
-
-The work's emotional breadth is particularly notable. The majestic and commanding first movement (Allegro) is followed by a serene and introspective Adagio un poco mosso, leading into a triumphant and jubilant Rondo. This progression mirrors Beethoven's characteristic exploration of struggle and resolution, resonating deeply with audiences.
+Secondly, composed during Beethoven's "Heroic Period," this Concerto shows the transition from the structured elegance of the Classical era to the emotional expressiveness of the Romantic era. Its gloriousness, lyricism, and dramatic contrasts represent Beethoven's ability to fill personal and universal themes into his music, thus setting the stage for later Romantic composers like Liszt, Chopin, and Brahms. The work's emotional depth is particularly notable. The majestic and magnificant first movement (Allegro) is followed by a calm and introspective Adagio un poco mosso, and leads into a triumphant and lively Rondo. This progression represents Beethoven's characteristic exploration of struggle and resolution, which resonates deeply with audiences.
 
 3. Symbol of Resilience
 The concerto was written during a period of personal and political turmoil. Beethoven's increasing deafness isolated him, while Vienna's occupation by Napoleon's forces underscored a time of upheaval. Yet, the Emperor Concerto radiates triumph and resilience, symbolizing Beethoven's defiance in the face of adversity. Its heroic tone reflects not only Beethoven's inner strength but also the broader spirit of humanity overcoming challenges.
