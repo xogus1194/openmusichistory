@@ -22,7 +22,7 @@ Beethoven's Sonata "Waldstein" shows innovation and originality in the sonata fo
 **Dedication**: Count Ferdinand von Waldstein
 
 
-This piece was directly influenced by Mozart' symphony, especially [Mozart Symphony No.41](mozart-symphony.md). 
+This piece was directly influenced by Mozart' symphony, especially [Mozart Symphony No.41](mozart-symphony.md). (This is not true.)
 
 
 <img src="beethoven-for.png">
