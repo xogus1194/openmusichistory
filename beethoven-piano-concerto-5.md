@@ -96,8 +96,6 @@ In modern times, the "Emperor" is cherished as one of the greatest piano concert
 
 ## Listening Guide
 
-(This section is still only a copy from chatgpt's writing. Will be refined soon)
-
 I. Allegro (E-flat Major)
 Duration: ~20 minutes
 
@@ -123,7 +121,7 @@ Duration: ~10 minutes
 Tips for Enhanced Listening:
 - Focus on Transitions: Beethoven’s seamless transitions between movements, especially from the second to the third, are masterful. Pay attention to how these moments connect the emotional narrative.
 - Notice the Balance: Throughout the concerto, Beethoven achieves a remarkable balance between the solo piano and the orchestra, creating a dialogue rather than a battle.
-- Feel the Arc: The piece moves from grandeur (I), to introspection (II), to joyous celebration (III), creating an emotional arc that mirrors Beethoven’s heroic ideals.
+- Feel the Arc: The piece moves from majesty (I), to introspection (II), to jubilant celebration (III), creating an emotional arc that mirrors Beethoven’s heroic ideals.
 Beethoven’s "Emperor" Concerto is a tour de force that rewards repeated listening with new insights each time. Let its grandeur and beauty transport you to a world of triumph and inspiration!
 
 ## Questions for Review
