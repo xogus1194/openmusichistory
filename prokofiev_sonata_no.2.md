@@ -110,11 +110,20 @@ The sonata demands high technical skill from the performer, but this virtuosity 
 ---
 ## Influences
 
+**Prokofiev's Sonata No. 2** reflects the influence of Russian folk music, late Romanticism, contemporary composers like Scriabin, and the experimental elements of early 20th-century modernism, while showcasing his distinctive and powerful musical individuality.
+
 ## Significance
+
+**Prokofiev's Sonata No. 2** is a pivotal work that established his early compositional style, innovatively reinterpreting the traditional sonata form while serving as a crucial bridge between Russian musical heritage and 20th-century modernism.
 
 ## Performance and Reception
 
+**Prokofiev's Sonata No. 2**, premiered in St. Petersburg in 1914, received both praise and controversy for its bold, experimental style, and has since been recognized as an early masterpiece, becoming an important repertoire for modern pianists.
+
 ## Questions for Review
+
+
 
 ## Guides for Further Studies
 
+To study Prokofiev's Piano Sonata No. 2 in depth, it is helpful to start with sheet music and practice materials. Musopen offers free sheet music, and the Piano Street forum provides discussions sharing various performances and interpretations of the piece. Additionally, books like *Prokofiev's Piano Sonatas: A Guide for the Listener and the Performer* and papers such as *Cadences in Prokofiev's Piano Sonatas* offer in-depth analysis. Moreover, you can listen to actual performances and experience different interpretations by accessing free MP3 files available on Musopen.
