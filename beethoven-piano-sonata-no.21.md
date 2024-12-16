@@ -35,9 +35,13 @@ This piece was directly influenced by Mozart' symphony, especially [Mozart Symph
 - [Structure](#structure)
 - [Musical Significance](#musical-significance)
 - [Conclusion](#conclusion)
+- [Influences](#influences)
+- [Significance](#significance)
+- [Performance and Reception](#performance-and-reception)
+- [Questions for Review](#questions-for-review)
+- [Guides for Further Studies](#guides-for-further-studies)
 
-
-
+  
 
 ---
 
@@ -149,8 +153,7 @@ The "Waldstein" Sonata is a stunning demonstration of Beethoven’s genius, mark
 ---
 
 
-## Influences
-
+## Influences   
 **Beethoven's Piano Sonata No. 21 "Waldstein" (Op. 53)** is an innovative work that goes beyond traditional sonata form, containing a grand structure and emotional depth that had a significant impact. The sonata attempts a bold departure from traditional sonata form by using an expansive structure, which influenced the composition of later sonatas. It also expresses deep and complex emotions, further emphasizing Beethoven's inner emotional world and expression. Technically, the piece is highly challenging, with complex passages and rapid tempos, expanding piano technique and introducing new methods of playing. Harmonically, it moves beyond traditional harmony, showing an innovative approach that influenced future composers. "Waldstein" served as an important inspiration for later composers such as Chopin, Liszt, and Brahms, and stands as a key milestone in the development of modern piano sonatas.
 
 ## Significance
