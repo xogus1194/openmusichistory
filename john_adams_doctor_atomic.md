@@ -78,13 +78,17 @@ Continues to be relevant as it reflects on the ethical dilemmas of technology an
 "Batter my heart" is a poignant aria from John Adams' opera Doctor Atomic, performed by the character of J. Robert Oppenheimer. The text is adapted from a metaphysical sonnet by John Donne, which portrays a deeply personal plea to God for spiritual renewal through forceful intervention.
 In the opera, the aria occurs at a climactic moment, reflecting Oppenheimer's internal conflict as he grapples with the moral implications of his role in creating the atomic bomb. The aria’s intense, introspective nature mirrors his anguish and sense of responsibility for unleashing a power capable of unprecedented destruction.
 
+---
+
 ### Listening Guide
  [Opera Nixon in China"I am the wife of Mao Tse-tung"](https://www.youtube.com/watch?v=0mtMI_huRtY)
  
  [Opera "Doctor Atomic" Full version](https://www.youtube.com/watch?v=PKvKHl9qskk&pp=ygUTZG9jdG9yIGF0b21pYyBvcGVyYQ%3D%3D)
  
  [Doctor Atomic-Act I, Scene 3 "Batter my heart"](https://www.youtube.com/watch?v=AlUHKHLk_VU)
-  
+
+---
+
 ## Questions-for Review
 - Do you think operas like John Adams’s are more effective at addressing contemporary issues than traditional operas?
 
