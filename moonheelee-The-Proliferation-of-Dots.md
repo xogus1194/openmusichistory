@@ -8,7 +8,7 @@ The Proliferation of Dots,” composed in 2024 by Moonhee Lee, was inspired by W
 - [Timeline](#timeline)
 - [Who is Moonhee Lee?](#who-is-moonhee-lee)
 - [Instrumentation](#instrumentation)
-- [Importance](#importance)
+- [What is this piece?](#what-is-this-piece)
 
 ---
 
@@ -47,12 +47,19 @@ Moonhee Lee is currently professor at Hanyang University
 
 ---
 
-## Importance
-> It is the first premiere of composer Moonhee Lee’s work in 2024.
+## What is this piece?
+> It is the first premiere of composer Moonhee Lee’s work in 2024. This piece is the result of his first compositional exploration inspired by reading Point and Line to Plane, a book written by Wassily Kandinsky (1866–1944), a Russian-born painter and art theorist. After reading the book, I moved beyond the simple approach I had previously taken—that a point connects to form a line, and lines combine to form a plane. Instead, I began considering the formal qualities and inherent characteristics of points, lines, and planes, which led me to compose a series of independent pieces based on these elements. In Point and Line to Plane, I was particularly intrigued by Kandinsky’s explanation of the “reproductive power” of points. Just as seeds and cells in nature inherently hold potential for reproduction, points, as their numbers increase, provide a foundation for more diverse forms to emerge. Linguistically, points connect sentences, playing a crucial role in the development of a narrative. In visual art, points are created by tools striking a surface, and the continuation of these strikes gives rise to shapes. Drawing from this perspective, I conceptualized the proliferation of points in this piece as the emergence of specific sounds and their residual musical traces.
+
+> The piece begins with indistinct resonances from percussion instruments like tam-tams and mark trees, alongside the orchestral sonorities of lingering reverberations. Gradually, point-like sounds emerge in various registers, accumulating and overlapping with tonal echoes. A central tone grows into a cluster of surrounding tones, while the vertically layered accents of multiple instruments expand amidst irregular rhythms. Particularly, pizzicatos and other brief accent flashes develop into rhythmic proliferations of shorter sounds, further extending into sonorous tremolos, trills, and eventually evolving into polyrhythms across various instruments.
 
 ---
 
 ## Questions for Review
+
+Q1. Which Russian-born painter inspired the theme of this piece?
+
+
+Q2. Which percussion instruments were used to create indistinct sounds at the beginning of this piece?
 
 
 ---
