@@ -6,7 +6,8 @@ Mozart opened new paths in various genres, including symphonies, concertos, oper
 
 <img src="mozart.png">
 
-- [Mozart's Symphony No. 41 in C major, K. 551](#mozart's-symphony-no-41-c-major-k-551)
+- [Timeline](#timeline)
+- [Mozart's Symphony No. 41 in C major, K. 551](#mozart-symphony-no-41-in-c-major-k-551)
 - [*Description of each movement*](#description-of-each-movement)
 - [Movement I: Allegro vivace](#movement-i-allegro-vivace)
 - [Movement II: Andante cantabile](#movement-ii-andante-cantabile)
@@ -17,9 +18,18 @@ Mozart opened new paths in various genres, including symphonies, concertos, oper
 - [Questions for Review](#questions-for-review)
 - [Guides for Further Studies](#guides-for-further-studies)
 
-
+## Timeline
+|      Year     | Event              | Description                                                                     | Youtube                                                      |
+|---------------|--------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------|
+| **1756**      | Birth              | Born on January 27, 1756, in Salzburg, Austria.                                 |                                                              |
+| **1761**      | First Composition  | At the age of 5, Mozart composed his first piece of music.                      |                                                              |
+| **1763**      | European Tour      | Mozart's family embarked on a grand tour of Europe.                             |                                                              |
+| **1781**      | Move               | Mozart left Salzburg and moved to Vienna.                                       |                                                              |
+| **1782**      | Success            | Mozart composed many of his iconic works in Vienna.                             |                                                              |
+| **1788–1790** | Composition        | During this period, he composed Symphonies No. 39, 40, and 41(Jupiter Symphony).| [Listen](https://youtu.be/UsNk-7j9lpY?si=hBFG4aCaa5h6lJKw)🎵 | 
+| **1791**      | Death              | Mozart passed away on December 5, 1791, at the age of 35.                       |                                                              |
   
-## Mozart's Symphony No. 41 in C major, K. 551
+## Mozart Symphony No. 41 in C major, K. 551
 Mozart's Symphony No. 41 in C major, K. 551, commonly known as the Jupiter Symphony, was his last symphony and was composed in 1788. 
 The Jupiter Symphony raised classical formal beauty and balance to the highest level. Each movement is elaborately composed, and the melody and harmony are perfectly harmonized, making it an ideal model of a classical symphony. In particular, the fugue finale of the last movement is considered the pinnacle of classical symphonic composition.
 Moreover, it goes beyond simple formal completion and expresses the multi-layered aspects of human emotions. From the energetic theme of the first movement to the lyrical and emotional melody of the second movement, the classical elegance of the third movement, and the majesty and grandeur of the fourth movement, it captures a wide range of emotions and leaves a strong impression on the listener.

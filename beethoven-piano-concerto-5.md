@@ -1,11 +1,12 @@
 # Ludwig van Beethoven (1770-1827)
+
 ![image](https://github.com/user-attachments/assets/65fc2549-fc64-450e-af51-e8633467864a)
 
 Beethoven is one of the most influential composers in classical music. Although Beethoven lived in classical era, especially when he was young, he did not follow any specific schools, guilds, or circles of composers that would influence his works, instead, he was courageous to explore and create music that was new and different.
 
 Beethoven has set groundbreaking innovations in composing music. First, he broke the boundaries of classical era music that emphasizes clarity, lightness, and beauty, by composing darker, deeper, and sublime music. By doing this, he allowed his emotions and personal expressions to be in music. Second, he also explored new ways of playing music, such as making more virtuosic compositions that require more virtuosic and technical skill from performers. Third, he experimented with symphonic forms, leading him to compose his ninth symphony, the first-ever symphony not only performed by an orchestra but also by a choir. Therefore, it is not too much to say that Beethoven is the gate of romanticism, where he allowed later musicians to express their feelings in music and explore new harmonization and formation in composing music.
 
-![image](https://github.com/user-attachments/assets/01a5ae87-833a-47e0-b008-f7d4776bf932)
+<img src="https://github.com/user-attachments/assets/01a5ae87-833a-47e0-b008-f7d4776bf932" width="400" />
 
 A picture of Beethoven "breaking" the rules of classical era music and innovating romanticism.
 
@@ -21,23 +22,21 @@ A picture of Beethoven "breaking" the rules of classical era music and innovatin
 - [Questions for Review](#questions-for-review)
 - [Guides for Further Studies](#guides-for-further-studies)
 
-[The sentences seem too long. It might be better to condense it to just introduce his major works.]
-
 ## Timeline
 
-| Year | Event                            | Description                                                                 |
-|------|----------------------------------|-----------------------------------------------------------------------------|
+| Year | Event                            | Description                                                                 | YouTube |
+|------|----------------------------------|-----------------------------------------------------------------------------|-----------|
 | **1770** | Birth                           | Born on December 17, 1770, in Bonn, Germany.                                |
-| **1782** | First Composition               | Composed his first composition, the Nine Variations on a march, WoO 63      |
+| **1782** | First Composition               | Composed his first composition, the Nine Variations on a march, WoO 63      | [Listen](https://www.youtube.com/watch?v=_1ZGPKKuBxM&pp=ygUQYmVldGhvdmVuIHdvbyA2Mw%3D%3D) :tv: |
 | **1787** | Study with Mozart                | Briefly studies with Mozart in Vienna to expand his musical knowledge.      |
 | **1792** | Moves to Vienna                  | Moves to Vienna to study with Haydn and begins his career as a composer.     |
 | **1795** | First Public Performance         | First public performance in Vienna, marking his professional debut.          |
 | **1798** | Hearing Loss                     | Begins to lose his hearing, a challenge that would shape his later works.    |
-| **1803** | *Symphony No. 3* (Eroica)         | Completes *Symphony No. 3*, *Eroica*, marking a new direction in his style.  |
-| **1808** | Premieres *Symphony No. 5*        | Premieres *Symphony No. 5* and *Symphony No. 6* in Vienna.                   |
-| **1809** | Composes *Piano Concerto No. 5*   | Composes *Piano Concerto No. 5* (Emperor Concerto), a monumental piano work. |
-| **1814** | *Fidelio* Premiered               | Premieres *Fidelio*, his only opera, after several revisions.                |
-| **1824** | Premieres *Symphony No. 9*        | Premieres *Symphony No. 9*, famous for the *Ode to Joy*.                     |
+| **1803** | *Symphony No. 3* (Eroica)         | Completes *Symphony No. 3*, *Eroica*, marking a new direction in his style.  | [Listen](https://www.youtube.com/watch?v=dTbesxdLwo8) :tv: |
+| **1808** | Premieres *Symphony No. 5*        | Premieres *Symphony No. 5* in Vienna.                   | [Listen](https://www.youtube.com/watch?v=yKl4T5BnhOA&t=888s) :tv: |
+| **1809** | Composes *Piano Concerto No. 5*   | Composes *Piano Concerto No. 5* (Emperor Concerto), a monumental piano work. | [Listen](https://www.youtube.com/watch?v=hDXWK3W477w&pp=ygUaYmVldGhvdmVuIHBpYW5vIGNvbmNlcnRvIDU%3D) :tv: |
+| **1814** | *Fidelio* Premiered               | Premieres the final version of *Fidelio*, his only opera, after several revisions.                | [Listen](https://www.youtube.com/watch?v=1FtNv37Dxwo) :tv: |
+| **1824** | Premieres *Symphony No. 9*        | Premieres *Symphony No. 9*, famous for the *Ode to Joy*.                     | [Listen](https://www.youtube.com/watch?v=ixpfgm_xxSE&pp=ygUUYmVldGhvdmVuIHN5bXBob255IDk%3D) :tv: |
 | **1827** | Death                            | Passes away on March 26, 1827, in Vienna. Over 10,000 people attend his funeral. |
 
 ## Piano Concerto No. 5, Op. 73
@@ -59,7 +58,7 @@ The second movement unfolds in the surprising key of B major, creating a peacful
 From quiet tranquility, Beethoven made the third movement burst into life with energetic rhythm, broad, joyful lines, and vibrant colors. The melody played at the end of the second movement becomes the main theme with powerful syncopated rhythms and bold phrases, interspersed with imaginative, playful episodes. Near the end, the music slows down while becoming calm, with only the duet of piano and timpani with pianissimo dynamic. Suddenly, the piano soars majestic scale passages preceding the flourishing orchestra, marking the grandious and massive ending of the whole piano concerto.
 
 ![Piano Concerto No  5, Op  73 accompaniment-1](https://github.com/user-attachments/assets/35f00c9e-fabd-4f36-9e5d-a454c4646fe2)
-![Piano Concerto No  5, Op  73 accompaniment-2](https://github.com/user-attachments/assets/bd058033-c716-4cfe-a7e1-b3854e3f6a48)
+![Piano Concerto No  5, Op  73 accompaniment-2](https://github.com/user-attachments/assets/44b943e7-a8a4-4e74-ad76-1401b711fb05)
 
 This is an example of the piano accompanying the orchestra in the piano concerto.
 
