@@ -66,4 +66,4 @@ Q2. Which percussion instruments were used to create indistinct sounds at the be
 
 ## Guides for Further Studies
 
-
+Professor Lee Moon-hee is currently teaching 20th Century Music 4 at Hanyang University. If you’re curious about one of the key figures discussed in this course, Arnold Schoenberg, you can refer to this [link](schonberg-pierro-lunaire.md)
