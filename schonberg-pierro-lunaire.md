@@ -58,23 +58,24 @@ Similar to recitative but distinct, Sprechstimme is a unique technique that lies
 * Cello
 * Piano
 
-Comments: Explain what he wanted to express for each instrument.
-
 <div align="center">
 <img src="pierro_newscore.png" width="1000px">
 </div>
 
 ---
 ## Importance
->He is an **influential figure** in 20th-century modern music, often associated with the Second Viennese School. His works explore new musical concepts, including “atonality” and the “twelve-tone technique.” Compared to Debussy, he is a pioneer of Expressionism and avant-garde music, an approach that later influenced Berg’s serialism.
-
-[Honestly, I'm confused with your style of writing. Can you make it more readable?]
+> He is an **influential figure** in 20th-century modern music, often associated with the Second Viennese School. His works explore new musical concepts, including “atonality” and the “twelve-tone technique.” Compared to Debussy, he is a pioneer of Expressionism and avant-garde music, an approach that later influenced Berg’s serialism.
 
 ---
 
 ## Questions for Review
 
+1.	What are the characteristic elements of this piece?
+
+2.	What method did schoenberg devise instead of functional tonality?
 
 ---
 
 ## Guides for Further Studies
+
+If you’re curious about composer Lee Moon-hee, who is currently teaching Schoenberg’s serial music, refer to the following [link](moonheelee-The-Proliferation-of-Dots.md)
