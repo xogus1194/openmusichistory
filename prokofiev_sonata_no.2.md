@@ -110,19 +110,49 @@ The sonata demands high technical skill from the performer, but this virtuosity 
 ---
 ## Influences
 
-**Prokofiev's Sonata No. 2** reflects the influence of Russian folk music, late Romanticism, contemporary composers like Scriabin, and the experimental elements of early 20th-century modernism, while showcasing his distinctive and powerful musical individuality.
+**Prokofiev's Sonata No. 2** is an important work that establishes his early compositional style and reflects various musical influences. The piece incorporates elements of Russian folk music, reinterpreting its rhythms and melodies in a modern way, thus offering a fresh take on the musical traditions of his homeland. Additionally, Prokofiev was influenced by late Romanticism, using emotional and dramatic melodies that show the impact of composers like Tchaikovsky and Rachmaninoff. However, at the same time, he incorporated elements of early 20th-century modernism, introducing dissonance, unconventional harmonies, and unpredictable structures, offering a new musical approach. Influenced by Scriabin, Prokofiev also explored experimental harmonic and coloristic elements. This synthesis of various musical influences makes the sonata unique. While it caused controversy at its premiere, over time, it has become an important milestone in proving Prokofiev's distinctive musical language.
 
 ## Significance
 
-**Prokofiev's Sonata No. 2** is a pivotal work that established his early compositional style, innovatively reinterpreting the traditional sonata form while serving as a crucial bridge between Russian musical heritage and 20th-century modernism.
+**Prokofiev's Piano Sonata No. 2** is a highly significant work in his early career, as it represents a key moment in the development of his unique compositional voice. The piece blends elements of Russian folk music with the emotional intensity of late Romanticism, while simultaneously embracing the experimental approaches of early 20th-century modernism. By incorporating dissonance, unconventional harmonies, and unpredictable structural elements, Prokofiev pushes the boundaries of traditional sonata form, establishing a new musical language. This work not only reflects his diverse influences but also marks a turning point in his transition from the Romantic traditions to a more modern, innovative style, making it an important milestone in his artistic journey.
 
 ## Performance and Reception
 
-**Prokofiev's Sonata No. 2**, premiered in St. Petersburg in 1914, received both praise and controversy for its bold, experimental style, and has since been recognized as an early masterpiece, becoming an important repertoire for modern pianists.
+Prokofiev's Piano Sonata No. 2 (Op. 14) was premiered on February 5, 1914, in St. Petersburg, with Prokofiev himself performing the piece. The premiere elicited strong reactions from both the audience and critics.
+
+### Performance Reactions and Reception:
+
+1. **Positive Reactions**  
+   Some audience members and critics praised Prokofiev's bold and innovative musical approach. The piece's intense energy, rhythmic drive, and contrasting lyrical elements were seen as a modern and groundbreaking interpretation of Russian musical traditions. Prokofiev's unique style was further solidified through this work, showcasing his distinct musical personality.
+
+2. **Controversy and Shock**  
+   However, the work also shocked some more conservative listeners, who were taken aback by its dissonance, irregular structure, and unconventional harmonic progressions. The piece was viewed as "provocative" and "difficult to understand," as it did not adhere to the traditional musical standards of the time.
+
+3. **Long-term Evaluation**  
+   Over time, the piece has come to be recognized as a key work in Prokofiev's early piano output and is widely performed by modern pianists. While it initially caused controversy, it has since been appreciated as a pivotal work that marks a significant point in Prokofiev's development, both as an artist and as a composer.
+
+**Summary**: Prokofiev's Sonata No. 2 provoked strong reactions and controversy at its premiere, but over time, it has become an important work that highlights Prokofiev's unique musical identity, marking a significant turning point in his career.
+
 
 ## Questions for Review
 
+Here are some questions to consider when reviewing Prokofiev's Piano Sonata No. 2:
 
+1. **Compositional Techniques**: What compositional techniques does Prokofiev use in this piece, and how do they differentiate it from his other works?
+
+2. **Musical Influences**: Prokofiev was influenced by Russian folk music, late Romanticism, and modernism. How do these elements combine and manifest in this sonata?
+
+3. **Structure and Form**: This sonata deviates from traditional sonata form. How are non-traditional structures and forms applied in this piece, and what musical effects result from these choices?
+
+4. **Harmony and Dissonance**: Prokofiev uses dissonance and unconventional harmony extensively. How do these elements contribute to the musical expression in this sonata?
+
+5. **Rhythm and Texture**: What role do the rhythmic characteristics and textures in the piece play, and how do they influence the emotional and musical flow of the work?
+
+6. **Reception at Premiere**: The sonata caused significant controversy at its premiere. What were the reasons for this, and how has the reception of the piece changed over time?
+
+7. **Interpretation by Pianists**: What are the key interpretative elements a pianist should consider when performing this work, and how might interpretations of the piece vary across different performances?
+
+These questions will help facilitate a deeper analysis and understanding of Prokofiev's Piano Sonata No. 2.
 
 ## Guides for Further Studies
 
