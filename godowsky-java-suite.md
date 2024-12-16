@@ -4,7 +4,7 @@
 
 Leopold Godowsky was a Lithuania-born American composer and virtuoso pianist, known for his extraordinary piano technique. As a performer, Godowsky could navigate the most challenging passages with remarkable effortlessness. Equally gifted as an improviser, his impromptu encores often left a more lasting impression than the pieces originally featured on his program. 
 
-For most of the time of his career as a composer, Godowsky wrote music only for piano, except for some arrangements he made for strings and piano. He was heavily influenced by Chopin and Liszt. Inspired from Chopin, Godowsky really loved the piano's ability to produce a pure, singing tone and to offer endless opportunities to explore layered techniques and nuanced tonal colors---that's why he chose to explore those sounds in his beloved, instrument, piano, instead of writing music for orchestras or ensembles. Unlike Liszt who was the first to reproduce the vastness and intensity of symphonic orchestration into the piano, Godowsky translated the rich and dynamic orchestral sound to contrapuntal piano textures while preserving the sensitivity of pure piano sound and colors that can be found in Chopin's works, including his [second piano sonata](chopin-piano-sonata.md).
+For most of the time of his career as a composer, Godowsky wrote music only for piano, except for some arrangements he made for strings and piano. He was heavily influenced by Chopin and Liszt. Inspired from Chopin, Godowsky really loved the piano's ability to produce a pure, singing tone and to offer endless opportunities to explore layered techniques and nuanced tonal colors---that's why he chose to explore those sounds in his beloved, instrument, piano, instead of writing music for orchestras or ensembles. Unlike Liszt who was the first to reproduce the vastness and intensity of symphonic orchestration into the piano, Godowsky translated the rich and dynamic orchestral sound to contrapuntal piano textures while preserving the sensitivity of pure piano sound and colors that can be found in Chopin's works, including his [Piano Sonata No. 2 in B-Flat Minor, Op. 35](chopin-piano-sonata.md).
 
 Not only a composer, Godowsky was also one of the most succesful concert pianists of his time. Starting at the young age, Godowsky had been keeping a busy schedule as a concert pianist (giving 107 concerts in 1891 within the US and Canada), including doing tours around the world to perform too, until 1930 when he suffered from stroke. He also left prominent remarks as a pedagogue, where developed the weight-release theory to release tension and to boost the most efficient 
 method of playing the piano and became a piano teacher in the USA and Europe.
@@ -43,8 +43,8 @@ countries. Between 1921 and 1925, Godowsky went to Central and South American co
 
 ## Timeline
 
-| Year       | Event                                   | Description                                                                                          |
-|------------|-----------------------------------------|------------------------------------------------------------------------------------------------------|
+| Year       | Event                                   | Description                                                                                          | Youtube |
+|------------|-----------------------------------------|------------------------------------------------------------------------------------------------------|---------|
 | **1870**   | Birth                                   | Born on February 13, 1870, in Žasliai, Russian Empire (now Lithuania). Orphaned at a young age.      |
 | **1876**   | First Exposure to Piano                 | Begins studying piano under his cousin; displays prodigious talent.                                 |
 | **1882**   | Concert Debut                           | Performs his first concert at age 12, captivating audiences with his technique and expressiveness.   |
@@ -52,11 +52,11 @@ countries. Between 1921 and 1925, Godowsky went to Central and South American co
 | **1884**   | U.S. Debut                              | Giving his first concert in the United States
 | **1890**   | Moves to U.S.                           | Moves to the United States, becoming a sought-after pianist and educator in New York College of Music. |
 | **1900**   | Acclaimed in Europe                     | Gains international fame, performing in prestigious venues and collaborating with major musicians.   |
-| **1910**   | Completes *Studies on Chopin Études*    | Publishes 53 virtuosic re-imaginings of Chopin’s Études, showcasing his contrapuntal and technical innovations. |
-| **1920**   | *Triakontameron* Published              | Releases *Triakontameron*, a set of 30 character pieces, blending poetry and music.                  |
+| **1910**   | Completes *Studies on Chopin Études*    | Publishes 53 virtuosic re-imaginings of Chopin’s Études, showcasing his contrapuntal and technical innovations. | [Listen](https://www.youtube.com/watch?v=ka2lrfp5C-g&t=277s) :tv: |
+| **1920**   | *Triakontameron* Published              | Releases *Triakontameron*, a set of 30 character pieces, blending poetry and music.                  | [Listen](https://www.youtube.com/watch?v=6rxnvT_WiS4) :tv: | 
 | **1922**   | Tours Asia                              | Godowsky’s travels introduce him to Eastern cultures, laying the groundwork for his later works.    |
 | **1923**   | Travels to Java                         | Visits the Dutch East Indies (modern Indonesia) during his Southeast Asia tour for 4 weeks, captivated by Javanese culture. |
-| **1924-1925** | Composes *Java Suite*                 | Inspired by his experiences in Java, he writes the suite, blending gamelan elements and European pianism. |
+| **1924-1925** | Composes *Java Suite*                 | Inspired by his experiences in Java, he writes the suite, blending gamelan elements and European pianism. | [Listen](https://www.youtube.com/watch?v=43QwWJdH4o4) :tv: |
 | **1925**   | Completes *Java Suite*                  | Publishes the *Java Suite*, comprising 12 tone-pictures that reflect the landscapes, myths, and traditions of Java. |
 | **1928**   | Final Major Tour                        | Undertakes one of his last concert tours before health issues begin to limit his activities.         |
 | **1930**   | Stroke and Retirement                   | Suffers a debilitating stroke, which paralyzes his right hand and curtails his performance career.   |
@@ -110,27 +110,27 @@ Hari Besar, or The Great Day, is when the people are celebrating holiday by crea
 
 In this movement, Godowsky took inspirations from Seelig's Javanese Rhapsody for orchestra for the opening theme and two authentic Javanese tunes: Krawita and Kanjut, as main themes.
 
-![Theme of Javanese Rhapsody for Orchestra-1](https://github.com/user-attachments/assets/2fc95e8f-37d7-471e-b38f-11852f8b7782)
+![Theme of Javanese Rhapsody for Orchestra-1](https://github.com/user-attachments/assets/c9b91b73-fc30-41cf-9f2c-938b0cf27a07)
 
 Seelig: Javanese Rhapsody
 
-![Hari Besar 1-1](https://github.com/user-attachments/assets/e6056e1c-e8e8-440c-ad4d-bb7d9304bf47)
+![Hari Besar 1-1](https://github.com/user-attachments/assets/5f1ae06b-716f-43a0-ac84-ae2abb543d1f)
 
 Use of Javanese Rhapsody in Hari Besar, m. 14
 
-![krawita](https://github.com/user-attachments/assets/9480d584-97f1-450c-b46d-1500bba52dbd)
+![krawita](https://github.com/user-attachments/assets/f21e0109-9564-40fc-b5c1-55646b535669)
 
 Krawita
 
-![hari besar krawita-1](https://github.com/user-attachments/assets/4277198f-aaee-413c-82fe-39dbce440d82)
+![hari besar krawita-1](https://github.com/user-attachments/assets/24146460-7790-44e0-9a60-6ba75b9d1ebe)
 
 Use of Krawita in Hari Besar, m. 15-16
 
-![kanjut](https://github.com/user-attachments/assets/67aaecc4-bbd4-4277-9d4c-a429a6d7a5bf)
+![kanjut](https://github.com/user-attachments/assets/7f9db9bb-1808-4396-a467-b9edc9492edd)
 
 Kanjut
 
-![hari besar kanjut](https://github.com/user-attachments/assets/c19e1295-5963-4b57-986a-86791a7be48c)
+![hari besar kanjut](https://github.com/user-attachments/assets/e42fc285-c507-4bb4-8260-fbac25f065b6)
 
 Use of Kanjut in Hari Besar, m. 20-21
 
@@ -163,7 +163,7 @@ The ambience of Borobudur under the serene glow of moonlight is transcribed into
 ### VI. The Bromo Volcano and the Sand Sea at Daybreak
 ![image](https://github.com/user-attachments/assets/b62c2514-a13f-4c62-8476-b7428fa766fe)
 
-(Shifting from the temple at moonlight to the mountain at dawn..) Mount Bromo is an active volcano located in East Java, reaching 2.329 meters high, and surrounded by a large sea of sand. The sunrise at this mountain never fails anyone to leave in wonder, including Godowsky, which stated:
+Mount Bromo is an active volcano located in East Java, reaching 2.329 meters high, and surrounded by a large sea of sand. The sunrise at this mountain never fails anyone to leave in wonder, including Godowsky, which stated:
 
 > A marvelous sunrise enhanced the terrifying hugeness and transcendental grandeur of this awe-inspiring panorama. The boiling, roaring, rumbling subterranean forces, seething and spouting up from abysmal depths, the sulphurous vapors and dense clouds, spreading steadily and menacingly over the horizon, suggested scenes from Dante’s Inferno, and brought to realization the fact that cataclysmic activities, everlasting fires in the bowels of the earth, threaten all that is alive.
 

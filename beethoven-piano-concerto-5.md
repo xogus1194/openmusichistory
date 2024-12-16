@@ -1,11 +1,12 @@
 # Ludwig van Beethoven (1770-1827)
+
 ![image](https://github.com/user-attachments/assets/65fc2549-fc64-450e-af51-e8633467864a)
 
 Beethoven is one of the most influential composers in classical music. Although Beethoven lived in classical era, especially when he was young, he did not follow any specific schools, guilds, or circles of composers that would influence his works, instead, he was courageous to explore and create music that was new and different.
 
 Beethoven has set groundbreaking innovations in composing music. First, he broke the boundaries of classical era music that emphasizes clarity, lightness, and beauty, by composing darker, deeper, and sublime music. By doing this, he allowed his emotions and personal expressions to be in music. Second, he also explored new ways of playing music, such as making more virtuosic compositions that require more virtuosic and technical skill from performers. Third, he experimented with symphonic forms, leading him to compose his ninth symphony, the first-ever symphony not only performed by an orchestra but also by a choir. Therefore, it is not too much to say that Beethoven is the gate of romanticism, where he allowed later musicians to express their feelings in music and explore new harmonization and formation in composing music.
 
-![image](https://github.com/user-attachments/assets/01a5ae87-833a-47e0-b008-f7d4776bf932)
+<img src="https://github.com/user-attachments/assets/01a5ae87-833a-47e0-b008-f7d4776bf932" width="400" />
 
 A picture of Beethoven "breaking" the rules of classical era music and innovating romanticism.
 
@@ -21,23 +22,21 @@ A picture of Beethoven "breaking" the rules of classical era music and innovatin
 - [Questions for Review](#questions-for-review)
 - [Guides for Further Studies](#guides-for-further-studies)
 
-[The sentences seem too long. It might be better to condense it to just introduce his major works.]
-
 ## Timeline
 
-| Year | Event                            | Description                                                                 |
-|------|----------------------------------|-----------------------------------------------------------------------------|
+| Year | Event                            | Description                                                                 | YouTube |
+|------|----------------------------------|-----------------------------------------------------------------------------|-----------|
 | **1770** | Birth                           | Born on December 17, 1770, in Bonn, Germany.                                |
-| **1782** | First Composition               | Composed his first composition, the Nine Variations on a march, WoO 63      |
+| **1782** | First Composition               | Composed his first composition, the Nine Variations on a march, WoO 63      | [Listen](https://www.youtube.com/watch?v=_1ZGPKKuBxM&pp=ygUQYmVldGhvdmVuIHdvbyA2Mw%3D%3D) :tv: |
 | **1787** | Study with Mozart                | Briefly studies with Mozart in Vienna to expand his musical knowledge.      |
 | **1792** | Moves to Vienna                  | Moves to Vienna to study with Haydn and begins his career as a composer.     |
 | **1795** | First Public Performance         | First public performance in Vienna, marking his professional debut.          |
 | **1798** | Hearing Loss                     | Begins to lose his hearing, a challenge that would shape his later works.    |
-| **1803** | *Symphony No. 3* (Eroica)         | Completes *Symphony No. 3*, *Eroica*, marking a new direction in his style.  |
-| **1808** | Premieres *Symphony No. 5*        | Premieres *Symphony No. 5* and *Symphony No. 6* in Vienna.                   |
-| **1809** | Composes *Piano Concerto No. 5*   | Composes *Piano Concerto No. 5* (Emperor Concerto), a monumental piano work. |
-| **1814** | *Fidelio* Premiered               | Premieres *Fidelio*, his only opera, after several revisions.                |
-| **1824** | Premieres *Symphony No. 9*        | Premieres *Symphony No. 9*, famous for the *Ode to Joy*.                     |
+| **1803** | *Symphony No. 3* (Eroica)         | Completes *Symphony No. 3*, *Eroica*, marking a new direction in his style.  | [Listen](https://www.youtube.com/watch?v=dTbesxdLwo8) :tv: |
+| **1808** | Premieres *Symphony No. 5*        | Premieres *Symphony No. 5* in Vienna.                   | [Listen](https://www.youtube.com/watch?v=yKl4T5BnhOA&t=888s) :tv: |
+| **1809** | Composes *Piano Concerto No. 5*   | Composes *Piano Concerto No. 5* (Emperor Concerto), a monumental piano work. | [Listen](https://www.youtube.com/watch?v=hDXWK3W477w&pp=ygUaYmVldGhvdmVuIHBpYW5vIGNvbmNlcnRvIDU%3D) :tv: |
+| **1814** | *Fidelio* Premiered               | Premieres the final version of *Fidelio*, his only opera, after several revisions.                | [Listen](https://www.youtube.com/watch?v=1FtNv37Dxwo) :tv: |
+| **1824** | Premieres *Symphony No. 9*        | Premieres *Symphony No. 9*, famous for the *Ode to Joy*.                     | [Listen](https://www.youtube.com/watch?v=ixpfgm_xxSE&pp=ygUUYmVldGhvdmVuIHN5bXBob255IDk%3D) :tv: |
 | **1827** | Death                            | Passes away on March 26, 1827, in Vienna. Over 10,000 people attend his funeral. |
 
 ## Piano Concerto No. 5, Op. 73
@@ -47,7 +46,7 @@ When Beethoven started composing this piece, Europe was in the state of Napoleon
 
 Beethoven was also experiencing some of his significant struggles, such as his worsening deafness, making him exploring an introspective and complex compositional style with substantial emotional depth.
 
-Although there are many groundbreaking compositional techniques in this piece, Beethoven still used some traditional techniques. For example, this piece consists of 3 movements, with the first movement using a sonata form. This structure was used by composers before Beethoven's time, such as Haydn in his [Piano Sonata in C Major, Hob.XVI:50](haydn-piano-sonata.md) and Mozart in his [Symphony No. 41](mozart-symphony.md). 
+Although there are many groundbreaking compositional techniques in this piece, Beethoven still used some traditional techniques. For example, this piece consists of 3 movements, with the first movement using a sonata form. This structure was used by composers before Beethoven's time, such as Haydn in his [Piano Sonata in C Major, Hob.XVI:50](haydn-piano-sonata.md) and Mozart in his [Symphony No. 41 in C Major, KV 551](mozart-symphony.md). 
 
 ### I. Allegro
 Unlike other concertos in the Classical period--and indeed, Beethoven's own previous concertos--Piano Concerto No. 5 opens with a striking innovation: a bold and broad orchestral chord introducing a written-out piano cadenza. The orchestra’s sustained chord interrupts the cadenza briefly, before the piano resumes, setting the tone for the dramatic, powerful journey to come. Following this unorthodox opening, the orchestra introduces a broad, main exposition theme, marked by stately dialogues between strings and winds. This theme embodies a typical Beethovenian style: bold, memorable, straightforward, yet rich with possibilities for expansion. It also brings a new spirit, reflecting Beethoven’s “heroic” period. The piano soon takes up the same theme, as both soloist and collaborator with the orchestra, blending the melody to showcase their unified dialogue. In the development section, the dialogue between piano and orchestra escalates, creating complex, engaging phrases that deepen the work's textural and harmonic complexity.. The recapitulation follows with no major changes, and when it comes to the cadenza preceding the coda part, Beethoven wrote, “Do not play a cadenza, but attack immediately the following”, to underscore his intention to maintain forward momentum, emphasizing the work's majesty rather than improvisational display. The first movement concludes with a stunning and sublime coda.
@@ -59,7 +58,7 @@ The second movement unfolds in the surprising key of B major, creating a peacful
 From quiet tranquility, Beethoven made the third movement burst into life with energetic rhythm, broad, joyful lines, and vibrant colors. The melody played at the end of the second movement becomes the main theme with powerful syncopated rhythms and bold phrases, interspersed with imaginative, playful episodes. Near the end, the music slows down while becoming calm, with only the duet of piano and timpani with pianissimo dynamic. Suddenly, the piano soars majestic scale passages preceding the flourishing orchestra, marking the grandious and massive ending of the whole piano concerto.
 
 ![Piano Concerto No  5, Op  73 accompaniment-1](https://github.com/user-attachments/assets/35f00c9e-fabd-4f36-9e5d-a454c4646fe2)
-![Piano Concerto No  5, Op  73 accompaniment-2](https://github.com/user-attachments/assets/bd058033-c716-4cfe-a7e1-b3854e3f6a48)
+![Piano Concerto No  5, Op  73 accompaniment-2](https://github.com/user-attachments/assets/44b943e7-a8a4-4e74-ad76-1401b711fb05)
 
 This is an example of the piano accompanying the orchestra in the piano concerto.
 
@@ -75,49 +74,27 @@ The Emperor Concerto also influenced the way pianists play piano concertos, whic
 
 ## Significance
 
-(This section is still only a copy from chatgpt's writing. Will be refined soon)
+This particular concerto has has several significant influences, especially to the compositions after Beethoven's time.
 
-1. A Revolution in the Piano Concerto Form
-Beethoven expanded the scope and ambition of the piano concerto with the Emperor. It marked a departure from the traditional Classical concerto format, where the orchestra primarily supported the soloist. Instead, Beethoven established a dynamic interplay between the piano and orchestra, elevating the concerto to a dialogue of equals.
+First of all, Beethoven expanded the freedom and ambition of the piano concerto with the Emperor Concerto. Unlike traditional concerto format, where orchestra supported the soloist, Beethoven established an interactive dialogue between the piano and orchestra, thus making both parts have equal position in this concerto. Beethoven also created a revolutionary opening remark of the piece: the soloist enters immediately with a grand and majestic quasi-cadenza, which is unusual for Beethoven's time. Furthermore, by removing the traditional cadenza before the coda part in the first movement and instead integrating the soloist more fully into the music with the orchestra, Beethoven showed us an alternative way of a concerto form.
 
-The opening alone is revolutionary: the soloist enters almost immediately with a cascade of virtuosic flourishes, defying expectations of the time. By omitting the traditional cadenza in the first movement and integrating the soloist more fully into the musical narrative, Beethoven demonstrated a bold rethinking of the concerto form.
+Secondly, composed during Beethoven's "Heroic Period," this concerto shows the transition from the structured elegance of the Classical era to the emotional expressiveness of the Romantic era. Its gloriousness, lyricism, and dramatic contrasts represent Beethoven's ability to fill personal and universal themes into his music, thus setting the stage for later Romantic composers like Liszt, Chopin, and Brahms. The work's emotional depth is particularly notable. The majestic and magnificant first movement (Allegro) is followed by a calm and introspective Adagio un poco mosso, and leads into a triumphant and lively Rondo. This progression represents Beethoven's exploration of struggle and resolution, which resonates deeply with audience.
 
-2. Bridging the Classical and Romantic Eras
-Composed during Beethoven's "Heroic Period," the Emperor Concerto embodies the transition from the structured elegance of the Classical era to the emotional expressiveness of the Romantic era. Its grandeur, lyricism, and dramatic contrasts exemplify Beethoven's ability to infuse personal and universal themes into his music, setting the stage for later Romantic composers like Liszt, Chopin, and Brahms.
+Third, the concerto was written during a period of Beethoven's personal turmoil and Vienna's political chaos. Beethoven's worsening deafness made him isolated, while Vienna's occupation by Napoleon's army highlighted a time of upheaval. However, the Emperor Concerto depicts triumph and resilience, representing Beethoven's resistance in the face of adversity. This heroic piece reflects not only Beethoven's inner strength but also the spirit of humanity in facing challenges.
 
-The work's emotional breadth is particularly notable. The majestic and commanding first movement (Allegro) is followed by a serene and introspective Adagio un poco mosso, leading into a triumphant and jubilant Rondo. This progression mirrors Beethoven's characteristic exploration of struggle and resolution, resonating deeply with audiences.
-
-3. Symbol of Resilience
-The concerto was written during a period of personal and political turmoil. Beethoven's increasing deafness isolated him, while Vienna's occupation by Napoleon's forces underscored a time of upheaval. Yet, the Emperor Concerto radiates triumph and resilience, symbolizing Beethoven's defiance in the face of adversity. Its heroic tone reflects not only Beethoven's inner strength but also the broader spirit of humanity overcoming challenges.
-
-4. Technical and Artistic Pinnacle
-For pianists, the Emperor Concerto represents a pinnacle of both technical and interpretive achievement. Its virtuosic demands require exceptional skill, while its emotional depth challenges performers to convey the music’s grandiosity and intimacy. This balance of technical brilliance and expressive nuance has made the concerto a cornerstone of the piano repertoire.
-
-5. Influence and Legacy
-The Emperor Concerto left an indelible mark on the piano concerto tradition. Its innovations influenced later composers, inspiring them to explore the concerto as a more symphonic and expansive form. It remains one of the most performed and recorded piano concertos, cherished by both musicians and audiences for its majestic beauty and timeless power.
+Lastly, this concerto left a long-lasting mark on the piano concerto tradition. Its groundbreaking innovations influenced later composers, inspiring them to explore the concerto in a more symphonic and expansive form. It remains one of the most performed and recorded piano concertos, celebrated by both musicians and audiences for its majestic sublime and timeless power.
 
 ## Performance and Reception
 
-(This section is still only a copy from chatgpt's writing. Will be refined soon)
+The "Emperor" premiered in Leipzig Gewandhaus on November 28, 1811, with Friedrich Schneider as the soloist. Beethoven’s hearing loss had prevented him from performing the concerto himself. The Vienna premiere in 1812 featured Carl Czerny, one of Beethoven’s most popular pupils, as the pianist.
 
-Performance History
-The "Emperor" premiered in Leipzig on November 28, 1811, with Friedrich Schneider as the soloist. Unfortunately, Beethoven’s hearing loss prevented him from performing the concerto himself. The Vienna premiere in 1812 featured Carl Czerny, one of Beethoven’s most notable pupils, as the soloist.
+At first, the concerto received mixed reviews. While its grandeur and majesty impressed some, its length and intricacy confused others. However, as time passes, critics and audiences came to admire its heroic spirit, lyrical beauty, and majestic sublime.
 
-The concerto is marked by its revolutionary structure and technical demands. The opening, with its bold orchestral chords interrupted by virtuosic piano cadenzas, was unprecedented for the time. Unlike earlier concertos, the first movement avoids an extended solo cadenza near the end, instead integrating the soloist and orchestra in a collaborative finale.
+The nickname "Emperor" was not given by Beethoven himself, but likely arose because of the majesty and magnificance of the music. It illustrates the triumph and heroic character of Beethoven’s middle period.
 
-Reception
-Initially, the concerto received mixed reviews. While its grandeur impressed some, its length and complexity puzzled others. Over time, however, critics and audiences came to admire its innovative spirit, lyrical beauty, and heroic character.
-
-The nickname "Emperor" was not given by Beethoven but likely arose due to the majestic and regal nature of the music. It captures the triumph and defiance characteristic of Beethoven’s middle period.
-
-In modern times, the "Emperor" is celebrated as one of the greatest piano concertos ever written. Renowned pianists such as Arthur Rubinstein, Vladimir Horowitz, and Emil Gilels have brought their interpretations to life, each adding to its legacy. Audiences are continually captivated by its powerful first movement, tender second movement (Adagio un poco mosso), and jubilant finale.
-
-Legacy
-The "Emperor Concerto" exemplifies Beethoven’s ability to push the boundaries of the classical concerto form. Its rich orchestration and virtuosic piano writing serve as a bridge between the Classical and Romantic eras. Today, it remains a cornerstone of concert repertoire, a testament to Beethoven’s genius, and a work that continues to inspire performers and listeners alike.
+In modern times, the "Emperor" is cherished as one of the greatest piano concertos ever written. Renowned pianists such as Arthur Rubinstein, Vladimir Horowitz, and Emil Gilels have brought their interpretations to life, each adding to its legacy. Audiences are continually fascinated by its powerful first movement, tender second movement, and triumphant finale.
 
 ## Listening Guide
-
-(This section is still only a copy from chatgpt's writing. Will be refined soon)
 
 I. Allegro (E-flat Major)
 Duration: ~20 minutes
@@ -144,7 +121,7 @@ Duration: ~10 minutes
 Tips for Enhanced Listening:
 - Focus on Transitions: Beethoven’s seamless transitions between movements, especially from the second to the third, are masterful. Pay attention to how these moments connect the emotional narrative.
 - Notice the Balance: Throughout the concerto, Beethoven achieves a remarkable balance between the solo piano and the orchestra, creating a dialogue rather than a battle.
-- Feel the Arc: The piece moves from grandeur (I), to introspection (II), to joyous celebration (III), creating an emotional arc that mirrors Beethoven’s heroic ideals.
+- Feel the Arc: The piece moves from majesty (I), to introspection (II), to jubilant celebration (III), creating an emotional arc that mirrors Beethoven’s heroic ideals.
 Beethoven’s "Emperor" Concerto is a tour de force that rewards repeated listening with new insights each time. Let its grandeur and beauty transport you to a world of triumph and inspiration!
 
 ## Questions for Review
