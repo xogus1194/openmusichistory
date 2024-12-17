@@ -137,6 +137,8 @@ As we explore these compositions, we invite readers to experience the varied sou
 - [Symphony No. 9 in D minor, Op. 125](beethoven-symphony-no-9.md) by [taegyun-kim-bassist](https://github.com/Taegyun-Kim-Bassist)
 - [Rondo a carpriccio, Op. 129](beethoven-rondo.md) by [Yunseungju](https://github.com/Yunseungju)
 
+---
+
 ### _19th Century_
 
 ### Frédéric Chopin
@@ -157,6 +159,8 @@ As we explore these compositions, we invite readers to experience the varied sou
 ### Ferruccio Busoni (Sample)
 - [Piano Sonata in F minor, BV 204](sample-busoni-piano-sonata.md) by [kyeser](https://github.com/kyeser)
 
+---
+
 ### _20th Century_
 
 ### John Adams
@@ -170,6 +174,8 @@ As we explore these compositions, we invite readers to experience the varied sou
   
 ### Arnold Schönberg
 - [*Pierrot lunaire*, Op. 21](schonberg-pierro-lunaire.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
+
+---
 
 ### _21st Century_
 
