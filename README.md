@@ -22,69 +22,70 @@ As we explore these compositions, we invite readers to experience the varied sou
 
 ## Contributors
 
-### Jiwon Jung  
+### Jiwon JUNG
 [ziwonnnn](https://github.com/ziwonnnn)  
-> 3rd-year student majoring in piano at Hanyang University.
+> 3rd-year student majoring in piano at Hanyang University
 
-### Tae Gyun Kim  
-[Taegyun-Kim-Bassist](https://github.com/Taegyun-Kim-Bassist)  
-> Double bassist from the Republic of Korea; 4th-year double bass major at Hanyang University.
-
-### Hee Seng Kye  
-[hskye79](https://github.com/hskye79)  
-> Musicologist from Korea; Associate Professor of Music at Hanyang University.
-
-### Lee Minji  
-[leeminji0110](https://github.com/leeminji0110)  
-> 3rd-year piano major at Hanyang University in Seoul, Korea.
-
-### Eun Hwan Pyo  
-[eunhwan00](https://github.com/eunhwan00)  
-> Pianist from the Republic of Korea; 4th-year piano major at Hanyang University.
-
-### Laurensius Pio Tjahjadi  
-[piopio1248](https://github.com/piopio1248)  
-> 4th-year composition major and exchange student from Universitas Indonesia at Hanyang University.
-
-### Seungju Yun  
-[Yunseungju](https://github.com/Yunseungju)  
-> 4th-year piano major at Hanyang University.
-
-### Minna Kim 
-[Middaa](https://github.com/Middaa)  
-> 3rd-year student at Hanyang University, Department of Piano.
-
-### Hobin Son  
-[hobin2788](https://github.com/hobin2788)  
-> 3rd-year student in the Department of Piano at Hanyang University.
-
-### HYUNMIN KIM 
+### Hyunmin KIM
 [RYUSEI-KIM](https://github.com/RYUSEI-KIM)  
 > 3rd-year composition major at Hanyang University. A sweet soul full of love and kindness!
 
-### Taelim Seo
+### Minna KIM
+[Middaa](https://github.com/Middaa)  
+> 3rd-year student at Hanyang University, Department of Piano
+
+### Tae Gyun KIM
+[Taegyun-Kim-Bassist](https://github.com/Taegyun-Kim-Bassist)  
+> Double bassist from the Republic of Korea; 4th-year double bass major at Hanyang University
+
+### Hee Seng KYE
+[hskye79](https://github.com/hskye79)  
+> Musicologist from Korea; Associate Professor of Music at Hanyang University
+
+### Minji LEE
+[leeminji0110](https://github.com/leeminji0110)  
+> 3rd-year piano major at Hanyang University in Seoul, Korea
+
+### Eun Hwan PYO
+[eunhwan00](https://github.com/eunhwan00)  
+> Pianist from the Republic of Korea; 4th-year piano major at Hanyang University
+
+### Taelim SEO
 [xogus1194](https://github.com/xogus1194)  
-> 4th-year student in the department of piano at Hanyang University.
+> 4th-year student in the department of piano at Hanyang University
+
+### Hobin SON
+[hobin2788](https://github.com/hobin2788)  
+> 3rd-year student in the Department of Piano at Hanyang University
+
+### Laurensius Pio TJAHJADI
+[piopio1248](https://github.com/piopio1248)  
+> 4th-year composition major and exchange student from Universitas Indonesia at Hanyang University
+
+### Seungju YUN
+[Yunseungju](https://github.com/Yunseungju)  
+> 4th-year piano major at Hanyang University
 
 ---
 
 ## Works (by composers)
 
 ### John Adams
-- [Doctor Atomic](john_adams_doctor_atomic.md) by [eunhwan00](https://github.com/eunhwan00)
+- [*Doctor Atomic*](john_adams_doctor_atomic.md) by [eunhwan00](https://github.com/eunhwan00)
 
 ### Ludwig van Beethoven
-- [Piano Concerto No. 5 in C minor, Op. 73](beethoven-piano-concerto-5.md) by [piopio1248](https://github.com/piopio1248)
 - [Piano Sonata No. 14 in C-sharp minor, Op.27, No.2 "Moonlight"](beethoven-piano-sonata-no.14.md) by [xogus1194](https://github.com/xogus1194)
-- [Piano Sonata No. 21 in C major, "Waldstein"](beethoven-piano-sonata-no.21.md) by [Middaa](https://github.com/Middaa)
+- [Piano Sonata No. 21 in C major, Op. 53, "Waldstein"](beethoven-piano-sonata-no.21.md) by [Middaa](https://github.com/Middaa)
+- [Piano Concerto No. 5 in C minor, Op. 73](beethoven-piano-concerto-5.md) by [piopio1248](https://github.com/piopio1248)
 - [Piano Sonata No. 26 in E-flat major, Op. 81a, "Les Adieux"](beethoven-sonata-26.md) by [leeminji0110](https://github.com/leeminji0110)
 - [Symphony No. 9 in D minor, Op. 125](beethoven-symphony-no-9.md) by [taegyun-kim-bassist](https://github.com/Taegyun-Kim-Bassist)
-- [Rondo a carpriccio Op.129](beethoven-rondo.md) by [Yunseungju](https://github.com/Yunseungju)
+- [Rondo a carpriccio, Op. 129](beethoven-rondo.md) by [Yunseungju](https://github.com/Yunseungju)
 
 ### Ferruccio Busoni (Sample)
 - [Piano Sonata in F minor, BV 204](sample-busoni-piano-sonata.md) by [kyeser](https://github.com/kyeser)
 
 ### Frédéric Chopin
+- [Andante spianato et Grande polonaise brillante in E-flat major, Op. 22](chopin-polonaise.md) by [hobin2788](https://github.com/hobin2788)
 - [Piano Sonata No. 2 in B-flat minor, Op. 35](chopin-piano-sonata.md) by [Yunseungju](https://github.com/Yunseungju)
 
 ### Leopold Godowsky
@@ -94,7 +95,10 @@ As we explore these compositions, we invite readers to experience the varied sou
 - [Keyboard Sonata in C major, Hob.XVI:50](haydn-piano-sonata.md) by [eunhwan00](https://github.com/eunhwan00)
 
 ### Moonhee Lee
-- [The Proliferation of Dots](moonheelee-The-Proliferation-of-Dots.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
+- [*The Proliferation of Dots*](moonheelee-The-Proliferation-of-Dots.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
+
+### György Ligeti
+- [Études pour le piano](Ligeti-etudes.md) by [ziwonnnn](https://github.com/ziwonnnn)
 
 ### Gustav Mahler
 - [Symphony No. 1 in D major](mahler-symphony.md) by [Taegyun-Kim-Bassist](https://github.com/Taegyun-Kim-Bassist)
@@ -102,17 +106,17 @@ As we explore these compositions, we invite readers to experience the varied sou
 ### Wolfgang Amadeus Mozart
 - [Symphony No. 41 in C major, K. 551](mozart-symphony.md) by [hobin2788](https://github.com/hobin2788)
 
+### Sergei Prokofiev
+- [Piano Sonata No. 2 in D minor, Op. 14](prokofiev-sonata-no.2.md) by [Midda](https://github.com/Midda)
+  
 ### Arnold Schönberg
 - [*Pierrot lunaire*, Op. 21](schonberg-pierro-lunaire.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
 
 ### Robert Schumann
-- [*Kreisleriana*, Op. 16](schumann-kreisleriana.md) by [ziwonnnn](https://github.com/ziwonnnn)
 - [*Fantasie* in C major, Op. 17](schumann_fantasie.md) by [leeminji0110](https://github.com/leeminji0110)
+- [*Fantasie* in C major, Op. 17](schumann-fantasie.md) by [xogus1194](https://github.com/xogus1194)
+- [*Kreisleriana*, Op. 16](schumann-kreisleriana.md) by [ziwonnnn](https://github.com/ziwonnnn)
 
-### Sergei Prokofiev
-- [Piano Sonata No.2 in d minor, Op.14](prokofiev-sonata-no.2.md) by [Midda](https://github.com/Midda)
-
-  
 ---
 
 ## Works (by periods)
@@ -126,26 +130,26 @@ As we explore these compositions, we invite readers to experience the varied sou
 - [Symphony No. 41 in C major, K. 551](mozart-symphony.md) by [hobin2788](https://github.com/hobin2788)
 
 ### Ludwig van Beethoven
-- [Piano Concerto No. 5 in C minor, Op. 73](beethoven-piano-concerto-5.md) by [piopio1248](https://github.com/piopio1248)
 - [Piano Sonata No. 14 in C-sharp minor, Op.27, No.2 "Moonlight"](beethoven-piano-sonata-no.14.md) by [xogus1194](https://github.com/xogus1194)
-- [Piano Sonata No. 21 in C major, "Waldstein"](beethoven-piano-sonata-no.21.md) by [Middaa](https://github.com/Middaa)
+- [Piano Sonata No. 21 in C major, Op. 53, "Waldstein"](beethoven-piano-sonata-no.21.md) by [Middaa](https://github.com/Middaa)
+- [Piano Concerto No. 5 in C minor, Op. 73](beethoven-piano-concerto-5.md) by [piopio1248](https://github.com/piopio1248)
 - [Piano Sonata No. 26 in E-flat major, Op. 81a, "Les Adieux"](beethoven-sonata-26.md) by [leeminji0110](https://github.com/leeminji0110)
-- [Rondo a carpriccio Op.129](beethoven-rondo.md) by [Yunseungju](https://github.com/Yunseungju)
 - [Symphony No. 9 in D minor, Op. 125](beethoven-symphony-no-9.md) by [taegyun-kim-bassist](https://github.com/Taegyun-Kim-Bassist)
+- [Rondo a carpriccio, Op. 129](beethoven-rondo.md) by [Yunseungju](https://github.com/Yunseungju)
 
 ### _19th Century_
 
 ### Frédéric Chopin
+- [Andante spianato et Grande polonaise brillante in E-flat major, Op. 22](chopin-polonaise.md) by [hobin2788](https://github.com/hobin2788)
 - [Piano Sonata No. 2 in B-flat minor, Op. 35](chopin-piano-sonata.md) by [Yunseungju](https://github.com/Yunseungju)
-- [Andante Spianato and Grande Polonaise Brillante in E flat major Op. 22](chopin-polonaise.md) by [hobin2788](https://github.com/hobin2788)
 
 ### Leopold Godowsky
 - [*Java Suite*](godowsky-java-suite.md) by [piopio1248](https://github.com/piopio1248)
 
 ### Robert Schumann
-- [*Kreisleriana*, Op. 16](schumann-kreisleriana.md) by [ziwonnnn](https://github.com/ziwonnnn)
 - [*Fantasie* in C major, Op. 17](schumann_fantasie.md) by [leeminji0110](https://github.com/leeminji0110)
-- [*Fantasie*, in C major, Op.17](schumann-fantasie.md) by [xogus1194](https://github.com/xogus1194)
+- [*Fantasie* in C major, Op. 17](schumann-fantasie.md) by [xogus1194](https://github.com/xogus1194)
+- [*Kreisleriana*, Op. 16](schumann-kreisleriana.md) by [ziwonnnn](https://github.com/ziwonnnn)
 
 ### Gustav Mahler
 - [Symphony No. 1 in D major](mahler-symphony.md) by [Taegyun-Kim-Bassist](https://github.com/Taegyun-Kim-Bassist)
@@ -156,12 +160,18 @@ As we explore these compositions, we invite readers to experience the varied sou
 ### _20th Century_
 
 ### John Adams
-- [Doctor Atomic](john_adams_doctor_atomic.md) by [eunhwan00](https://github.com/eunhwan00)
+- [*Doctor Atomic*](john_adams_doctor_atomic.md) by [eunhwan00](https://github.com/eunhwan00)
 
+### György Ligeti
+- [Études pour le piano](Ligeti-etudes.md) by [ziwonnnn](https://github.com/ziwonnnn)
+
+### Sergei Prokofiev
+- [Piano Sonata No. 2 in D minor, Op. 14](prokofiev-sonata-no.2.md) by [Midda](https://github.com/Midda)
+  
 ### Arnold Schönberg
 - [*Pierrot lunaire*, Op. 21](schonberg-pierro-lunaire.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
 
 ### _21st Century_
 
 ### Moonhee Lee
-- [The Proliferation of Dots](moonheelee-The-Proliferation-of-Dots.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
+- [*The Proliferation of Dots*](moonheelee-The-Proliferation-of-Dots.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
