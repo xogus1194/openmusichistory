@@ -54,7 +54,7 @@ As we explore these compositions, we invite readers to experience the varied sou
 [Middaa](https://github.com/Middaa)  
 > 3rd-year student at Hanyang University, Department of Piano.
 
-### Your name?  
+### Hobin Son  
 [hobin2788](https://github.com/hobin2788)  
 > 3rd-year student in the Department of Piano at Hanyang University.
 
