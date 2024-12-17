@@ -221,6 +221,8 @@ These questions will help you engage deeply with the piece, analyzing both its t
 
 This guide will help you efficiently study the key elements of the "Waldstein" Sonata, deepening your understanding of the work.
 
+---
+
 
 That's cool. 
 
