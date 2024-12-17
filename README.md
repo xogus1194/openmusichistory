@@ -107,7 +107,7 @@ As we explore these compositions, we invite readers to experience the varied sou
 - [Symphony No. 41 in C major, K. 551](mozart-symphony.md) by [hobin2788](https://github.com/hobin2788)
 
 ### Sergei Prokofiev
-- [Piano Sonata No. 2 in D minor, Op. 14](prokofiev-sonata-no.2.md) by [Midda](https://github.com/Midda)
+- [Piano Sonata No. 2 in D minor, Op. 14](prokofiev_sonata_no.2.md) by [Midda](https://github.com/Midda)
   
 ### Arnold Schönberg
 - [*Pierrot lunaire*, Op. 21](schonberg-pierro-lunaire.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
@@ -170,7 +170,7 @@ As we explore these compositions, we invite readers to experience the varied sou
 - [Études pour le piano](Ligeti-etudes.md) by [ziwonnnn](https://github.com/ziwonnnn)
 
 ### Sergei Prokofiev
-- [Piano Sonata No. 2 in D minor, Op. 14](prokofiev-sonata-no.2.md) by [Midda](https://github.com/Midda)
+- [Piano Sonata No. 2 in D minor, Op. 14](prokofiev_sonata_no.2.md) by [Midda](https://github.com/Midda)
   
 ### Arnold Schönberg
 - [*Pierrot lunaire*, Op. 21](schonberg-pierro-lunaire.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
