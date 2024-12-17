@@ -6,14 +6,13 @@
 
 - [Haydn's life and career](#haydns-life-and-career)
 - [Form: Sonata-Allegro Form](#form-sonata-allegro-form)
-
    -[Exposition](#exposition)
    -[Development](#development)
    -[Recapitulation](#recapitulation)
    -[Coda](#coda)
 - [Tips for practicing](#tips-for-practicing)
 - [Listening Guide](#listening-guide)
-- [Questions-for Guide](#questions-for-guide)
+- [Questions-for Review](#questions-for-review)
 - [Guide for further studies](#guide-for-further-studies)
 
 ---
@@ -40,7 +39,9 @@ His piano sonatas, like his symphonies and string quartets, are celebrated for t
 This sonata, written around 1794–1795, was created for Terezie Jansen, a talented pianist and student of Clementi. Jansen was known for her virtuosic playing, and this piece, with its lively energy and subtle complexity, was perfectly suited to her flamboyant style. The first movement, marked Allegro, showcases Haydn’s characteristic blend of simplicity and sophistication, with a focus on rhythm, melody, and dynamic contrast.
 
 The reason why I chose this piece is that among the sonata's characteristics that require sophisticated expression of emotion and balance without being overly emotional, there are many couples who express optimistic and humorous characteristics of Haydn. Among the piano sonatas that can be a little serious, I thought it was the special charm of Haydn's sonata. In particular, there are many humorous and humorous expressions in the first movement of this song. I wanted to delve into the beauty of this song in detail, where there are many topics and conversations of responses. 
-<img src="Hello World png.png">
+
+![Alt text](https://github.com/user-attachments/assets/e641db7c-5f9a-4e6a-b1e4-d75ccadf78f9)
+
 The first movement, marked "Allegro," opens with a bright and assertive theme that immediately captures the listener's interest. This movement is characterized by its lively rhythmic drive and clear structural form. The main theme is introduced with a bold, upward leap, setting a cheerful and energetic tone. Haydn’s use of syncopation and rapid passages adds a sense of excitement, inviting the pianist to showcase both technical prowess and expressive nuance. As the movement progresses, Haydn masterfully develops the initial themes, weaving in contrasting material that highlights his wit and creativity. The secondary theme offers a delightful contrast, featuring a more lyrical quality that creates a charming dialogue within the piece. Haydn's knack for surprising harmonic shifts keeps the listener engaged, as he deftly explores the interplay between major and minor tonalities. The development section introduces moments of tension, showcasing Haydn's ability to build suspense before returning to the joyous energy of the opening themes. The movement concludes with a spirited recapitulation, bringing back the initial themes with renewed vigor and culminating in a jubilant finale. In this sonata, Haydn not only captures the essence of the Classical style but also hints at the emotional depth that will define the Romantic era to come.
 
 ---
@@ -104,5 +105,22 @@ Gould plays with clear, almost detached articulation that emphasizes clarity ove
 
 ---
 
-## Questions-for Guide
+## Questions-for Review
+- How does Haydn incorporate elements of surprise and humor into the sonata, particularly in the finale?
+
+  Haydn frequent use of unexpected harmonic shifts and contrasting dynamics creates a sense of playfulness and unpredictability, a hallmark of Haydn’s wit. These moments of surprise keep the listener engaged and add a lighthearted, humorous character to the movement.
+
+-  How would you describe the sonata’s character and emotional range?
+
+    It opens with a vigorous and joyful theme in C Major, full of rhythmic drive and forward momentum, evoking a sense of optimism and excitement. The movement also introduces contrast through a second theme in G Major, which is more lyrical and expressive, offering a moment of calm reflection before returning to the lively, playful nature of the opening. Overall, the emotional range is uplifting and balanced, with Haydn's characteristic wit and lightness evident throughout the movement.
+
+
 ## Guide for further studies
+Compare with sonatas by Haydn and Beethoven for stylistic differences. 
+[Compare with sonatas](https://data.carnegiehall.org/datalab/experiments/chdl-0003/)
+
+This platform offers discussions, performance advice, and sheet music, helping pianists understand the challenges and nuances of the sonata​
+[Sheet music and discussions](https://www.pianostreet.com/haydn-sheet-music/sonatas/sonata-hob-16-50-c-major.htm)
+
+ A detailed breakdown of the sonata's whole movements, harmonic structures, and thematic development, which will deepen your understanding of Haydn's compositional techniques
+[Analysis](https://tonic-chord.com/haydn-piano-sonata-in-c-major-hob-xvi50-analysis/)

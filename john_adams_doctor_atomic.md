@@ -10,7 +10,7 @@
   - [Opera Doctor Atomic](#opera-doctor-atomic)
   - [Act I, Scene 3 "Batter my heart"](#act-i-scene-3-batter-my-heart)
   - [Listening Guide](#listening-guide)
-- [Questions for Review](#questions-for-guide)
+- [Questions for Review](#questions-for-review)
 - [Guide for Further Studies](#guide-for-further-studies)
   
 ---
@@ -78,13 +78,31 @@ Continues to be relevant as it reflects on the ethical dilemmas of technology an
 "Batter my heart" is a poignant aria from John Adams' opera Doctor Atomic, performed by the character of J. Robert Oppenheimer. The text is adapted from a metaphysical sonnet by John Donne, which portrays a deeply personal plea to God for spiritual renewal through forceful intervention.
 In the opera, the aria occurs at a climactic moment, reflecting Oppenheimer's internal conflict as he grapples with the moral implications of his role in creating the atomic bomb. The aria’s intense, introspective nature mirrors his anguish and sense of responsibility for unleashing a power capable of unprecedented destruction.
 
+---
+
 ### Listening Guide
  [Opera Nixon in China"I am the wife of Mao Tse-tung"](https://www.youtube.com/watch?v=0mtMI_huRtY)
  
  [Opera "Doctor Atomic" Full version](https://www.youtube.com/watch?v=PKvKHl9qskk&pp=ygUTZG9jdG9yIGF0b21pYyBvcGVyYQ%3D%3D)
  
  [Doctor Atomic-Act I, Scene 3 "Batter my heart"](https://www.youtube.com/watch?v=AlUHKHLk_VU)
-  
-## Questions-for Guide
 
+---
+
+## Questions-for Review
+- Do you think operas like John Adams’s are more effective at addressing contemporary issues than traditional operas?
+
+  Operas like those by John Adams are often more effective at addressing contemporary issues than traditional operas due to their direct engagement with modern political, ethical, and scientific themes. For instance, Doctor Atomic confronts the moral dilemmas surrounding the atomic bomb, while Nixon in China deals with the complex geopolitical tensions of the late 20th century. These works use minimalist techniques and contemporary settings to make their themes more immediate and relatable to modern audiences, compared to the often historical or mythological subjects of traditional operas. Adams's operas engage with the world in real-time, allowing them to reflect current issues more dynamically.
+
+- Why is John Adams considered a significant composer in modern opera?
+
+  John Adams is considered a significant composer in modern opera due to his innovative use of minimalist techniques combined with emotional and dramatic complexity. His operas, like Nixon in China and Doctor Atomic, tackle contemporary political, historical, and ethical issues, making them deeply relevant to modern audiences. His unique approach blends accessible, repetitive structures with lush orchestration, making complex subjects emotionally engaging.
+  
+- How does Adams use minimalist techniques in his operas? What effect do these techniques have on the audience?
+
+  By employing repetitive rhythmic patterns, shifting harmonic structures, and gradual evolution of musical material. These techniques create a sense of hypnotic momentum and intensity, enhancing the dramatic tension. In Doctor Atomic, for example, the music reflects the escalating urgency of the Manhattan Project through persistent, evolving motifs.
+  
 ## Guide for further studies
+[Educational resources](https://www.pbslearningmedia.org/resource/doctor-atomic-opera/doctor-atomic-opera/)
+
+[About Opera](https://openlyopera.wordpress.com/)

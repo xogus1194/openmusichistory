@@ -9,7 +9,7 @@
   - [1st Movement – Adagio sostenuto](1st-movement-adagioasostenuto)
   - [2nd Movement – Allegretto](2nd-movement–allegretto)
   - [3rd Movement – Presto agitato](3rd-movement-presto-agitato)
-- [Influences](influences)
+- [Influences](#influences)
 - [Listening Guide](#listening-guide)
 - [Questions for Review](#questions-for-review)
 - [Guides for Further Studies](#guides-for-further-studies)
@@ -77,7 +77,6 @@ The "Moonlight Sonata" features emotional depth and introspective expression tha
 
 **2. Challenge to Traditional Sonata Form**
 This sonata deviates from the traditional three-movement sonata form, offering a more non-traditional structure. The first movement is extremely slow and lyrical, which presents a new approach to sonata form. This challenge to the conventional structure paved the way for later composers to experiment with and break free from traditional forms, particularly those in the Romantic period.
-
 
 ## Listening Guide
 [Evgeny Kissin](https://www.youtube.com/watch?v=r4v_XP0BTdU) Kissin's performance is characterized by his exceptional technique and unique musicality. In particular, his ability to execute the fast tempo of the third movement is the most notable aspect of his interpretation.

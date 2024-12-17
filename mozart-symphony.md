@@ -58,7 +58,18 @@ Symphony No. 41 exemplifies the Classical symphony through its four-movement str
 The Jupiter Symphony stands as one of Mozart’s crowning achievements, representing the height of his symphonic output and a culmination of the Classical symphonic tradition. Its balance of formal clarity, thematic development, and polyphonic richness has made it a benchmark for symphonic writing, influencing composers from Beethoven to Brahms. The symphony’s timeless appeal lies in its combination of structural complexity and expressive immediacy, qualities that continue to engage audiences and performers alike.
 
 ### Questions for Review
+1. When and where was Mozart's Symphony No. 41 composed? What historical events or personal circumstances influenced Mozart at this time?
+2. Why is Symphony No. 41 nicknamed the "Jupiter Symphony"? Who is believed to have given it this title?
+3. How does this symphony fit into Mozart's overall symphonic output?
+4. What distinguishes Symphony No. 41 from Mozart's earlier symphonies stylistically and structurally?
+5. How does Mozart’s Symphony No. 41 showcase his mastery of counterpoint, particularly in the finale?
+6. Compare and contrast the themes in each movement. How do they contribute to the overall unity of the symphony?
+7. In what ways does Mozart blend Baroque and Classical elements in this symphony?
+8. How does Mozart use orchestration to create a sense of grandeur and complexity? Which instruments stand out, and why?
+   
 ### Guides for Further Studies
+Explore the background of Mozart’s final symphonies and their context in his life.
+Resource: [Mozart's Symphonies - Britannica](https://www.britannica.com/art/symphony-music)
 
 wow~ what a nice text.
 
