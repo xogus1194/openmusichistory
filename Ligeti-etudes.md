@@ -27,7 +27,7 @@ György Ligeti (1923–2006) was a Hungarian-Austrian composer, recognized as on
 | 1945  | Early Music Studies                    | Studied composition in Budapest during WWII                   |         |
 | 1956  | Emigration                             | Fled to Austria following the Hungarian Uprising              |         |
 | 1960s | Avant-garde Recognition                | Rose to prominence with *Atmosphères* and *Lux Aeterna*       |         |
-| 1985  | Études pour le piano (Books 1 & 2)     | Published the first two books of his groundbreaking études    | [Listen](https://youtu.be/XHhZ2TzHlow?si=a7cXXsXy0V7_3cJp) |
+| 1985  | Études pour le piano (Books 1 & 2)     | Published the first two books of his groundbreaking études    | [Listen](https://youtu.be/XHhZ2TzHlow?si=a7cXXsXy0V7_3cJp) :tv:|
 | 1994  | Études pour le piano (Book 3)          | Completed the third and final book of études                  |         |
 | 2006  | Death                                  | Passed away on June 12, in Vienna, Austria                    |         |
 
@@ -121,10 +121,23 @@ Ligeti’s *Études pour le piano* stand as monumental works in the modern piano
 
 ## Questions for Review
 
+1. Which étude is called *Désordre* and is known for its chaotic rhythms?
+   
+Étude No. 1  
+
+2. What special technique is used in *Touches bloquées* that blocks some piano keys?
+
+Blocked keys  
+
+3. Which étude is nicknamed *The Devil’s Staircase* because of its endless climbing patterns?
+   
+Étude No. 13 (*L’escalier du diable*)  
+
+
 ## Guides for Further Studies
+**Ligeti’s Music**
 
 
-
-
+Richard Steinitz’s *György Ligeti: Music of the Imagination* is a comprehensive resource for understanding Ligeti’s life, influences, and creative output.  
 
 
