@@ -22,7 +22,7 @@ Beethoven's Sonata "Waldstein" shows innovation and originality in the sonata fo
 **Dedication**: Count Ferdinand von Waldstein
 
 
-This piece was directly influenced by Mozart' symphony, especially [Mozart Symphony No.41](mozart-symphony.md). 
+This piece was directly influenced by Mozart' symphony, especially [Mozart Symphony No.41](mozart-symphony.md). (This is not true.)
 
 
 <img src="beethoven-for.png">
@@ -35,9 +35,13 @@ This piece was directly influenced by Mozart' symphony, especially [Mozart Symph
 - [Structure](#structure)
 - [Musical Significance](#musical-significance)
 - [Conclusion](#conclusion)
+- [Influences](#influences)
+- [Significance](#significance)
+- [Performance and Reception](#performance-and-reception)
+- [Questions for Review](#questions-for-review)
+- [Guides for Further Studies](#guides-for-further-studies)
 
-
-
+  
 
 ---
 
@@ -50,8 +54,8 @@ This piece was directly influenced by Mozart' symphony, especially [Mozart Symph
 | ---- | ---------------------------- | ----------------------------------------------------------------------------------- | ------- |
 | 1770 | Birth in Bonn                | Born  on December 16, 1770 in Germany                                               |
 | 1787 | First Visit to Vienna        | Visited Vienna, reportedly met Mozart                                               |
-| 1792 | Move to Vienna               | Moved to Vienna, studied composition with Haydn                                     | [Listen No.1](https://www.youtube.com/watch?v=ouKhdyzxXE8&t=373s) :tv:                                                 |
-| 1800 | First Symphony               | Published his First Symphony, gaining recognition as a composer                     | 
+| 1792 | Move to Vienna               | Moved to Vienna, studied composition with Haydn                                     |                                                 
+| 1800 | First Symphony               | Published his First Symphony, gaining recognition as a composer                     | [Listen No.1](https://www.youtube.com/watch?v=ouKhdyzxXE8&t=373s) :tv: |
 | 1803 | The Eroica Symphony          | Composed Symphony No. 3 *"Eroica"*                                                  | [Listen No.3](https://www.youtube.com/watch?v=I9HapWc4mr4) :tv:                                                 |
 | 1808 | Fate and Pastoral Symphonies | Premiered Symphony No. 5 *"Fate"* and No. 6 *"Pastoral"*                            | [Listen No.5](https://www.youtube.com/watch?v=NWWbA5H5pEs) :tv: , [Listen No.6](https://www.youtube.com/watch?v=y-6B1z5spOY) :tv: |
 | 1815 | Custody Battle               | Following his brother's death, began a legal battle for custody of his nephew, Karl |  
@@ -145,6 +149,77 @@ Beethoven’s innovation is evident in the way he manipulates form. While adheri
 # Conclusion
 
 The "Waldstein" Sonata is a stunning demonstration of Beethoven’s genius, marked by its boldness, innovation, and emotional depth. With its striking contrasts between the vigorous and the lyrical, the playful and the profound, it is a work that encapsulates the essence of Beethoven's style: a fearless exploration of the piano’s capabilities, imbued with an intensely personal expression. As one of his most iconic piano works, the "Waldstein" Sonata remains a cornerstone of the piano repertoire, continuously inspiring performers and listeners alike.
+
+---
+
+
+## Influences   
+**Beethoven's Piano Sonata No. 21 "Waldstein" (Op. 53)** is an innovative work that goes beyond traditional sonata form, containing a grand structure and emotional depth that had a significant impact. The sonata attempts a bold departure from traditional sonata form by using an expansive structure, which influenced the composition of later sonatas. It also expresses deep and complex emotions, further emphasizing Beethoven's inner emotional world and expression. Technically, the piece is highly challenging, with complex passages and rapid tempos, expanding piano technique and introducing new methods of playing. Harmonically, it moves beyond traditional harmony, showing an innovative approach that influenced future composers. "Waldstein" served as an important inspiration for later composers such as Chopin, Liszt, and Brahms, and stands as a key milestone in the development of modern piano sonatas.
+
+## Significance
+
+**Beethoven's Piano Sonata No. 21 "Waldstein" (Op. 53)** is a significant milestone in the history of classical music. It marks an important turning point in Beethoven's compositional style, demonstrating an innovative approach that goes beyond traditional sonata form, both structurally and emotionally. The sonata's bold structural expansion helped advance the sonata genre and influenced later sonata compositions.
+
+"Waldstein" combines remarkable technical demands with deep, complex emotional expression, presenting a significant challenge to pianists. The piece requires fast, intricate passages and powerful energy, yet also features lyrical and introspective moments, showcasing Beethoven's ability to convey profound emotional depth. This emotional richness reflects Beethoven's desire to express his unique inner world through music.
+
+Additionally, the sonata is innovative in its harmonic and thematic development. It moves beyond traditional harmonic progressions, exploring new sound textures, which had a significant influence on later composers like Chopin, Liszt, and Brahms. "Waldstein" is not just a piano sonata but a key contribution to the evolution of piano music, solidifying its place as an important work in Beethoven's oeuvre.
+
+## Performance and Reception
+
+Beethoven's Piano Sonata No. 21 "Waldstein" (Op. 53) was first performed in 1804, at a time when Beethoven had already gained recognition for his unique compositional style. The sonata drew attention for its bold structure and innovative musical language, marking an important development in his work.
+
+### Performance and Reception:
+
+1. **Initial Reception**  
+   At its premiere, "Waldstein" was well-received by the audience, largely due to its grand scale and Beethoven's growing reputation. The sonata's bold structure, dramatic energy, and lyrical moments left a strong impression. However, the technically complex passages may have posed challenges for performers of the time.
+
+2. **Critical Acclaim**  
+   Critics appreciated the sonata for its innovative qualities, particularly how Beethoven expanded the traditional sonata form and broadened emotional expression. It was praised for its balance of dramatic intensity and lyrical moments, and recognized as a key work that showcased Beethoven’s mature style and innovation within the sonata genre.
+
+3. **Long-term Reception**  
+   Over time, "Waldstein" became one of Beethoven's most celebrated piano works. It has solidified its place as a core piece in the standard piano repertoire and is frequently performed in concert halls worldwide. The sonata’s influence on later composers and its role in the development of the piano sonata genre have ensured its lasting significance in classical music.
+
+In conclusion, while the "Waldstein" Sonata initially posed technical challenges for performers, it was quickly recognized for its innovation and emotional depth. Today, it remains an essential work in the piano repertoire and a cornerstone of Beethoven's legacy.
+
+## Questions for Review
+
+Here are some questions to consider when reviewing Beethoven's Piano Sonata No. 21 "Waldstein" (Op. 53):
+
+1. **Compositional Techniques**: What innovative compositional techniques does Beethoven use in "Waldstein," and how do they differentiate this sonata from his earlier works?
+
+2. **Structural Analysis**: How does Beethoven expand on the traditional sonata form in "Waldstein"? What is the significance of the sonata's large-scale structure, particularly in the first and third movements?
+
+3. **Emotional Expression**: How does Beethoven balance dramatic intensity with lyrical moments in the sonata? What does this tell us about his emotional expression and artistic development at the time?
+
+4. **Technical Demands**: What are the key technical challenges posed by this sonata for pianists, and how do these challenges contribute to the overall impact of the work?
+
+5. **Harmonic and Thematic Development**: How does Beethoven explore harmonic and thematic development in "Waldstein"? What role do dissonance and harmonic innovation play in the sonata?
+
+6. **Influence on Later Composers**: How did "Waldstein" influence later composers, particularly in terms of piano technique and sonata composition?
+
+7. **Performance Interpretations**: How might different pianists interpret the "Waldstein" Sonata? What are the key interpretative decisions a performer must make when approaching this work?
+
+8. **Historical Context**: What was the reception of the sonata at its premiere, and how did it fit into the larger context of Beethoven's work during this period?
+
+These questions will help you engage deeply with the piece, analyzing both its technical details and its broader artistic significance.
+
+## Guides for Further Studies
+
+ **Guide for Further Study of Beethoven's Piano Sonata No. 21 "Waldstein":**
+
+1. **Analysis of Composition Techniques and Structure**: Analyze the expansion of sonata form and theme development. Look at the two contrasting themes in the first movement, the lyrical elements in the second, and the lively nature of the third movement.
+
+2. **Emotional Expression and Interpretation**: Consider how to balance the dramatic sections and lyrical moments. Listen to different interpretations by various pianists and reflect on how they approach the piece.
+
+3. **Technical Challenges**: Practice fast passages, complex harmonies, and independent hand movements. Focus especially on playing fast tempos and executing delicate passages with precision.
+
+4. **Historical Context**: Understand how "Waldstein" marks a turning point in Beethoven's music and how it influenced later composers.
+
+5. **Critical Analysis**: Compare early reviews of the piece with modern critiques and explore how performers have evolved their interpretations over time.
+
+6. **Performance and Practice**: Observe live performances, develop your own interpretation, and solidify your understanding through practice and performance.
+
+This guide will help you efficiently study the key elements of the "Waldstein" Sonata, deepening your understanding of the work.
 
 
 That's cool. 

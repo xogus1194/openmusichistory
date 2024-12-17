@@ -109,6 +109,10 @@ As we explore these compositions, we invite readers to experience the varied sou
 - [*Kreisleriana*, Op. 16](schumann-kreisleriana.md) by [ziwonnnn](https://github.com/ziwonnnn)
 - [*Fantasie* in C major, Op. 17](schumann_fantasie.md) by [leeminji0110](https://github.com/leeminji0110)
 
+### Sergei Prokofiev
+- [Piano Sonata No.2 in d minor, Op.14](prokofiev-sonata-no.2.md) by [Midda](https://github.com/Midda)
+
+  
 ---
 
 ## Works (by periods)
