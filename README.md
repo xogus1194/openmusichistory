@@ -114,7 +114,7 @@ As we explore these compositions, we invite readers to experience the varied sou
 
 ### Robert Schumann
 - [*Fantasie* in C major, Op. 17](schumann_fantasie.md) by [leeminji0110](https://github.com/leeminji0110)
-- [*Fantasie* in C major, Op. 17](schumann-fantasie.md) by [xogus1194](https://github.com/xogus1194)
+- [*Fantasie* in C major, Op. 17](schumann_fantasie_op17.md) by [xogus1194](https://github.com/xogus1194)
 - [*Kreisleriana*, Op. 16](schumann-kreisleriana.md) by [ziwonnnn](https://github.com/ziwonnnn)
 
 ---
@@ -150,7 +150,7 @@ As we explore these compositions, we invite readers to experience the varied sou
 
 ### Robert Schumann
 - [*Fantasie* in C major, Op. 17](schumann_fantasie.md) by [leeminji0110](https://github.com/leeminji0110)
-- [*Fantasie* in C major, Op. 17](schumann-fantasie.md) by [xogus1194](https://github.com/xogus1194)
+- [*Fantasie* in C major, Op. 17](schumann_fantasie_op17.md) by [xogus1194](https://github.com/xogus1194)
 - [*Kreisleriana*, Op. 16](schumann-kreisleriana.md) by [ziwonnnn](https://github.com/ziwonnnn)
 
 ### Gustav Mahler
